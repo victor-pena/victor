@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Landscape restoration and artificial societies represented as complex systems and interpreted by radical geography
 domain: victor-pena.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 
-baseurl: "/victorpg" # the subpath of your site, e.g. /blog
+baseurl: "/victor" # the subpath of your site, e.g. /blog
 url: "https://victor-pena.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rreboluhsiont
 github_username:  victor-pena
@@ -34,7 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-destination: ./docs
+#destination: ./docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
