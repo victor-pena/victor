@@ -30,7 +30,7 @@ twitter_username: rreboluhsiont
 github_username:  victor-pena
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
