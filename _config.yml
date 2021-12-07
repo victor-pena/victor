@@ -34,7 +34,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
-destination: ./docs
+#destination: ./docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
