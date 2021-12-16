@@ -14,7 +14,7 @@ La geografia radical provee los instrumentos conceptuales para abordar este estu
 
 Otro enfoque continuamente presente en la interpretacion y la gestion de estos paisajes es el llamado ordenamiento territorial. Este tiene su fundamento primero en la concepcion mecanicista de tratar al paisaje como un objeto inerte que puede ser modificado a partir de su estudio cientifico. Bajo esta premisa se destinan recursos para plasmar ideas a traves de normas que designan usos especificos a porciones del paisaje identificadas por poseer algun atributo o valor especifico dentro de una concepcion generalmente justificada por el llamado bien comun.
 
-![](independencia.jpg)
+![](_site/assets/independencia.jpg)
 *Source: GoogleEarth (2021)*
 
 De este modo la gestion se hace operativa a traves del concepto de territorio entendido como el espacio donde se ejerce soberania. En los estados modernos este espacio esta delimitado por bordes administrativos dentro de los cuales se implementarian las politicas, estrategias y programas resultantes de esta vision de control restrictivo.
