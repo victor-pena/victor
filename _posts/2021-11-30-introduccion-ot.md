@@ -6,7 +6,7 @@ title: "Introduccion al curso ordenamiento territorial"
 categories: updates
 ---
 
-## Auto-organizacion 
+## Auto-organizacion
 
 Observando la estructura espacial de los paisajes donde se realiza actividad humana en el Peru, especialmente en las ciudades, se puede observar un patron particular de crecimiento organico.
 El curso[^1] busca descifrar las funciones subyacentes que generan y mantienen esa estructura.
@@ -14,7 +14,7 @@ La geografia radical provee los instrumentos conceptuales para abordar este estu
 
 Otro enfoque continuamente presente en la interpretacion y la gestion de estos paisajes es el llamado ordenamiento territorial. Este tiene su fundamento primero en la concepcion mecanicista de tratar al paisaje como un objeto inerte que puede ser modificado a partir de su estudio cientifico. Bajo esta premisa se destinan recursos para plasmar ideas a traves de normas que designan usos especificos a porciones del paisaje identificadas por poseer algun atributo o valor especifico dentro de una concepcion generalmente justificada por el llamado bien comun.
 
-![](_site/assets/independencia.jpg)
+![Figura: Independencia, Lima](_site/assets/independencia.jpg)
 *Source: GoogleEarth (2021)*
 
 De este modo la gestion se hace operativa a traves del concepto de territorio entendido como el espacio donde se ejerce soberania. En los estados modernos este espacio esta delimitado por bordes administrativos dentro de los cuales se implementarian las politicas, estrategias y programas resultantes de esta vision de control restrictivo.
@@ -31,4 +31,4 @@ El reconocimiento de la imposibilidad de controlar esos complejos sistemas terri
 
 ---
 
-[^1]: Ordenamiento Territorial es un curso dictado en la Facultad de Ingenieria Agricola de la Universidad Nacional Agraria La Molina
+[^1]: Ordenamiento Territorial es un curso dictado en la Facultad de Ingenieria Agricola de la Universidad Nacional Agraria La Molina.
