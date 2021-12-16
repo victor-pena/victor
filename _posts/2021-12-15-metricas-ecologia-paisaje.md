@@ -11,7 +11,7 @@ Los indicadores de ecologia del paisaje cuantifican las caracteristicas geometri
 
 # Metodo
 
-A continuacion se presenta el proceso para el calculo de algunas metricas, empleando el programa R y paquetes que se indican dentro de la secuencia.
+A continuacion se presenta el proceso para el calculo de algunas metricas, empleando el programa R y paquetes que se indican dentro de la secuencia. Se requiere un archivo vectorial en formato shape representando la capa de vegetacion (o ecosistema).
 
 # Procedimiento
 
@@ -19,9 +19,27 @@ A continuacion se presenta el proceso para el calculo de algunas metricas, emple
 
 ## 1.1 Folder de trabajo
 
-### Identificar la direccion
+Identificar la direccion
 
 ```{r}
 getwd()
 
+```
+
+## 1.2 Cargar el paquete rgdal
+
+```{r}
+library(rgdal)
+```
+
+## 1.3 Leer el shape
+
+```{r}
+bosques <- readOGR(dsn="/Users/victorpena/Documents/work/unalm/courses/pyr/taller/maps/Bm-oca_tres.shp")
+```
+## 1.4 Mostrar shape
+
+(Datos)
+```{r}
+bosques
 ```
