@@ -10,4 +10,4 @@ Some brief statement regarding two definitions. First, restoration means ecologi
 
 Meanwhile, landscape concept is developed following J.B. Jackson tradition, this way is employed to disentangle perceived situations about either socio-spatial and ecological processes.
 
-Finally, this page is hosted in GitHub because it provides a free repository of text and code to share.
+Finally, this page is hosted in GitHub because it provides a free repository for text and code to share.
