@@ -23,7 +23,7 @@ It is the urbanization process that sets the ground for the ongoing debate betwe
 ## Emerging regimes of flexible accumulation
 
 Non-regulated land market, self-build housing and cooperative  road construction and management, allows capital acumulation between households and businesses across the periphery of Lima. As their assets consolidates their value grows. Long term policy by municipal and governmental agencies along with investments by private agents (legal and illegal) are providing these marginal places with basic services.
-By now this state-backed regime continues-on as the extension of the law providing them property deeds has been approved in the Peruvian parliament. This follows long tradition of State support from prime minister Beltran in the late 1950s, well described by the work of Turner in the 1970s, becoming in what De Soto (1986, 2001)[^2] ploclaimed to be the emergence of small proprietors. This discourse where the political agenda meets technical practice of supporting informal settlement consolidation, could find an explanation within the realm of postmodern critical geography. Empirical observation suggest that society is organizing spatially in Lima as housing space is becoming a commodity at least in the periphery.
+By now this state-backed regime continues-on as the extension of the law providing them property deeds has been approved in the Peruvian parliament. This follows long tradition of State support from prime minister Beltran in the late 1950s, well described by the work of Turner in the 1970s, becoming in what De Soto (1986, 2001)[^2] [^3] proclaimed to be the emergence of small proprietors. This discourse where the political agenda meets technical practice of supporting informal settlement consolidation, could find an explanation within the realm of postmodern critical geography. Empirical observation suggest that society is organizing spatially in Lima as housing space is becoming a commodity at least in the periphery.
 
 ### References
 
@@ -31,4 +31,4 @@ By now this state-backed regime continues-on as the extension of the law providi
 
 [^2]: de Soto, Hernando. 1986. The Other Path. London: I.B. Tauris & Co Ltd.
 
-_____. 2001. The Mystery of Capital. London: Bantam Press.
+[^3]: _____. 2001. The Mystery of Capital. London: Bantam Press.
