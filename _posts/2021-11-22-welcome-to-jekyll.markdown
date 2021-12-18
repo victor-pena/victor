@@ -4,7 +4,7 @@ title:  "Welcome!"
 date:   2021-11-22 16:52:30 +0900
 categories: 
 ---
-This webpage is made to communicate research and to discuss about the topics of landscape restoration and informal urbanization mainly. Text and figures are going to be posted presenting contemporary issues related to the economic and politic context where the above mentioned topics are being installed. The city of Lima is going to be the common setting where the activities take place. All the presented themes and discussions are confronted to radical geography theory.
+This webpage is made to communicate research and to discuss about the topics of landscape restoration and informal urbanization mainly. Text and figures are going to be posted presenting contemporary issues related to the economic and politic context where the above mentioned topics are being installed. The city of Lima and the Peruvian highlands are going to be the common setting where the human activities are observed. All the presented themes and discussions are confronted to radical geography theory.
 
 Some brief statement regarding two definitions. First, restoration means ecological recovering of ecosystem services. Second, artificial society is the computational representation of interacting social agents. What is common to both fields is the recognition that structure influences function and viceversa.
 
