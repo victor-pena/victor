@@ -6,7 +6,7 @@ title: "Desarrollismo y globalismo"
 categories: updates
 ---
 
-Pike et al. (2006)[^1] proponen dos etapas en la secuencia de desarrollo regional durante la segunda mitad del siglo 20: desarrollismo y globalismo. Empleando estas categorias en la evolucion de las iniciativas de desarrollo rural implementadas por el estado peruano permite, tanto estructurar una secuencia historica coherente, desde los años 1960 hasta la actualidad, como comparar la evolución con la trayectoria de crecimiento económico del pais.
+Pike et al. (2006)[^1] proponen dos etapas en la secuencia de desarrollo regional durante la segunda mitad del siglo 20: desarrollismo y globalismo. El empleo de estas categorías en la evolución de las iniciativas de desarrollo rural, implementadas por el estado peruano permite, tanto estructurar una secuencia historica coherente, desde los años 1960 hasta la actualidad, como comparar la evolución con la trayectoria de crecimiento económico del pais.
 
 Para describir la primera etapa (desarrollismo) se puede mencionar el caso de la comunidad campesina de Vicos en Ancash (Figura 1). Este fue un proyecto de asistencia técnica que tuvo como objetivo el incremento de la productividad, considerando siempre la presencia del mercado. El experimento fue llevado a cabo por el Departamento de Sociologia de la Universidad de Cornell. Un elemento importante de la propuesta de desarrollo en este periodo considera que las decisiones, acerca de las áreas donde son necesarias las intervenciones, son tomadas en el organismo central.
 
