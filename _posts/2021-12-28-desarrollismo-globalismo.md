@@ -22,7 +22,7 @@ territorial rural en la sierra" (Estrategia Nacional de Desarrollo Rural 2006).
 Es interesante identificar una transición entre ambas etapas cuyo periodo puede circunscribirse entre las decadas de 1980 y 1990. Durante la transicion ocurre la crisis de la deuda externa que da lugar a las reformas económicas implementadas durante el gobierno del presidente Fujimori siguiendo los lineamientos del Consenso de Washington. La experiencia de la transicion cobra relevancia al sustentar las propuestas del globalismo, sobretodo la relacionadas a la competitividad y el enfoque local. El contexto económico de ambas etapas y de la transicion se pueden visualizar en el grafico de cambio de PBI por habitante (Figura 2).
 
 ![PBI, 1960-2020]({{ "/assets/pbi.jpg" | relative_url }})
-*Figura 2 (Fuente: INEI y BCRP 2017)*
+*Figura 2 (Fuente: INEI y BCRP 2018)*
 
 ### References
 
