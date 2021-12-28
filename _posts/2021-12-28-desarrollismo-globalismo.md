@@ -6,7 +6,7 @@ title: "Desarrollismo y globalismo"
 categories: updates
 ---
 
-Pike (2006) propone dos etapas en la secuencia de desarrollo regional durante la segunda mitad del siglo 20: desarrollismo y globalismo. Empleando estas categorias en la evolucion de las iniciativas de desarrollo rural implementadas por el estado peruano permite tanto estructurar una secuencia historica coherente, desde los años 1960 hasta la actualidad, como compararlo con el desarrollo económico.
+Pike et al. (2006)[^1] proponen dos etapas en la secuencia de desarrollo regional durante la segunda mitad del siglo 20: desarrollismo y globalismo. Empleando estas categorias en la evolucion de las iniciativas de desarrollo rural implementadas por el estado peruano permite tanto estructurar una secuencia historica coherente, desde los años 1960 hasta la actualidad, como compararlo con el desarrollo económico.
 
 Para describir la primera etapa (desarrollismo) se puede mencionar el caso de la comunidad campesina de Vicos en Ancash (Figura 1). Este fue un proyecto de asistencia técnica que tuvo como objetivo el incremento de la productividad, considerando siempre la presencia del mercado. El experimento fue llevado a cabo por el Departamento de Sociologia de la Universidad de Cornell. Un elemento importante de la propuesta de desarrollo en este periodo considera que las decisiones, acerca de las áreas donde son necesarias las intervenciones, son tomadas en el organismo central.
 
@@ -14,7 +14,7 @@ Para describir la primera etapa (desarrollismo) se puede mencionar el caso de la
 
 *source: <http://www.vicosperu.cornell.edu>*
 
-La segunda etapa (globalismo)se inicia a inicios del presente siglo. Trivelli (2009) caracteriza este periodo a partir de la adopción de criterios no agrícolas sino rurales: desde lo sectorial (agrícola) hacia lo territorial (rural). El documento que provee el marco normativo a este periodo es la política de desarrollo rural en el Perú es la Estrategia Nacional de Desarrollo Rural (DS 065-2004-PCM). El enfoque de desarrollo rural durante el periodo de transicion se concibe una forma de planeamiento que considera un mayor acercamiento entre la administración pública, los gobiernos locales y las organizaciones de base en los
+La segunda etapa (globalismo)se inicia a inicios del presente siglo. Trivelli et al. (2009)[^2] caracteriza este periodo a partir de la adopción de criterios no agrícolas sino rurales: desde lo sectorial (agrícola) hacia lo territorial (rural). El documento que provee el marco normativo a este periodo es la política de desarrollo rural en el Perú es la Estrategia Nacional de Desarrollo Rural (DS 065-2004-PCM). El enfoque de desarrollo rural durante el periodo de transicion se concibe una forma de planeamiento que considera un mayor acercamiento entre la administración pública, los gobiernos locales y las organizaciones de base en los
 ámbitos de cuencas y valles. "La evolución se ha orientado a contribuir a una mejor gobernanza así
 como ser el punto de partida de nuevas estrategias de desarrollo
 territorial rural en la sierra" (Estrategia Nacional de Desarrollo Rural 2006).
@@ -23,3 +23,10 @@ Es interesante identificar una transición entre ambas etapas cuyo periodo puede
 
 ![PBI, 1960-2020]({{ "/assets/pbi.jpg" | relative_url }})
 *source: INEI, BCRP (2017)*
+
+### References
+
+[^1]: Andy Pike, Andrés Rodríguez-Pose and John Tomaney.2006. Local and regional development. London. Routledge.
+
+[^2]: Carolina Trivelli, Javier Escobal y Bruno Revesz. 2009. Desarrollo rural en la sierra: aportes para el debate.
+Lima, Cipca, Grade, IEP, Cies.
