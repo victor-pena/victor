@@ -10,4 +10,4 @@ Brief definitions regarding the two major studying topics. First, restoration me
 
 Meanwhile, the concept of landscape is developed following J.B. Jackson tradition, this way is employed to disentangle perceived situations about either socio-spatial and ecological processes.
 
-Finally, this page is hosted in GitHub because it provides a free repository for text and code to share.
+Finally, this page is hosted in GitHub because it provides a free repository for text and code to share. 
