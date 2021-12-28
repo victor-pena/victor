@@ -12,14 +12,14 @@ Para describir la primera etapa (desarrollismo) se puede mencionar el caso de la
 
 ![Vicos, Ancash]({{ "/assets/vicos2.jpg" | relative_url }})
 
-*Figura 1(Fuente: <http://www.vicosperu.cornell.edu>*
+*Figura 1 (Fuente: <http://www.vicosperu.cornell.edu>*
 
 La segunda etapa (globalismo)se inicia a inicios del presente siglo. Trivelli et al. (2009)[^2] caracteriza este periodo a partir de la adopción de criterios no agrícolas sino rurales: desde lo sectorial (agrícola) hacia lo territorial (rural). El documento que provee el marco normativo a este periodo es la política de desarrollo rural en el Perú es la Estrategia Nacional de Desarrollo Rural (DS 065-2004-PCM). El enfoque de desarrollo rural durante el periodo de transicion se concibe una forma de planeamiento que considera un mayor acercamiento entre la administración pública, los gobiernos locales y las organizaciones de base en los
 ámbitos de cuencas y valles. "La evolución se ha orientado a contribuir a una mejor gobernanza así
 como ser el punto de partida de nuevas estrategias de desarrollo
 territorial rural en la sierra" (Estrategia Nacional de Desarrollo Rural 2006).
 
-Es interesante identificar una transición entre ambas etapas cuyo periodo puede circunscribirse entre las decadas de 1980 y 1990. Durante la transicion ocurre la crisis de la deuda externa que da lugar a las reformas económicas implementadas durante el gobierno del presidente Fujimori siguiendo los lineamientos del Consenso de Washington. La experiencia de la transicion cobra relevancia al sustentar las propuestas del globalismo, sobretodo la relacionadas a la competitividad y el enfoque local. El contexto económico de ambas etapas y de la transicion se pueden visualizar en el grafico de cambio de PBI (Figura 2).
+Es interesante identificar una transición entre ambas etapas cuyo periodo puede circunscribirse entre las decadas de 1980 y 1990. Durante la transicion ocurre la crisis de la deuda externa que da lugar a las reformas económicas implementadas durante el gobierno del presidente Fujimori siguiendo los lineamientos del Consenso de Washington. La experiencia de la transicion cobra relevancia al sustentar las propuestas del globalismo, sobretodo la relacionadas a la competitividad y el enfoque local. El contexto económico de ambas etapas y de la transicion se pueden visualizar en el grafico de cambio de PBI por habitante (Figura 2).
 
 ![PBI, 1960-2020]({{ "/assets/pbi.jpg" | relative_url }})
 *Figura 2 (Fuente: INEI y BCRP 2017)*
