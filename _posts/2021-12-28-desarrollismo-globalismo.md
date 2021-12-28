@@ -28,5 +28,4 @@ Es interesante identificar una transición entre ambas etapas cuyo periodo puede
 
 [^1]: Andy Pike, Andrés Rodríguez-Pose and John Tomaney.2006. Local and regional development. London. Routledge.
 
-[^2]: Carolina Trivelli, Javier Escobal y Bruno Revesz. 2009. Desarrollo rural en la sierra: aportes para el debate.
-Lima, Cipca, Grade, IEP, Cies.
+[^2]: Carolina Trivelli, Javier Escobal y Bruno Revesz. 2009. Desarrollo rural en la sierra: aportes para el debate. Lima, Cipca, Grade, IEP, Cies.
