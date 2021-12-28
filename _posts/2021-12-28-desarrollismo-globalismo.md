@@ -6,7 +6,7 @@ title: "Desarrollismo y globalismo"
 categories: updates
 ---
 
-Pike et al. (2006)[^1] proponen dos etapas en la secuencia de desarrollo regional durante la segunda mitad del siglo 20: desarrollismo y globalismo. Empleando estas categorias en la evolucion de las iniciativas de desarrollo rural implementadas por el estado peruano permite tanto estructurar una secuencia historica coherente, desde los años 1960 hasta la actualidad, como compararlo con el desarrollo económico.
+Pike et al. (2006)[^1] proponen dos etapas en la secuencia de desarrollo regional durante la segunda mitad del siglo 20: desarrollismo y globalismo. Empleando estas categorias en la evolucion de las iniciativas de desarrollo rural implementadas por el estado peruano permite, tanto estructurar una secuencia historica coherente, desde los años 1960 hasta la actualidad, como comparar la evolución con la trayectoria de crecimiento económico del pais.
 
 Para describir la primera etapa (desarrollismo) se puede mencionar el caso de la comunidad campesina de Vicos en Ancash (Figura 1). Este fue un proyecto de asistencia técnica que tuvo como objetivo el incremento de la productividad, considerando siempre la presencia del mercado. El experimento fue llevado a cabo por el Departamento de Sociologia de la Universidad de Cornell. Un elemento importante de la propuesta de desarrollo en este periodo considera que las decisiones, acerca de las áreas donde son necesarias las intervenciones, son tomadas en el organismo central.
 
@@ -21,7 +21,7 @@ El enfoque de desarrollo rural durante el periodo de transicion se concibe una f
 ámbitos de cuencas y valles. "La evolución se ha orientado a contribuir a una mejor gobernanza así
 como ser el punto de partida de nuevas estrategias de desarrollo
 territorial rural en la sierra" (Estrategia Nacional de Desarrollo Rural 2004).
-Durante la transicion ocurre la crisis de la deuda externa que da lugar a las reformas económicas implementadas durante el gobierno del presidente Fujimori siguiendo los lineamientos del Consenso de Washington. La experiencia de la transicion cobra relevancia al sustentar las propuestas del globalismo, sobretodo la relacionadas a la competitividad y el enfoque local. El contexto económico de ambas etapas y de la transicion se pueden visualizar en el grafico de cambio de PBI por habitante (Figura 2).
+Durante la transicion ocurre la crisis de la deuda externa que da lugar a las reformas económicas implementadas durante el gobierno del presidente Fujimori siguiendo los lineamientos del Consenso de Washington. La experiencia de la transicion cobra relevancia al sustentar las propuestas del globalismo, sobretodo la relacionadas a la competitividad y el enfoque local. El contexto económico a lo largo de ambas etapas y la transicion se puede visualizar en el gráfico del PBI por habitante (Figura 2).
 
 ![PBI, 1960-2020]({{ "/assets/pbi.jpg" | relative_url }})
 *Figura 2 (Fuente: INEI y BCRP 2018)*
