@@ -20,7 +20,7 @@ La transición, entre la etapas mencionadas lineas arriba, puede circunscribirse
 El enfoque de desarrollo rural durante el periodo de transicion se concibe una forma de planeamiento que considera un mayor acercamiento entre la administración pública, los gobiernos locales y las organizaciones de base en los
 ámbitos de cuencas y valles. "La evolución se ha orientado a contribuir a una mejor gobernanza así
 como ser el punto de partida de nuevas estrategias de desarrollo
-territorial rural en la sierra" (Estrategia Nacional de Desarrollo Rural 2006).
+territorial rural en la sierra" (Estrategia Nacional de Desarrollo Rural 2004).
 Durante la transicion ocurre la crisis de la deuda externa que da lugar a las reformas económicas implementadas durante el gobierno del presidente Fujimori siguiendo los lineamientos del Consenso de Washington. La experiencia de la transicion cobra relevancia al sustentar las propuestas del globalismo, sobretodo la relacionadas a la competitividad y el enfoque local. El contexto económico de ambas etapas y de la transicion se pueden visualizar en el grafico de cambio de PBI por habitante (Figura 2).
 
 ![PBI, 1960-2020]({{ "/assets/pbi.jpg" | relative_url }})
