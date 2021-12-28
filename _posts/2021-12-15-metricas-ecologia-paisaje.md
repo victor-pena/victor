@@ -7,6 +7,7 @@ categories: updates
 ---
 
 # Resumen
+
 Los indicadores de ecologia del paisaje cuantifican las caracteristicas geometricas de los componentes del mosaico heterogeneo. Los valores resultantes proveen informacion acerca de la configuracion espacial y composicion de los fragmentos y clases. El analisis de estos datos permite inferir las funciones ecosistemicas resultantes. Estos indicadores fundamentan la evaluacion de la condicion del mosaico y sustentan las propuestas de diseño.
 
 # Metodo
@@ -37,9 +38,11 @@ library(rgdal)
 ```{r}
 bosques <- readOGR(dsn="/Users/victorpena/Documents/work/unalm/courses/pyr/taller/maps/Bm-oca_tres.shp")
 ```
+
 ## 1.4 Mostrar shape
 
 (Datos)
+
 ```{r}
 bosques
 ```
@@ -57,7 +60,6 @@ Grafico
 ```{r}
 plot(bosques)
 ```
-
 
 # 2. Rasterizar
 
@@ -80,14 +82,13 @@ remotes::install_github("rspatial/terra")
 install.packages("terra")
 ```
 
-
 ```{r}
 library(terra)
 library(raster)
 library(maptools)
 ```
 
-##2.2 Creacion de la malla en blanco
+## 2.2 Creacion de la malla en blanco
 
 ```{r}
 blank_raster <- raster(nrow = 1000, ncol = 1000, extent(bosques))
@@ -103,20 +104,17 @@ bosques_raster[!(is.na(bosques_raster))] <- 1
 plot(bosques_raster, legend=FALSE)
 ```
 
-
 ## 2.4 Guardar con un nombre
 
 ```{r}
 writeRaster(bosques_raster, "bosques_raster1000.tif", overwrite=TRUE)
 ```
 
-
-
 # 3. Calculo de indicadores
 
 ## 3.1 Paquetes landscapemetrics, sf y dplyr
 
-Referencia paquete "landscapemetrics": https://r-spatialecology.github.io/landscapemetrics/index.html
+Referencia paquete "landscapemetrics": <https://r-spatialecology.github.io/landscapemetrics/index.html>
 
 ```{r}
 library(landscapemetrics)     # landscape metrics calculation
@@ -127,7 +125,7 @@ library(dplyr)                # data manipulation
 library(rgeos)
 ```
 
-## Lista de las metricas
+### Lista de las metricas
 
 ```{r}
 list_lsm(
@@ -141,7 +139,7 @@ list_lsm(
 )
 ```
 
-## Verificacion del archivo raster
+### Verificacion del archivo raster
 
 ```{r}
 check_landscape(bosques_raster)
@@ -162,81 +160,80 @@ plot(bosques_raster)
 plot(my_grid, add = TRUE)
 ```
 
-# Referencia para la descripcion de los indices (FRAGSTATS Metrics):
-http://www.umass.edu/landeco/research/fragstats/documents/Metrics/Metrics%20TOC.htm
+#### Referencia para la descripcion de los indices (FRAGSTATS Metrics)
+
+<http://www.umass.edu/landeco/research/fragstats/documents/Metrics/Metrics%20TOC.htm>
 Fuente: Landscape Ecology Lab at UMass Amherst (McGarigal). El Dr. McGarigal no trabaja actualmente en UMass Amherst.
 
+## 3.4 Indices - escala de fragmento
 
-### 3.4 Indices - escala de fragmento
-
-#### 3.4.1 Areas (ha), en la escala de fragmento
+### 3.4.1 Areas (ha), en la escala de fragmento
 
 ```{r}
 a1 = sample_lsm(bosques_raster, my_grid, level = "patch", metric = "area")
 a1
 ```
 
-#### 3.4.2 Perimetros (m), en la escala de fragmento
+### 3.4.2 Perimetros (m), en la escala de fragmento
 
 ```{r}
 perimetro <- lsm_p_perim(bosques_raster)
 perimetro
 ```
 
-### 3.5 Indices, en la escala de clase
+## 3.5 Indices, en la escala de clase
 
 ```{r}
-	lsm_c_enn_mn(bosques)
+ lsm_c_enn_mn(bosques)
 ```
 
+### 3.5.1 area
 
-
-#### 3.5.1 area
 ```{r}
 ca = sample_lsm(bosques_raster, my_grid, level = "class", metric = "ca")
 ca
 ```
 
-#### 3.5.2 perimetro total a
+### 3.5.2 perimetro total a
 
 ```{r}
 te = sample_lsm(bosques_raster, my_grid, level = "class", metric = "te")
 te
 ```
 
-#### 3.5.3 Perimetro total b
+### 3.5.3 Perimetro total b
 
 ```{r}
 lsm_c_te(bosques_raster)
 ```
 
-#### 3.5.4 Vecino cercano
+### 3.5.4 Vecino cercano
 
 ```{r}
 lsm_l_enn_cv(bosques_raster)
 ```
 
-#### 3.5.5 densidad de fragmentos
+### 3.5.5 densidad de fragmentos
 
 ```{r}
 pd = sample_lsm(bosques_raster, my_grid, level = "class", metric = "pd")
 pd
 ```
 
-#### 3.5.6 indice de forma
+### 3.5.6 indice de forma
 
 ```{r}
 lsi = sample_lsm(bosques_raster, my_grid, level = "class", metric = "lsi")
 lsi
 ```
 
-#### 3.5.7 cohesion
+### 3.5.7 cohesion
 
 ```{r}
 lsm_c_cohesion(bosques_raster)
 ```
 
-### 3.6 Indices, en la escala de paisaje
+## 3.6 Indices, en la escala de paisaje
 
 ### 3.6.1 Area Total
 
@@ -245,6 +242,7 @@ lsm_l_ta(bosques_raster)
 ```
 
 ### 3.6.2 Numero de fragmentos
+
 ```{r}
 lsm_l_np(bosques_raster)
 ```
@@ -256,7 +254,6 @@ lsm_l_pd(bosques_raster)
 ```
 
 # 4. Edicion de los datos
-
 
 ```{r}
 write.csv(a1,"/Users/victorpena/Documents/work/unalm/courses/pyr/taller/notebooks/area_esc_frag.csv", row.names = FALSE)
@@ -285,7 +282,7 @@ p <- ggplot(data, aes(x=value)) +
 p
 ```
 
-### 4.1.2 Tama\~no
+### 4.1.2 Tamaño
 
 ```{r}
 # A really basic boxplot.
