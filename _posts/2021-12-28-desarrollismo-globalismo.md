@@ -12,7 +12,7 @@ Para describir la primera etapa (desarrollismo) se puede mencionar el caso de la
 
 ![Vicos, Ancash]({{ "/assets/vicos2.jpg" | relative_url }})
 
-*Figura 1 (Fuente: <http://www.vicosperu.cornell.edu>*
+*Figura 1 (Fuente: <https://vicosperu.cornell.edu>*
 
 La segunda etapa (globalismo)se inicia a inicios del presente siglo. Podemos tomar como referencia a Trivelli et al. (2009)[^2] para caracterizar este periodo. Estos autores refieren un enfoque llamado "Nueva Ruralidad", que se define a partir de la adopción de criterios no agrícolas sino rurales: desde lo sectorial (agrícola) hacia lo territorial (rural). El documento que provee el marco normativo a este periodo es la política de desarrollo rural en el Perú es la Estrategia Nacional de Desarrollo Rural (DS 065-2004-PCM). 
 
