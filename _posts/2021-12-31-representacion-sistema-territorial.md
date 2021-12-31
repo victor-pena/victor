@@ -22,13 +22,13 @@ A lo largo de la evolución de la cultura peruana, desde hace 5000 años, han ap
 
 El diseño actual de las instituciones del Estado, viene permitiendo una autonomía cada vez mayor de las jurisdicciones administrativas en la escala regional y local. A partir del año 2002, con la modificacion de la Constitucion referida al capitulo de descentralizacion, este proceso ha venido siendo implementado por los diferentes gobiernos nacionales, es decir se ha constituido en una politica de Estado. En tal sentido, Dammert (2003) definió a la descentralización como la “reubicación de los roles y funciones del Estado al expresar la voluntad colectiva de la ciudadanía".
 
-La evolucion que viene operando en el sistema territorial puede operar en tanto su estructura lo permita. Una forma de representar esta estructura y funcionamiento es haciendo uso del concepto de sistema complejo adaptativo.
+La evolución que viene operando en el sistema territorial puede operar en tanto su estructura lo permita. Una forma de representar esta estructura y funcionamiento es haciendo uso del concepto de sistema complejo adaptativo.
 
-## Un modelo: el sistema policentrico de gobernanza
+## Un modelo: el sistema policéntrico de gobernanza
 
 El sistema delineado lineas arriba, puede considerarse analogo al que Ostrom et al. (1961) identifican y describen inicialmente empleando el concepto de policentricidad: una forma de organización caracterizada por tener una estructura compuesta por multiples unidades políticas superpuestas que interaccionan entre ellas.
 Este tipo de sistema tambien esta compuesto de actores autonomos emergentes, que operan para gestionar recursos comunes.
 
-Esta teoría establece que una estructura descentralizada, con relaciones competitivas y de cooperación entre las unidades autónomas, provee de una mayor eficiencia en la producción y la provision de bienes y servicios públicos. Esta aseveración requiere comprobarse al menos en el caso peruna bajo condiciones de gestión del presupuesto público en el nivel municipal.
+Esta teoría establece que una estructura descentralizada, con relaciones competitivas y de cooperación entre las unidades autónomas, provee de una mayor eficiencia en la producción y la provision de bienes y servicios públicos. Esta aseveración requiere comprobarse, al menos en el caso peruano, bajo condiciones de gestión del presupuesto público en el nivel municipal.
 
-Finalmente ¿se puede emplear el modelo policentrico para representar las gestión territorial en el Perú? Pienso que si, pues provee una primera aproximación y una herramienta operativa que describe con precisión tanto la estructura, como el funcionamiento del sistema, y por tanto permite su analisis y quizás su evaluación.
+Finalmente ¿se puede emplear el modelo policéntrico para representar las gestión territorial en el Perú? Pienso que si, pues provee una primera aproximación y una herramienta operativa que describe con precisión tanto la estructura, como el funcionamiento del sistema, y por tanto permite su analisis y quizás su evaluación.
