@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Representacion del sistema territorial"
+title: "Una representacion del sistema territorial"
 date:   2021-12-31 16:52:30 +0900
 #permalink: /hello-world/
 categories: updates
