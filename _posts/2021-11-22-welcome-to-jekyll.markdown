@@ -8,6 +8,6 @@ This webpage is made to communicate research and to discuss about the topics of 
 
 Brief definitions regarding the two major studying topics. First, restoration means ecological recovering of ecosystem functions and services. Second, artificial society is the computational representation of interacting social agents. What is common to both fields is the recognition that structure influences function and viceversa.
 
-Meanwhile, the concept of landscape is developed following J.B. Jackson tradition, this way is employed to disentangle perceived situations about either socio-spatial and ecological processes.
+Meanwhile, the concept of landscape is developed following J.B. Jackson tradition; this way is employed to disentangle perceived situations about either socio-spatial and ecological processes. My approach is largely urban-centered and thus influenced by the analysis of Henry Lefebvre.
 
 Finally, this page is hosted in GitHub because it provides a free repository for text and code to share. 
