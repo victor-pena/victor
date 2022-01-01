@@ -14,7 +14,7 @@ El estado moderno liberal, cuyo modelo se aplica a la Republica del Perú, se co
 
 El espacio socialmente producido en el estado se organiza jerarqucamente en tres escalas: el pais, las regiones y los gobiernos locales. Estas escalas estructuran la subdivision administrativa que delimita el espacio, donde las instituciones tienen influencia en las decisiones de sus habitantes. De este modo el territorio puede definirse como el espacio donde se ejerce soberania (Elden 2013).
 
-Naturalmente la soberania del espacio y sus recursos siempre  esta en disputa entre los actores sociales, incluyendo el Estado, quienes negocian, compiten o cooperan. De este modo la estructura y la forma del espacio que emerge a partir de estas relaciones sociales es dinamica y a su modificacion se adapta a su vez la sociedad.
+Naturalmente la soberania del espacio y sus recursos siempre  esta en disputa entre los actores sociales, incluyendo el Estado, quienes negocian, compiten o cooperan. De este modo la estructura y la forma del espacio que emerge a partir de estas relaciones sociales es dinamica y, a su transformación evolutiva, se adapta a su vez la sociedad.
 
 ## El sistema territorial descentralizado
 
@@ -31,4 +31,4 @@ Este tipo de sistema tambien esta compuesto de actores autonomos emergentes, que
 
 Esta teoría establece que una estructura descentralizada, con relaciones competitivas y de cooperación entre las unidades autónomas, provee de una mayor eficiencia en la producción y la provision de bienes y servicios públicos. Esta aseveración requiere comprobarse, al menos en el caso peruano, bajo condiciones de gestión del presupuesto público en el nivel municipal.
 
-Finalmente ¿se puede emplear el modelo policéntrico para representar las gestión territorial en el Perú? Pienso que si, pues provee una primera aproximación y una herramienta operativa que describe con precisión tanto la estructura, como el funcionamiento del sistema, y por tanto permite su analisis y quizás su evaluación.
+Finalmente ¿se puede emplear el modelo policéntrico para representar la gestión territorial en el Perú? Pienso que si, pues provee una primera aproximación y una herramienta operativa que describe con cierta precisión tanto la estructura, como el funcionamiento y transformación del sistema, y por tanto permite su analisis y quizás su evaluación.
