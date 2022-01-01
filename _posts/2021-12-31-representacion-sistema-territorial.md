@@ -16,6 +16,10 @@ El espacio socialmente producido en el estado se organiza jerarqucamente en tres
 
 Naturalmente la soberania del espacio y sus recursos siempre  esta en disputa entre los actores sociales, incluyendo el Estado, quienes negocian, compiten o cooperan. De este modo la estructura y la forma del espacio que emerge a partir de estas relaciones sociales es dinamica y, a su transformación evolutiva, se adapta a su vez la sociedad.
 
+![La Molina, VMT]({{ "/assets/muro.jpg" | relative_url }})
+
+*Figura 1 (Fuente: <https://www.pj.gob.pe>*
+
 ## El sistema territorial descentralizado
 
 A lo largo de la evolución de la cultura peruana, desde hace 5000 años, han aparecido formas de estado que presentan tanto similitudes como diferencias al compararlo al actual sistema de estado liberal. Un atributo que ha sido registrado a traves de las excavaciones arqueológicas de los periodos Arcaico y Formativo, en la costa central peruana, es la posibilidad de una auto-organización en la gestion del territorio y recursos.
