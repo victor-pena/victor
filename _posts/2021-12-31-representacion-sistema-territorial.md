@@ -18,7 +18,7 @@ Naturalmente la soberania del espacio y sus recursos siempre  esta en disputa en
 
 ![La Molina, VMT]({{ "/assets/muro.jpg" | relative_url }})
 
-*Figura 1 (Fuente: <https://www.pj.gob.pe>*
+*Figura 1. Límite entre La Molina y VMT (Fuente: <https://www.pj.gob.pe>)*
 
 ## El sistema territorial descentralizado
 
