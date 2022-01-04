@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introduccion al curso ordenamiento territorial"
+author: "Victor Peña Guillen"
 #date:   2021-11-30 16:52:30 +0900
 #permalink: /hello-world/
 categories: updates

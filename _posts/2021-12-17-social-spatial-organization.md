@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The social organization in space or the spatial organization in society"
+author: "Victor Peña Guillen"
 #date:   2021-12-15 16:52:30 +0900
 #permalink: /hello-world/
 categories: updates

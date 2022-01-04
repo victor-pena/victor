@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Una representacion del sistema territorial"
+author: "Victor Peña Guillen"
 date:   2021-12-31 16:52:30 +0900
 #permalink: /hello-world/
 categories: updates

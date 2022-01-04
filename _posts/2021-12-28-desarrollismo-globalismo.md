@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Desarrollismo y globalismo"
+author: "Victor Peña Guillen"
 #date:   2021-12-15 16:52:30 +0900
 #permalink: /hello-world/
 categories: updates

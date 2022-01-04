@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On the new axioms for reading the landscape by Mitchell (2008)"
+author: "Victor Peña Guillen"
 #date:   2021-11-30 16:52:30 +0900
 #permalink: /hello-world/
 categories: updates
