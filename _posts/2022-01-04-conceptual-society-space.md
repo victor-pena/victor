@@ -10,7 +10,7 @@ categories: updates
 
 "To what degree do spatial patterns determine social relations" (Collinge 2005)[^1]. Regarding this issue and its problematic I could argue that the duality may present a dynamic behavior. 
 
-Under some conditions each of these elements could face unexpected changing material conditions of equivalent or assimetric structure that influence the shaping of the other. Thes conditions are not only the given "historical ensemble" that is shaping space under the influence of society, as Castells sugest but it operates in the opposite direction as well.
+Under some conditions each of these elements could face unexpected changing material conditions of equivalent or assimetric structure that influence the shaping of the other. These conditions are not only the given "historical ensemble" that is shaping space under the influence of society, as Castells sugest, but it operates in the opposite direction as well.
 
 Moreover, the realization of either social or spatial aspect surely depends of the economic circumstances or non-linear (turbulent) flow of capital. 
 Therefore the ackowledge of "the spatiality of social relations" (Collinge 2005) can be complemented by the study of the sociality of spatial relations of production.
