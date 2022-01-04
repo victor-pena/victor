@@ -13,7 +13,7 @@ categories: updates
 Under some conditions each of these elements could face unexpected changing material conditions of equivalent or assimetric structure that influence the shaping of the other. Thes conditions are not only the given "historical ensemble" that is shaping space under the influence of society, as Castells sugest but it operates in the opposite direction as well.
 
 Moreover, the realization of either social or spatial aspect surely depends of the economic circumstances or non-linear (turbulent) flow of capital. 
-Therefore the ackowledge of "the spatiality of social relations" (Collinge 2005) can be complemented by the study of the sociality of spatial relations.
+Therefore the ackowledge of "the spatiality of social relations" (Collinge 2005) can be complemented by the study of the sociality of spatial relations of production.
 
 ![Puerto de Matarani, Arequipa]({{ "/assets/puerto-matarani.jpg" | relative_url }})
 
