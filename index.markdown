@@ -5,5 +5,4 @@
 layout: home
 ---
 
-
-This is my blog on the becoming of landscape and the social production of urban space in Lima. It also includes short articles about the topics of the classes I teach at UNALM.
+This is my blog on the realization of landscape and the social production of urban space in Lima. It also includes short articles about the topics of the classes I teach at UNALM.
