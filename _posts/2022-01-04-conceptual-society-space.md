@@ -8,7 +8,7 @@ categories: updates
 
 ## Society in space or space in society
 
-"To what degree do spatial patterns determine social relations" (Collinge 2005)[^1]. Regarding this issue and its problematic I could argue that the duality may present a dynamic behavior. 
+"To what degree do spatial patterns determine social relations" (Collinge 2005)[^1]. Regarding this issue and its problematic I could argue that this socio-spatial duality may present a dynamic behavior, and thus influence the approaches to address and plan its operation.
 
 Under some conditions each of these elements could face unexpected changing material conditions of equivalent or assimetric structure that influence the shaping of the other. These conditions are not only the given "historical ensemble" that is shaping space under the influence of society, as Castells sugest, but it operates in the opposite direction as well.
 
