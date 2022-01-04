@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The dialectic of society and space"
+title: "The dialectics of society and space"
 date:   2022-01-04 16:52:30 +0900
 #permalink: /hello-world/
 author: "Victor Peña Guillen"
