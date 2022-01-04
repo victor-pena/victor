@@ -23,7 +23,7 @@ Therefore the ackowledge of "the spatiality of social relations" (Collinge 2005)
 
 Collinge (2005) explores the relationship between society and space by employing a concept at work: the scale. In its own words the scale analysis uses "a framework of spatial categories to illuminate social change". The dynamic character of this relationship is thus implicit. What does this framework inspires is its employ on the particular geographic and administrative levels of peruvian territorial operation.
 
-It may highlight the underlying mechanisms that operate between spaces at the local mining site, passing  across processing and logistic networks at regional, national and global scales and through its particular fiscal, environmental and financial schemes that support the functioning.
+It may highlight the underlying mechanisms that operate between spaces at the local mining site, passing  across processing and logistic networks at regional, national and global scales and through its particular fiscal, environmental and financial schemes that support and ease the functioning of the multiscale system.
 
 ## Planning
 
