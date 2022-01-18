@@ -21,7 +21,7 @@ Thus, the "spatial moment of control"[^2] over marginal land that is permiting c
 
 ## Territorial scale and territorial coherence of informal urban land
 
-Scale is(as) a form of territorial coherence, is a closed self-sufficient system that is implemented via the institutional-regulatory system [^2].
+Scale is/as a form of territorial coherence, it is a closed self-sufficient system that is implemented via the institutional-regulatory system [^2].
 
 Informal urbanization produces scale, it is a mechanism that rolls out independiently influencing institutions along the way towards physical and demographical limits. How much land is affordable to occupy? how many people will end up inhabiting lima metropolitan area? is there space or scales free to develop?
 
