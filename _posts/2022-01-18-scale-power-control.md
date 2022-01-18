@@ -11,7 +11,7 @@ categories: updates
 
 The social struggle between householders and mercantilist state that considers land as the source of value and power (votes). The social strategy of letting citizens occupy marginal land and allow incremental housing (Law extending property deeds)[^1], creates a new scale out of normative territorial control inside municipal boundaries.
 
-The process to afford housing under free market is also represented as the oposition to nature as the spaces are transforming seasonal cloud vegetation into permanent urban fabric. Therefore, the scale where expontaneous order emerges is multidimensional.
+The process to obtain a house under free market for citizens that can not afford it within the formal supply mechanism, is also driving them to modify the first nature in the surrounding foothills of Lima. Informal urbanization is transforming seasonal cloud vegetation into permanent urban fabric (a second nature). Therefore, the scale where expontaneous order emerges is multidimensional.
 
 Thus, the "spatial moment of control"[^2] over marginal land that allow citizens to afford housing, defines the scale of territory out of the control of social institutions and its values defined by social relationships at a given moment, which is in this case the stage of decentralized expansion of the city in the context of macro-economic growth in Lima.
 
