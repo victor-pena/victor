@@ -17,7 +17,7 @@ Thus, the "spatial moment of control"[^1] over marginal land that allow citizens
 
 ![El Ermitaño, Lima]({{ "/assets/ermitano.jpg" | relative_url }})
 
-*Figura. El Ermitaño, Lima (Fuente: Golda-Pongratz, publicado en El Pais<https://elpais.com/elpais/2019/02/08/seres_urbanos/1549624618_804523.html>)*
+*Figura. El Ermitaño, Lima (Fuente: Golda-Pongratz, publicado en El Pais <https://elpais.com/elpais/2019/02/08/seres_urbanos/1549624618_804523.html>)*
 
 ## Territorial scale and territorial coherence of informal urban land
 
