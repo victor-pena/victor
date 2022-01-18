@@ -27,7 +27,8 @@ Informal urbanization produces scale, it is a mechanism that rolls out independi
 
 This closed self-sufficient system is the one that generates expontaneous order in the land market under conditions resembling those of Hayek with an informal component as part of the institutional and regulatory system [^1] under capital circulation and accumulation across space. Therefore, Law 31056 "circunscribes the power of capital to command space" [^2] emerges as well as the realization of the process of informal urbanization, self-regulating the spatial and temporal extend of its operation: the scale.
 
-[^1]: Reglamento de la Ley Nº 31056, Law that extends the terms to give property rights for land occupied by informal possessions and dictates measures for its formalization. Enacted january 15th 2021.
+### References
 
+[^1]: Reglamento de la Ley Nº 31056, Law that extends the terms to give property rights for land occupied by informal possessions and dictates measures for its formalization. Enacted january 15th 2021.
 
 [^2]: Collinge (2005) citing Swyngedouw (1992)
