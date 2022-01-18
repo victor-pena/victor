@@ -9,7 +9,7 @@ categories: updates
 
 ## In between citizens and territory: the scale as spatial moment of control
 
-The social struggle between householders and mercantilist state considers the space (land) as the source of value and power (votes). The social strategy of letting citizens occupy marginal land and allow incremental housing (Law extending property deeds)[^1], creates a new scale out of normative territorial control inside municipal boundaries.
+The social struggle between householders and mercantilist state considers the space (land) as the source of value and power (votes). The social strategy of letting citizens occupy marginal land and allow incremental housing (Law extending property deeds)[^1], creates a new scale out of normative territorial control inside and beyond municipal boundaries.
 
 The process to obtain a house under free market for citizens that can not afford it within the formal supply mechanism, is also driving them to modify the first nature in the surrounding foothills of Lima. Informal urbanization is transforming seasonal cloud vegetation into permanent urban fabric (a second nature). Therefore, the scale where expontaneous order emerges is multidimensional.
 
