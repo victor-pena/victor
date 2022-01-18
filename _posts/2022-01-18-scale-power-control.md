@@ -25,7 +25,7 @@ Scale is(as) a form of territorial coherence, is a closed self-sufficient system
 
 Informal urbanization produces scale, it is a mechanism that rolls out independiently influencing institutions along the way towards physical and demographical limits. How much land is affordable to occupy? how many people will end up inhabiting lima metropolitan area? is there space or scales free to develop?
 
-This closed self-sufficient system is the one that generates expontaneous order in the land market under conditions resembling those of Hayek with an informal component as part of the institutional and regulatory system [^2] under capital circulation and accumulation across space. Therefore, Law 31056 "circunscribes the power of capital to command space" [^1] and influences the spatial and temporal extend of the informal occupation.
+This closed self-sufficient system is the one that generates expontaneous order in the land market under conditions resembling those of Hayek with an informal component as part of the institutional and regulatory system [^2] under capital circulation and accumulation across space. Therefore, Law 31056 "circunscribes the power of capital to command space" [^1] emerges as well as the realization of the process of informal urbanization, self-regulating the spatial and temporal extend of its operation: the scale.
 
 [^1]: Collinge (2005) citing Swyngedouw (1992)
 
