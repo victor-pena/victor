@@ -15,7 +15,7 @@ The process to afford housing under free market is also represented as the oposi
 
 Thus, the "spatial moment of control"[1] over marginal land that allow citizens to afford housing, defines the scale of territory out of the control of social institutions and its values defined by social relationships at a given moment, which is in this case the stage of decentralized expansion of the city in the context of macro-economic growth in Lima.
 
-![Puerto de Matarani, Arequipa]({{ "/assets/puerto-matarani.jpg" | relative_url }})
+![El Ermitaño, Lima]({{ "/assets/ermitano.jpg" | relative_url }})
 
 *Figura. El Ermitaño, Lima (Fuente: Golda-Pongratz, publicado en El Pais<https://elpais.com/elpais/2019/02/08/seres_urbanos/1549624618_804523.html>)*
 
