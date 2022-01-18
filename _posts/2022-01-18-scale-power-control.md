@@ -9,11 +9,11 @@ categories: updates
 
 ## In between citizens and territory: the scale as spatial moment of control
 
-The social struggle between householders and mercantilist state considers the space (land) as the source of value and power (votes). The social strategy of letting citizens occupy marginal land and allow incremental housing (Law extending property deeds)[^1], creates a new scale out of normative territorial control inside and beyond municipal boundaries.
+The social struggle between householders and mercantilist state considers the space (land) as the source of value and power (votes). The social strategy of letting citizens occupy marginal land and allow to lay spaces for incremental housing (Law extending property deeds)[^1], creates a new scale out of normative territorial control of municipal boundaries, which is beyond measurable cartesian space.
 
 The process to obtain a house under free market for citizens that can not afford it within the formal supply mechanism, is also driving them to modify the first nature in the surrounding foothills of Lima. Informal urbanization is transforming seasonal cloud vegetation into permanent urban fabric (a second nature). Therefore, the scale where expontaneous order emerges is multidimensional.
 
-Thus, the "spatial moment of control"[^2] over marginal land that is permiting citizens to afford housing, defines the scale of territory out of the control of social institutions and its values defined by social relationships at a given moment, which is in this case the stage of decentralized expansion of the city in the context of macro-economic growth in Lima.
+Thus, the "spatial moment of control"[^2] over marginal land that is permiting citizens to afford housing, defines the scale of territory out of the control of social institutions and its values that are defined by social relationships at a given moment, which in this case is the stage of decentralized expansion of the city in the context of economic growth in Lima.
 
 ![El Ermitaño, Lima]({{ "/assets/ermitano.jpg" | relative_url }})
 
