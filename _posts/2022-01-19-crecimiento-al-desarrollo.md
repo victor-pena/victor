@@ -16,9 +16,9 @@ El modelo economico presente en los últimos 30 años esta fundamentado en las r
 
 A partir de esta necesidad exploremos el trabajo de Alain Lipietz y la escuela regulatoria francesa. Esta propuesta surge en los años 1980 para discutir el modelo neoliberal en un contexto de nueva división del poder político y economico en la escala internacional, asi como de una reestructuración interna en las sociedades industriales avanzadas.
 
-## La propuesta regulatoria[^1]
+## La propuesta regulatoria
 
-La propuesta regulatoria es esceptica de las soluciones basadas solamente en el mercado y de su desapego a la solidaridad social. Según Lipietz, el enfoque regulatorio se sustenta en cuatro tesis fundamentales:
+La propuesta regulatoria es esceptica de las soluciones basadas solamente en el mercado y de su desapego a la solidaridad social. Según Lipietz[^1], el enfoque regulatorio se sustenta en cuatro tesis fundamentales:
 
  1. La sociedad, y las relaciones económicas en el mercado, conforman una red de conexiones sociales.
 
