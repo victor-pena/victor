@@ -26,7 +26,7 @@ La discusion expuesta lineas arriba es una de las posibles aproximaciones al asu
 
 ## Desde el ordenamiento hacia la gestion territorial
 
-Ahora vamos hablar de ordenamiento en su practica como planeamiento espacial. Iremos directo a la critica. El planeamiento es un intento para controlar centralmente aquello que debe hacerse, donde y cuando. Esta vision no siempre toman en cuenta la complejidad de la dinámica territorial, especialmente en casos de transformaciones a gran escala. Incluso, el planeamiento integral a detalle puede limitar la habilidad de gobierno en sus diferentes escalas para abordar nuevas demandas sociales, innovaciones inesperadas y cambios demográficos o económicos.
+Ahora vamos hablar de ordenamiento en su practica como planeamiento espacial. Iremos directo a la critica. El planeamiento es un intento para controlar centralmente aquello que debe hacerse, donde y cuando. Esta vision no siempre toma en cuenta la complejidad de la dinámica territorial, especialmente en casos de transformaciones a gran escala. Incluso, el planeamiento integral a detalle puede limitar la habilidad de gobierno en sus diferentes escalas para abordar nuevas demandas sociales, innovaciones inesperadas y cambios demográficos o económicos.
 
 El reconocimiento de la imposibilidad de controlar esos complejos sistemas territoriales, ha devenido en una transicion desde el gobierno coordinador hacia la gobernanza compartida. En el Peru, se marca un hito en esta transicion durante el año 2017 con la creacion del Vice Ministerio de Gobernanza Territorial, como parte de la reorganizacion de la Presidencia del Consejo de Ministros.
 
