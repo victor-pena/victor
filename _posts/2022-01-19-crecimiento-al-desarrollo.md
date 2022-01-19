@@ -9,8 +9,8 @@ categories: updates
 
 ## La ideologia y la tecnocracia en el cambio estructural
 
-El año 2019, en una reunión del Acuerdo Nacional, primer ministro del Solar mencionó lo siguiente.
-Esto forma parte del demandado cambio estructural en una sociedad donde los valores de crecimiento macro-economico han permitido satisfacer muchas necesidades de salud, alimentacion y transporte por mencionar algunos casos de inversion pública.
+El año 2019, en la reunión de lanzammiento del Plan Nacional de Competitividad y Productividad, el primer ministro Del Solar mencionó lo siguiente: estamos maduros para enfocarnos solo en el crecimiento de la economia, no podemos seguir siendo un pais que dependa del precio de los minerales, y se requiere extender los principios de la competitividad a la gran mayoria de las empresas.
+Este discurso forma parte del demandado cambio estructural en una sociedad donde los valores de crecimiento macro-economico han permitido satisfacer muchas necesidades de salud, alimentacion y transporte por mencionar algunos casos de inversion pública.
 
 El modelo economico presente en los últimos 30 años esta fundamentado en las recomendaciones del Consenso de Washington, con ciertas condiciones de regulacion monetaria y fiscal. La cuestion entonces se desplaza a discutir el marco de desarrollo mas alla del crecimiento económico. Cabe indicar que este modelo cuenta, hasta el presente, con la aceptación y concenso de la mayoria de la poblacion y forma parte de las políticas del arriba mencionado Acuerdo Nacional. Una referencia conceptual se asume necesaria para guiar esta reforma.
 
