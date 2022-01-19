@@ -44,4 +44,4 @@ Puede que el enfoque hacia la productividad sea la respuesta. El Banco Central d
 
 ### Referencia
 
-[^1]: Libietz (1997) Rebel sons: the Regulation school. <http://lipietz.net/Rebel-sons-the-Regulation-school-750>
+[^1]: Lipietz A. (1997) Rebel sons: the Regulation school. <http://lipietz.net/Rebel-sons-the-Regulation-school-750>
