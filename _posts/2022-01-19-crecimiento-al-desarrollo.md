@@ -14,7 +14,7 @@ Este discurso forma parte del demandado cambio estructural en una sociedad donde
 
 El modelo economico presente en los últimos 30 años esta fundamentado en las recomendaciones del Consenso de Washington, con ciertas condiciones de regulacion monetaria y fiscal. La cuestion entonces se desplaza a discutir el marco de desarrollo mas alla del crecimiento económico. Cabe indicar que este modelo cuenta, hasta el presente, con la aceptación y concenso de la mayoria de la poblacion y forma parte de las políticas del arriba mencionado Acuerdo Nacional. Una referencia conceptual se asume necesaria para guiar esta reforma.
 
-A partir de esta necesidad exploremos el trabajo de Alain Lipietz y la escuela regulatoria francesa. Esta propuesta surge en los años 1980 para discutir el modelo neoliberal en un contexto de nueva división del poder político y economico en la escala internacional, asi como de una reestructuración interna en las sociedades industriales avanzadas.
+A partir de esta necesidad exploremos el trabajo de Alain Lipietz y la escuela regulatoria francesa. Esta propuesta, de economía política, surge en los años 1980 para discutir el modelo neoliberal en un contexto de nueva división del poder político y economico en la escala internacional, asi como de una reestructuración interna en las sociedades industriales avanzadas.
 
 ## La propuesta regulatoria
 
@@ -42,8 +42,10 @@ En el caso frances que inspira la escuela regulatoria, son los tecnocratas quien
 
 Puede que el enfoque hacia la productividad sea la respuesta. El Banco Central de Reserva del Perú indica a este factor como un condicionante del desarrollo económico. Este enfoque ya viene influenciando políticas de Estado como la descentralizacion, el desarrollo rural o la conectividad logistica. En todo caso se sigue fundamentando en la estructura de política económica establecida durante los años 1990.
 
-Finalmente, el cambio estructural implica el desarrollo de una nueva configuracion espacial, que sustente la transformacion de la reproducción y circulacion del capital. Un ejemplo es el cambio del antiguo modelo agrario hacia el minero en varias regiones del pais. El Estado, segun Lipietz, debe ser el facilitador de esta sustitucion del modelo territorial, orientando o regulando los conflictos sociales y políticos. La activa participación de la Presidencia del Consejo de Ministros, en la resolucion de los conflictos mineros, valida la estructura de análisis de esta propuesta regulatoria.
+Finalmente, el cambio estructural implica el desarrollo de una nueva configuracion espacial, que sustente la transformacion de la reproducción y circulacion del capital. Un ejemplo es el cambio del antiguo modelo agrario hacia el minero en varias regiones del pais. El Estado, segun Lipietz[^2], debe ser el facilitador de esta sustitucion del modelo territorial, orientando o regulando los conflictos sociales y políticos. La activa participación de la Presidencia del Consejo de Ministros, en la resolucion de los conflictos mineros, valida la estructura de análisis de esta propuesta regulatoria.
 
 ### Referencia
 
 [^1]: Lipietz A. (1997) Rebel sons: the Regulation school. <http://lipietz.net/Rebel-sons-the-Regulation-school-750>
+
+[^2]: Lipietz (1980) citado por Soja (1989)
