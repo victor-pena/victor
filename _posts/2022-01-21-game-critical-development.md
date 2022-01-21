@@ -53,7 +53,8 @@ El enfoque de las políticas de Estado (productividad, cadenas productivas, orie
 ### Referencias
 
 [^1]: <https://plato.stanford.edu/entries/critical-theory/>
-[^2]: Hisashi Ohtsuki, Christoph Hauert, Erez Lieberman & Martin A. Nowak. A simple rule for the evolution of cooperation on graphs and social networks. Nature Vol 441|25 May 2006|doi:10.1038/nature04605
-[^3]:
+[^2]: Hisashi Ohtsuki, Christoph Hauert, Erez Lieberman & Martin A. Nowak. A simple rule for the evolution of cooperation on graphs and social networks. Nature Vol 441. 25 May 2006. <doi:10.1038/nature04605>
+[^3]: Hommes Lena. Desarrollo hidroeléctrico y reconfiguraciones territoriales históricas en la cuenca del Rímac,
+en Lima, Perú. Estudios Atacameños 63, 2019, pp. 233-249. <https://dx.doi.org/10.22199/issn.0718-1043-2019-0032>
 [^4]:
 [^5]:
