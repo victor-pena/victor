@@ -318,3 +318,16 @@ x.est <- fitdistr(x.gen, "exponential")$estimate
 
 curve(dexp(x, rate = x.est), add = TRUE, col = "red", lwd = 2)
 ```
+
+#### Normalidad
+
+```{r}
+### normality qq plot
+
+x <- qnorm(seq(0,1,l=34))  # Theoretical normal quantiles
+x <- x[-c(1, length(x))]  # Drop ends because they are -Inf and Inf
+y <- data$value  # Actual data. 1000 points drawn from a normal distribution
+l.1 <- lm(sort(y)~sort(x))
+qqplot(x, y, xlab="Theoretical Quantiles", ylab="Actual Quantiles")
+abline(coef(l.1)[1], coef(l.1)[2])
+```
