@@ -26,8 +26,8 @@ Un ejemplo es el proceso de urbanizacion informal. La localizacion de estos asen
 Lo mismo sucede en el caso de pequeños agricultores que demandan atención a traves de servicios, y donde el estado responde a traves de formulas de incorporación al mercado, como la capacitación, asistencia técnica, financiamiento y organizacion institucional o personería jurídica.
 Los acuerdos emergen, en el espacio y a lo largo del tiempo, a partir de funcionamiento del mercado cuando el servicio es privado (electricidad o telecomunicaciones). El acuerdo es mas complicado en la arena de las relaciones entre ciudadanos y Estado,  incorporando la dimensión política y generando instituciones y normas producto de aquella mencionada negociación.
 
-![papa]({{ "/assets/papa.jpg" | relative_url }})
-*Figura. Cadena Productiva de la Papa (Fuente: Agroideas)*
+![cafe]({{ "/assets/cafe.jpg" | relative_url }})
+*Figura. Cadena de valor del café (Fuente: PNUD (2017))*
 
 ## La cooperación como instrumento de acción política territorial
 
