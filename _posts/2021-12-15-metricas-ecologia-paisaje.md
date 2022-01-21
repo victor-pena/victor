@@ -184,10 +184,6 @@ perimetro
 
 ### 3.5 Indices, en la escala de clase
 
-```{r}
- lsm_c_enn_mn(bosques)
-```
-
 #### 3.5.1 area
 
 ```{r}
@@ -209,6 +205,10 @@ lsm_c_te(bosques_raster)
 ```
 
 #### 3.5.4 Vecino cercano
+
+```{r}
+ lsm_c_enn_mn(bosques_raster)
+```
 
 ```{r}
 lsm_l_enn_cv(bosques_raster)
