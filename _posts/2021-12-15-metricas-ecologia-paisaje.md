@@ -291,3 +291,30 @@ ggplot(data, aes(x=as.factor(layer), y=value)) +
     geom_boxplot(fill="slateblue", alpha=0.2) + 
     xlab("area bosque")
 ```
+
+#### Histogramas y curva de densidad
+
+
+```{r}
+df <- data[order(data$value,decreasing = TRUE),]
+ barplot(df$value,names.arg = df$id, col="orange", 
+          xlab="id fragmentos", 
+          ylab="superficie (ha)")
+```
+
+```{r}
+df <- data[order(data$value,decreasing = TRUE),]
+ barplot(df$value,names.arg = df$id, col="orange", 
+          xlab="id fragmentos", 
+          ylab="superficie (ha)")
+```
+
+```{r}
+x.gen <- data$value
+hist(x.gen, prob = TRUE) 
+
+library(MASS)
+x.est <- fitdistr(x.gen, "exponential")$estimate
+
+curve(dexp(x, rate = x.est), add = TRUE, col = "red", lwd = 2)
+```
