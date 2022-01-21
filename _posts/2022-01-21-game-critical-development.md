@@ -27,11 +27,11 @@ Lo mismo sucede en el caso de pequeños agricultores que demandan atención a tr
 Los acuerdos emergen, en el espacio y a lo largo del tiempo, a partir de funcionamiento del mercado cuando el servicio es privado (electricidad o telecomunicaciones). El acuerdo es mas complicado en la arena de las relaciones entre ciudadanos y Estado,  incorporando la dimensión política y generando instituciones y normas producto de aquella mencionada negociación.
 
 ![cafe]({{ "/assets/cafe.jpg" | relative_url }})
-*Figura. Cadena de valor del café (Fuente: PNUD (2017))*
+*Figura. Cadena de valor del café (Fuente: PNUD (2017)*
 
 ## La cooperación como instrumento de acción política territorial
 
-En el tipo interacciones complejas descrito líneas arriba, los objettibos buscados, por los ciudadanos y el Estado, pueden ser prosaicos, como en el caso de incremento de la productividad donde los actores poseen racionalidad limitada. Nowak y May (1992)[^5] encontraron que la cooperación emerge entre jugadores sin memoria ni visión estratégica.
+En el tipo interacciones complejas descrito líneas arriba, los objettibos buscados, por los ciudadanos y el Estado, pueden ser prosaicos, como en el caso de incremento de la productividad donde los actores poseen racionalidad limitada. Nowak y May (1992)encontraron que la cooperación emerge entre jugadores sin memoria ni visión estratégica.
 
 La baja productividad del sector agrícola se debe a la predominancia de agentes pertenecientes a la categoria de agricultura familiar. Los atributos de este grupo son: parcelas pequeñas, sin tecnologia ni capital ni acceso directo a mercados. Completan el abanico de agentes aquellos que pertenecen a los ámbitos de actuación público y privado. En este punto cabe señalar que la cantidad de agricultores familiares es abrumadoramente superior al resto. Por tanto, incluyendo en la red a los agentes de las otras categorias, y asumiendo una configuración de red completa donde todos estan interconectados, la probabilidad de transmisión o contagio entre esos actores mayoritarios es mayor. El problema entonces se va limitando a la identificación (ubicación) de los nodos que permiten la transmisión mas eficaz de ideas, innovaciones o acciones. A esto llamamos acción política territorial. En la práctica, este papel le corresponde al Estado.
 
@@ -54,7 +54,5 @@ El enfoque de las políticas de Estado (productividad, cadenas productivas, orie
 
 [^1]: <https://plato.stanford.edu/entries/critical-theory/>
 [^2]: Hisashi Ohtsuki, Christoph Hauert, Erez Lieberman & Martin A. Nowak. A simple rule for the evolution of cooperation on graphs and social networks. Nature Vol 441. 25 May 2006. <doi:10.1038/nature04605>
-[^3]: Hommes Lena. Desarrollo hidroeléctrico y reconfiguraciones territoriales históricas en la cuenca del Rímac,
-en Lima, Perú. Estudios Atacameños 63, 2019, pp. 233-249. <https://dx.doi.org/10.22199/issn.0718-1043-2019-0032>
-[^4]:
-[^5]:
+[^3]: Hommes Lena. Desarrollo hidroeléctrico y reconfiguraciones territoriales históricas en la cuenca del Rímac en Lima, Perú. Estudios Atacameños 63, 2019, pp. 233-249. <https://dx.doi.org/10.22199/issn.0718-1043-2019-0032>
+[^4]: Collinge C. 2005. The differance between society and space: nested scales and the returns of spatial fetishism. Environment and Planning D: Society and Space 23: 189-206. <DOI: 10.1068/d360t>
