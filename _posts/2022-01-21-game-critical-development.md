@@ -52,8 +52,8 @@ El enfoque de las políticas de Estado (productividad, cadenas productivas, orie
 
 ### Referencias
 
-[^1]:
-[^2]:
+[^1]: <https://plato.stanford.edu/entries/critical-theory/>
+[^2]: Hisashi Ohtsuki, Christoph Hauert, Erez Lieberman & Martin A. Nowak. A simple rule for the evolution of cooperation on graphs and social networks. Nature Vol 441|25 May 2006|doi:10.1038/nature04605
 [^3]:
 [^4]:
 [^5]:
