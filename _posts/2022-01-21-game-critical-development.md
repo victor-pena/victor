@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teoría de juegos, teoría crítica y productividad de la agricultura familiar"
+title: "Gobernanza y productividad de la agricultura familiar (parte 1)"
 author: "Victor Peña Guillen"
 date:   2022-01-21 16:52:30 +0900
 #permalink: /hello-world/
@@ -9,31 +9,42 @@ categories: updates
 
 ## Supuestos del análisis
 
-La cuesti[on que aborda el presente artículo es el problema de la baja productividad en el sector agricola peruano. El análisis se realiza tomando como referencia la teoría social crítica[^1]. En un primer paso, las brechas teóricas existentes entre la busqueda del incremento de la productividad y el funcionamiento del sistema socio-espacial, en el marco de operacion del libre mercado en el Perú, se consideran tomando en cuenta el trabajo de propuesto particularmente por Mandel, y su propuesta de reconocimiento de la plataforma espacial para que se realize la reproducción del capital dentro de su estudio sobre la política económica regional.
+La cuesti[on que aborda el presente artículo es el problema de la baja productividad en el sector agricola peruano. El análisis se realiza tomando como referencia la teoría social crítica[^1]. 
+En un primer paso, se identifican las brechas teóricas existentes entre la busqueda del incremento de la productividad y el funcionamiento del sistema socio-espacial, en el marco de operacion del libre mercado en el Perú.
+Esta identificación emplea los estudios de Mandel, sobre la política económica regional, donde la estructura socio-espacial es necesaria para que se realize la reproducción del capital.
 
-Un segunda segunda conexion, se hace a partir de identificar a la configuracion de las relaciones sociales como el catalizador de ese proceso de reproduccion (Lipietz 1987). La representacion de aquellas interacciones como una red social, provee la plataforma experimental para el análisis en esta etapa. En este punto se asume y explicita que la red social asi dispuesta se desempeña a partir de relaciones de cooperacion. Por tanto será conveniente emplear ahora los mecanismos planteados en la teoria de juegos en su variante evolutiva (Ohtsuki et al. 2006)[^2] para simular su funcionamiento.
+El siguiente paso, identifica a la configuración de las relaciones sociales como el catalizador de ese proceso de reproducción (Lipietz 1987). La representacion de aquellas interacciones como una red social, provee la plataforma experimental para el análisis en esta etapa.
+Se asume que esa red social se desempeña a partir de relaciones de cooperación. Esto último da lugar para emplear los mecanismos de la teoria de juegos en su variante evolutiva (Ohtsuki et al. 2006)[^2] para simular su funcionamiento.
 
-## Elementos de la gestión territorial
+## Elementos para la gestión territorial
 
-La perspectiva tecnocrática en el estudio del incremento de la productividad, sugiere enfocar las medidas de política en cuatro aspectos: capital humano, capital físico, recursos naturales, e innovación.
-La argumentación del presente artículo se enfoca en el segundo parametro.
+Se ha sugerido enfocar las medidas de política, para el incremento de la productividad, en cuatro aspectos: capital humano, capital físico, recursos naturales, e innovación.
+El presente artículo enfoca el análisis en el primer parametro.
 La disposición inicial de actores o configuración socio-espacial está definida por el concepto de *escala territorial* dentro de un sistema policéntrico de gobernanza.
 
-De este modo los agentes se ubican en dimensiones espaciales y también institucionales; la primera es fijo en tanto se modifica por variables referidos a la distancia euclidiana. La segunda está en permanente transformación a partir de los mecanismos de negociación entre los ciudadanos y los poderes institucionales y económicos. Hommes[^3] citando a Brighenti (2010), lo denomina directamente al territorio como "un espacio que constantemente cambia como resultado de los intercambios sociales y sus materializaciones dentro de un lugar delimitado y en un momento específico". Lo anterior es similar a la idea de espacio socialmente producido como una forma específica de coherencia territorial (Swyngedouw 1992, citado por Collinge 2006)[^4]. Es decir el territorio es un lugar abstracto, construido mediante la combinación de espacio físico y sociedad, que emerge a partir de las relaciones sociales (de producción).
+De este modo los agentes se ubican tanto dimensiones espaciales y como institucionales. La primera dimensión se modifica por variables referidas a la distancia euclidiana. La segunda, está en permanente transformación a partir de los mecanismos de negociación entre los ciudadanos y los poderes institucionales y económicos.
 
-Un ejemplo es el proceso de urbanizacion informal. La localizacion de estos asentamientos es ciertamente definida en terminos ubicación administrativa y geográfica (laderas, áreas de lomas, periferia, etc.). Los servicios necesarios para mantener a la poblacion en aquellos lgares se empiezan a configurar a partir de la mencionada negociacion, incluyendo los servicios del Estado (agua y vías de acceso).
+Hommes[^3] citando a Brighenti (2010), denomina al territorio como "un espacio que constantemente cambia como resultado de los intercambios sociales y sus materializaciones dentro de un lugar delimitado y en un momento específico".
+Lo anterior es similar a la idea de espacio socialmente producido como una forma específica de coherencia territorial (Swyngedouw 1992, citado por Collinge 2006)[^4].
+Es decir el territorio es un lugar abstracto, pero gestionable, construido mediante la combinación de espacio físico y sociedad, que emerge a partir de las relaciones sociales (de producción) en tre los actores presentes.
 
-Lo mismo sucede en el caso de pequeños agricultores que demandan atención a traves de servicios, y donde el estado responde a traves de formulas de incorporación al mercado, como la capacitación, asistencia técnica, financiamiento y organizacion institucional o personería jurídica.
-Los acuerdos emergen, en el espacio y a lo largo del tiempo, a partir de funcionamiento del mercado cuando el servicio es privado (electricidad o telecomunicaciones). El acuerdo es mas complicado en la arena de las relaciones entre ciudadanos y Estado,  incorporando la dimensión política y generando instituciones y normas producto de aquella mencionada negociación.
+Un ejemplo es el proceso de urbanizacion informal. La localizacion de estos asentamientos es ciertamente definida en terminos ubicación administrativa y geográfica (laderas, áreas de lomas, periferia, etc.). Los servicios publicos y privadosnecesarios (agua, electricidad, vías de acceso, etc.) para mantener a la poblacion en aquellos lugares se empiezan a incorporar a partir de la mencionada negociación.
+
+Lo mismo sucede en el caso de pequeños agricultores que demandan atención a traves de servicios, y donde el Estado responde a través de fórmulas de incorporación al mercado, como la capacitación, asistencia técnica, financiamiento y organizacion institucional o personería jurídica. El sistema de gobernanza y los acuerdos emergen, en el espacio y a lo largo del tiempo, a partir de funcionamiento del mercado o de la negociación política. El acuerdo es mas complicado en la arena de las relaciones entre ciudadanos y Estado, en la dimensión política se generando instituciones y normas producto de aquella negociación.
 
 ![cafe]({{ "/assets/cafe.jpg" | relative_url }})
 *Figura. Cadena de valor del café (Fuente: PNUD (2017)*
 
 ## La cooperación como instrumento de acción política territorial
 
-En el tipo interacciones complejas descrito líneas arriba, los objettibos buscados, por los ciudadanos y el Estado, pueden ser prosaicos, como en el caso de incremento de la productividad donde los actores poseen racionalidad limitada. Nowak y May (1992)encontraron que la cooperación emerge entre jugadores sin memoria ni visión estratégica.
+En el tipo interacciones complejas descrito líneas arriba, los objetivos buscados, por los ciudadanos y el Estado, pueden ser prosaicos, como en el caso de incremento de la productividad donde los actores poseen racionalidad limitada.
+Nowak y May (1992)encontraron que la cooperación emerge entre jugadores sin memoria ni visión estratégica.
 
-La baja productividad del sector agrícola se debe a la predominancia de agentes pertenecientes a la categoria de agricultura familiar. Los atributos de este grupo son: parcelas pequeñas, sin tecnologia ni capital ni acceso directo a mercados. Completan el abanico de agentes aquellos que pertenecen a los ámbitos de actuación público y privado. En este punto cabe señalar que la cantidad de agricultores familiares es abrumadoramente superior al resto. Por tanto, incluyendo en la red a los agentes de las otras categorias, y asumiendo una configuración de red completa donde todos estan interconectados, la probabilidad de transmisión o contagio entre esos actores mayoritarios es mayor. El problema entonces se va limitando a la identificación (ubicación) de los nodos que permiten la transmisión mas eficaz de ideas, innovaciones o acciones. A esto llamamos acción política territorial. En la práctica, este papel le corresponde al Estado.
+La baja productividad del sector agrícola en general se debe a la predominancia de agentes pertenecientes a la categoria de agricultura familiar en particular.
+Los atributos que presenta este grupo son: parcelas pequeñas, ausencia de tecnología y capital, acceso restringido a los mercados. Completan el abanico de agentes, dentro del sistema de gobernanza de la agricultura familiar aquellos que pertenecen a los ámbitos de actuación público y privado.
+
+En este punto cabe señalar que la cantidad de agricultores familiares es abrumadoramente superior al resto de actores. Por tanto, incluyendo en la red a los agentes de las otras categorias, y asumiendo una configuración de red completa donde todos estan interconectados, la probabilidad de transmisión o contagio entre los agricultures mayoritarios es mayor.
+El problema entonces se va limitando a la identificación (ubicación) de los nodos que permiten la transmisión mas eficaz de ideas, innovaciones o acciones. A esto llamamos gobernanza policentrica, o en los términos descritos en este articulo: acción política territorial. Cabe señalar que la ipresente implementación de las medidas, cuenta con la actuación regulatoria del Estado.
 
 La condición inicial de la estructura de la red depende de dos atributos adicionales: presencia de una estructura social (organización) y disposición a cooperar.
 
@@ -48,7 +59,17 @@ El primer punto se puede graficar en el fenomeno de difusion de los principales 
 
 Es así que las relaciones de producción entre actores cooperantes requieren de una precondicion, que asume la operación del sistema a lo largo de la cadena agrícola productiva a través del tiempo y el espacio. El territorio como plataforma espacial de esas relaciones de producción que va emergiendo permanentemente en el contexto de libre mercado.
 
-El enfoque de las políticas de Estado (productividad, cadenas productivas, orientacion logística de la inversion pública), pueden describirse en los términos analizados. Se ha observado que la velocidad en la que aparecen los resultados no es suficiente. Quizá el estudio de la teoría de redes ofrezca un método de localizacion territorial (en el amplio sentido), más eficiente de los recursos y una obtención rápida de mayores valores de productividad.
+## Síntesis
+
+Horkheimer señala tres requerimientos de analisis desde la teoria critica: debe explicar que esta incorrecto en la situacion social presente, identificar los actores para cambiarla, y proveer tanto normas claras para su critica, como objetivos prácticos para la transformación social. A continuación se resume lo encontrado
+
+    El enfoque de las políticas de Estado (productividad, cadenas productivas, orientacion logística de la inversion pública), pueden describirse en los términos socio-espaciales. 
+    
+    Se ha observado que la velocidad en la que aparecen los resultados del funcionamiento del mercado e intervencion estatal no es suficientes para lograr una mejora en la productividad de la agricultura familiar.
+
+    La plataforma territorial identifica tanto los elementos de friccion de la distancia y acceso, como la conctividad toñológica de los actores presentes en las cadenas productivas de valor.
+    
+    Esta representacion permite mapear la gobernanza de los recursos, y la rápida obtención de mayores valores de productividad.
 
 ### Referencias
 
