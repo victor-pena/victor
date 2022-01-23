@@ -2,7 +2,7 @@
 layout: post
 title: "Gobernanza y productividad de la agricultura familiar (2)"
 author: "Victor Peña Guillen"
-date:   2022-01-21 16:52:30 +0900
+date:   2022-01-23 16:52:30 +0900
 #permalink: /hello-world/
 categories: updates
 ---
