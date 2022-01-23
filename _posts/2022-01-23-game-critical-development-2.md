@@ -41,10 +41,10 @@ Es así que las relaciones de producción entre actores cooperantes requieren de
 
 Horkheimer señala tres requerimientos de analisis desde la teoria critica: debe explicar que esta incorrecto en la situacion social presente, identificar los actores para cambiarla, y proveer tanto normas claras para su critica, como objetivos prácticos para la transformación social. A continuación se resume el argumento:
 
-    - El enfoque de las políticas de Estado (productividad, cadenas productivas, orientacion logística de la inversion pública), pueden describirse en los términos socio-espaciales. 
+    -Item El enfoque de las políticas de Estado (productividad, cadenas productivas, orientacion logística de la inversion pública), pueden describirse en los términos socio-espaciales. 
     
-    - Se ha observado que la velocidad en la que aparecen los resultados del funcionamiento del mercado e intervencion estatal no es suficientes para lograr una mejora en la productividad de la agricultura familiar.
+    -Item Se ha observado que la velocidad en la que aparecen los resultados del funcionamiento del mercado e intervencion estatal no es suficientes para lograr una mejora en la productividad de la agricultura familiar.
 
-    - La plataforma territorial identifica tanto los elementos de friccion de la distancia y acceso, como la conctividad toñológica de los actores presentes en las cadenas productivas de valor.
+    -Item La plataforma territorial identifica tanto los elementos de friccion de la distancia y acceso, como la conctividad toñológica de los actores presentes en las cadenas productivas de valor.
     
-    - Esta representacion permite mapear la gobernanza de los recursos, y la rápida obtención de mayores valores de productividad.
+    -Item Esta representacion permite mapear la gobernanza de los recursos, y la rápida obtención de mayores valores de productividad.
