@@ -18,9 +18,8 @@ Los atributos que presenta este grupo son: parcelas pequeñas, ausencia de tecno
 En este punto cabe señalar que la cantidad de agricultores familiares es abrumadoramente superior al resto de actores. Por tanto, incluyendo en la red a los agentes de las otras categorias, y asumiendo una configuración de red completa donde todos estan interconectados, la probabilidad de transmisión o contagio entre los agricultures mayoritarios es mayor.
 El problema entonces se va limitando a la identificación (ubicación) de los nodos que permiten la transmisión mas eficaz de ideas, innovaciones o acciones. A esto llamamos gobernanza policentrica, o en los términos descritos en este articulo: acción política territorial. Cabe señalar que la ipresente implementación de las medidas, cuenta con la actuación regulatoria del Estado.
 
-
 ![cafe]({{ "/assets/cafe.jpg" | relative_url }})
-*Figura. Cadena de valor del café (Fuente: PNUD (2017)*
+*Cadena de valor del café (Fuente: PNUD 2017)*
 
 La condición inicial de la estructura de la red depende de dos atributos adicionales: presencia de una estructura social (organización) y disposición a cooperar.
 
