@@ -17,7 +17,7 @@ El siguiente paso, identifica a la configuración de las relaciones sociales com
 Se asume que esa red social se desempeña a partir de relaciones de cooperación. Esto último da lugar para emplear los mecanismos de la teoria de juegos en su variante evolutiva (Ohtsuki et al. 2006)[^2] para simular su funcionamiento.
 
 ![polycentricity]({{ "/assets/polycentricity.jpg" | relative_url }})
-*Dimensiones de la policentricidad (Fuente: Münter et al. 2016 citado por Schmitt et al. 2015)* 
+*Dimensiones de la policentricidad (Fuente: Münter et al. 2016 citado por Schmitt et al. 2015)*
 
 ## Elementos para la gestión territorial
 
