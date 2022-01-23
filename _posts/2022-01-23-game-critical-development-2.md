@@ -47,4 +47,4 @@ Horkheimer señala tres requerimientos de analisis desde la teoria critica: debe
 
 - La plataforma territorial identifica tanto los elementos de friccion de la distancia y acceso, como la conctividad toñológica de los actores presentes en las cadenas productivas de valor.
 
--Item Esta representacion permite mapear la gobernanza de los recursos, y la rápida obtención de mayores valores de productividad.
+- Esta representacion permite mapear la gobernanza de los recursos, y la rápida obtención de mayores valores de productividad.
