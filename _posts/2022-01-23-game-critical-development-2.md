@@ -45,6 +45,6 @@ Horkheimer señala tres requerimientos de analisis desde la teoria critica: debe
 
 - Se ha observado que la velocidad en la que aparecen los resultados del funcionamiento del mercado e intervencion estatal no es suficientes para lograr una mejora en la productividad de la agricultura familiar.
 
-- La plataforma territorial identifica tanto los elementos de friccion de la distancia y acceso, como la conctividad toñológica de los actores presentes en las cadenas productivas de valor.
+- La plataforma territorial identifica tanto los elementos de fricción de la distancia y acceso, como la conectividad topológica de los actores presentes en las cadenas productivas de valor.
 
 - Esta representacion permite mapear la gobernanza de los recursos, y la rápida obtención de mayores valores de productividad.
