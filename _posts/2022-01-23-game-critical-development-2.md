@@ -34,7 +34,6 @@ El primer punto se puede graficar en el fenomeno de difusion de los principales 
 
 Es así que las relaciones de producción entre actores cooperantes requieren de una precondición, que asume la operación del sistema a lo largo de la cadena agrícola productiva a través del tiempo y el espacio. El territorio como plataforma espacial de esas relaciones de producción que va emergiendo permanentemente en el contexto de libre mercado.
 
-
 ![gobernanza]({{ "/assets/governance.jpg" | relative_url }})
 *Dinámica en un sistema socio-ecológico (Fuente: Ostrom 2010)*
 
