@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scale, power and control along with the socio-spatial expontaneous order"
+title: "Scale, power and control across socio-spatial spontaneous order"
 author: "Victor Peña Guillen"
 #date:   2022-01-18 16:52:30 +0900
 #permalink: /hello-world/
