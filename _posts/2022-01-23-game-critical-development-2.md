@@ -24,15 +24,15 @@ El problema entonces se va limitando a la identificación (ubicación) de los no
 La condición inicial de la estructura de la red depende de dos atributos adicionales: presencia de una estructura social (organización) y disposición a cooperar.
 
 La disposicion a cooperar permite la incorporacion de la teoría de juegos.
-Precisamente Ohtsuki et al (2006) sugieren un mecanismo de expansión de la cooperación. En este esquema el agente cooperante tiene un costo al estar conectado con sus vecinos en la red. Asimismo, recibe un beneficio en funcion al numero de vecinos que son cooperantes. En el balance costo beneficio esta la clave para la difusion de la cooperación.
+Precisamente Ohtsuki et al (2006) sugieren un mecanismo de expansión de la cooperación. En este esquema el agente cooperante tiene un costo al estar conectado con sus vecinos en la red. Asimismo, recibe un beneficio en funcion al número de vecinos que son cooperantes. En el balance costo-beneficio esta la clave para la difusión de la cooperación.
 
 Por tanto, el incremento del factor capital social, que no es independiente de los otros cuatro sino que los influye y es influenciado a su vez, depende de la cooperación.
-El incremento de la cooperación permite, a su vez, una mayor difusión de aquellos otros componentes de la productividad.
-La configuracion actual de las relaciones sociales (de producción), se viene modificando lentamente. Este cambio se debe a la acción del mercado a travez de sus señales que generan un orden emergente (Hayek), y de la intervencion del Estado, para organizar la transformacion territorial que permita el proceso de acumulacion del capital (Lipietz 1997).
+El incremento de la cooperación permite, a su vez, una mayor difusión de aquellos otros componentes de la productividad a lo largo de la cadena de valor.
+La configuración actual de las relaciones sociales (de producción), se viene modificando lentamente. Este cambio se debe a la acción del mercado a través de sus señales que generan un orden emergente (Hayek), y de la intervencion del Estado, para organizar la transformacion territorial que permita el proceso de acumulación del capital (Lipietz 1997).
 
 El primer punto se puede graficar en el fenomeno de difusion de los principales cultivos de agroexportacion (paltas, arandanos, uvas) a traves de las empresas e inversionistas de todo tamaño. Las actividades del Programa de Compensaciones para la Competitividad (Agroideas) del Ministerio de Desarrollo Agrario corresponden al segundo punto.
 
-Es así que las relaciones de producción entre actores cooperantes requieren de una precondicion, que asume la operación del sistema a lo largo de la cadena agrícola productiva a través del tiempo y el espacio. El territorio como plataforma espacial de esas relaciones de producción que va emergiendo permanentemente en el contexto de libre mercado.
+Es así que las relaciones de producción entre actores cooperantes requieren de una precondición, que asume la operación del sistema a lo largo de la cadena agrícola productiva a través del tiempo y el espacio. El territorio como plataforma espacial de esas relaciones de producción que va emergiendo permanentemente en el contexto de libre mercado.
 
 ## Síntesis
 
