@@ -9,7 +9,7 @@ categories: updates
 
 ## La cooperación como instrumento de acción política territorial
 
-En el tipo interacciones complejas descrito líneas arriba, los objetivos buscados, por los ciudadanos y el Estado, pueden ser prosaicos, como en el caso de incremento de la productividad donde los actores poseen racionalidad limitada.
+En el tipo interacciones complejas, descritas en la primera parte, los objetivos buscados por los ciudadanos y el Estado, pueden ser prosaicos, como en el caso de incremento de la productividad donde los actores poseen racionalidad limitada.
 Nowak y May (1992)encontraron que la cooperación emerge entre jugadores sin memoria ni visión estratégica.
 
 La baja productividad del sector agrícola en general se debe a la predominancia de agentes pertenecientes a la categoria de agricultura familiar en particular.
