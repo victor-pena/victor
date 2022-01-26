@@ -25,7 +25,8 @@ Scale is/as a form of territorial coherence, it is a closed self-sufficient syst
 
 Informal urbanization produces scale, it is a mechanism that rolls out independiently influencing institutions along the way towards physical and demographical limits. How much land is accesible to occupy? how many people will end up inhabiting Lima metropolitan area? is there free space (or scales) to develop in and out the current boundaries?
 
-Thus, scale designates a closed self-sufficient system is the one that generates expontaneous order in the land market under conditions resembling those of Hayek with an informal component as part of the institutional and regulatory system [^1] under capital circulation and accumulation across space. Therefore, Law 31056 "circunscribes the power of capital to command space" [^2] emerging as well as the realization of the process of informal urbanization, self-regulating the spatial and temporal extend of its operation: the scale. It provides a foundation to analyze the metropolitan rescaling towards the city region, a new form of spatial coherence over a broader surface, where expontaneous order is persisting.
+Thus, scale designates an emergent socio-spatial dimension in the land market. Under this self-organized institutional and regulatory conditions, the informal urbanization component that is part of the  system [^1] allows capital circulation and accumulation across space. Therefore, is the Law 31056 that "circunscribes the power of capital to command space" [^2] catalizing the realization of the material fabric of the city at local scale, self-regulating the spatial and temporal extend of its operation across different places, creating the scale.
+The aforementioned sequence provides a rationale to analyze the metropolitan rescaling towards the city region, a new form of spatial coherence over a broader surface, where expontaneous order is persisting.
 
 ### References
 
