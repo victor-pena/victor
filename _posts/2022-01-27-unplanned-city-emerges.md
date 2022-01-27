@@ -30,7 +30,7 @@ The common case is that of a single owner taking decisions over the present and 
 
 Cozzolinno and Moroni [^1], suggest property arrangements (dynamics) influencing the activities (power) in self-organizing cities (substance). Thus, the dynamics of social relations realize in decisions over the construction process. The continuous transformation of the informal city becomes the social and physical spaces, producing the scales of territorial congruence. A representation of these phenomena, more useful for management than for asking questions, is the complex adaptive system, the socio-spatial network.
 
-These authors  suggest that "in the case of small-scale objects it is easier to make rearrangements". This statements could explain the resilience of the informal housing facing economic turnarounds in the household expressed as non-linear income stream, which determines decision to build.
+These authors  suggest that "in the case of small-scale objects it is easier to make rearrangements". This statement could explain the resilience of the informal housing facing economic turnarounds in the household expressed as non-linear income stream, which determines decision to build.
 
 ### Reference
 
