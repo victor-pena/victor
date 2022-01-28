@@ -331,3 +331,27 @@ l.1 <- lm(sort(y)~sort(x))
 qqplot(x, y, xlab="Theoretical Quantiles", ylab="Actual Quantiles")
 abline(coef(l.1)[1], coef(l.1)[2])
 ```
+
+## 5. Analisis
+
+Estructura y funcionalidad
+
+Objetivo: evaluar la estructura del paisaje natural en la ciudad
+Dos criterios de evaluacion
+Integridad de los elementos
+Conectividad de la red
+
+### Tabla de resultados
+
+```{}
+Metricas |Sector 1 |Sector 2
+---------|----------|--------
+Mediana area   |Cell B    |Cell C
+Densidad fragmentos|Cell E    |Cell F
+```
+
+### 5.2 Preguntas
+
+0. Como se comparan los histogramas de los dos sectores
+1. Cual paisaje tiene la mayor mediana del area
+2. Cual es la mediana de la distancia entre vecinos
