@@ -341,7 +341,7 @@ Dos criterios de evaluacion
 Integridad de los elementos
 Conectividad de la red
 
-### Tabla de resultados
+### 5.1 Tabla de resultados
 
 ```{}
 Metricas |Sector 1 |Sector 2
