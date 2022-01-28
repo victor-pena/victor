@@ -338,8 +338,9 @@ Estructura y funcionalidad
 
 Objetivo: evaluar la estructura del paisaje natural en la ciudad
 Dos criterios de evaluacion
-Integridad de los elementos
-Conectividad de la red
+
+- Integridad de los elementos
+- Conectividad de la red
 
 ### 5.1 Tabla de resultados
 
