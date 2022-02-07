@@ -25,7 +25,7 @@ A planned city has been propossed to be built in the northern skirts of Lima, it
 The seek of spatial order continues on and is also feeding a stigma against informal city builders (Allen 2021)[^3].
 
 ![bicentenario]({{ "/assets/bicentenario.jpg" | relative_url }})
-*City builders of informal Lima (Fuente: Victor Peña Guillen 2020)*
+*City builders of informal Lima (Fuente: Gestion, 22SET2020)*
 
 ## Different approximations
 
