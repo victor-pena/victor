@@ -16,7 +16,7 @@ These authors concluded that public policy and programs addressing informal deve
 
 Empirical account of the process of informal urbanization shows individual proprietors deciding to upgrade their small housing units across time according to their particular needs. Progressive self-help building goes along with urban fabric consolidation. This could be called social production of space following Lefebvrian discourse.
 
-![self-organization]({{ "/assets/independencia2.jpg" | relative_url }})
+![self-organization]({{ "/assets/independencia3.jpg" | relative_url }})
 *City builders of informal Lima (Fuente: Victor Peña Guillen 2020)*
 
 ## Ciudad Bicentenario
