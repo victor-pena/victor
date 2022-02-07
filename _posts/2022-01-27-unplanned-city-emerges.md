@@ -26,6 +26,9 @@ Beyond the defined scale of self-built operation and the interwoven of urban fab
 Property over this single detached houses is a necessary attritute to allow self-building. Multigenerational composition of households is another property that influences growth.
 The common case is that of a single owner taking decisions over the present and future of its property, even as independent families within the household occupies diferent house spaces, it has not usually been observed the fragmentation of property.
 
+![self-organization]({{ "/assets/independencia1.jpg" | relative_url }})
+*Urbanización informal (Fuente: Victor Peña Guillen 2020)*
+
 ## Dynamics and power
 
 Cozzolinno and Moroni [^1], suggest property arrangements (dynamics) influencing the activities (power) in self-organizing cities (substance). Thus, the dynamics of social relations realize in decisions over the construction process. The continuous transformation of the informal city becomes the social and physical spaces, producing the scales of territorial congruence. A representation of these phenomena, more useful for management than for asking questions, is the complex adaptive system, the socio-spatial network.
