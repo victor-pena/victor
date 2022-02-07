@@ -33,6 +33,6 @@ Ciudad Bicentenario project, whose cost is estimated in USD 3 billion, is going 
 
 ### References
 
-[^1]: Espinoza A., Fort R. 2019. Mapeo y tipologia de la expansi[on urbana en el Perú. GRADE.
+[^1]: Espinoza A., Fort R. 2019. Mapeo y tipología de la expansión urbana en el Perú. GRADE.
 [^2]: Davoudi S. 2019. Planed City. In: The Wiley-Blackwell Encyclopedia of Urban and Regional Studies, edited by: A.M. Orum. 1499-1504. John Wiley & Sons, Ltd.
 [^3]: Allen A. 2021. Navigating stigma through everyday city-making: Gendered trajectories, politics and outcomes in the periphery of Lima. Urban Studies, Vol. 59(3) 490–508. SAGE.
