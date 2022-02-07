@@ -24,6 +24,9 @@ Empirical account of the process of informal urbanization shows individual propr
 A planned city has been propossed to be built in the northern skirts of Lima, it will be called "Bicentenial city". A high-rank Peruvian official justifies this approach refering the need to operate in the opposite way informal urbanization does. Following Davoudi (2019) [^2], this effort by the State is "indicative of the command-and-control mentality of the rising modernism in urban planning".
 The seek of spatial order continues on and is also feeding a stigma against informal city builders (Allen 2021)[^3].
 
+![bicentenario]({{ "/assets/bicentenario.jpg" | relative_url }})
+*City builders of informal Lima (Fuente: Victor Peña Guillen 2020)*
+
 ## Different approximations
 
 The two mentioned views intersect on the issue of the social and economic convenience for the city to maintain individual, decentralized self-building housing.
