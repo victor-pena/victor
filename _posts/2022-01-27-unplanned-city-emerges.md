@@ -13,7 +13,7 @@ Unplanned city has been emerging out of the foothills surrounding Lima. Self-bui
 Meanwhile, access routes are delineated linearly and converserly with the constraints of both the slopes and the boundaries of the lots, providing room for the emerging puplic space.
 Social action is the driver of this auto-organized urban fabric in permanent change.
 
-This type of urban development has long tradition in Lima. From the initial push of libertarian Pedro Beltran, Prime Minister in the 1950s; it was studied systematically by Turner, who interpreted this action as autonomous operation of individuals pursuing a novel and long term way to achieve both housing and financial freedom.
+This type of urban development has long tradition in Lima. From the initial political impulse from libertarian Pedro Beltran, Prime Minister in the 1950s; it was studied systematically by Turner, who interpreted this action as autonomous operation of individuals pursuing a novel and long term way to achieve both housing and financial freedom.
 
 These interacting self-interested individuals configure the foundation of the process. They are the agents of transformation of the materials and labour into the physical shape of the built space.
 
