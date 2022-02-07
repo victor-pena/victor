@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Self-organization and the persistence of the modernist view as Lima grows"
+title: "The persistence of the modernist view as Lima grows self-organized"
 author: "Victor Peña Guillen"
 #date:   2022-01-27 16:52:30 +0900
 #permalink: /hello-world/
