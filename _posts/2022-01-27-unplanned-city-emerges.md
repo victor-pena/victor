@@ -27,7 +27,7 @@ Property over this single detached houses is a necessary attritute to allow self
 The common case is that of a single owner taking decisions over the present and future of its property, even as independent families within the household occupies diferent house spaces, it has not usually been observed the fragmentation of property.
 
 ![self-organization]({{ "/assets/independencia1.jpg" | relative_url }})
-*Urbanización informal (Fuente: Victor Peña Guillen 2020)*
+*Urbanización informal en una ladera de Lima (Fuente: Victor Peña Guillen 2020)*
 
 ## Dynamics and power
 
