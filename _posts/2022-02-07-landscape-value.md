@@ -24,9 +24,12 @@ Land is a category related to property deeds. People on the highlands possesing 
 ![commodification]({{ "/assets/sedapal.jpg" | relative_url }})
 *Lima watershed (Fuente: SEDAPAL 2017)*
 
-
 ## The realization of the commodity
 
 Describe, assess or evaluate landscape value in terms of ecosystem sevice is pretty straightforward in the epistemological realm and for technocratic purposes. However, the ontological meaning of this value is of concern for coming to terms theoretically with water resource commodification more satisfactorily.
 
 The land pattern that emerge from relations of water production across the watershed of Lima generate a space of territorial congruence where the ecosystem service scheme plays a catalitic role in diverting fluxes to the maintenance and provision of the water commodity.
+
+### Reference
+
+[^1]: Christophers B. 2016. For real: land as capital and commodity. Transactions of the Institute of British Geographers 41 (2): 134-148. Willey.
