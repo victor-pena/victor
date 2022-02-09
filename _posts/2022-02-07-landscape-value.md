@@ -28,7 +28,7 @@ Land is a category related to property deeds. People on the highlands possesing 
 
 Describe, assess or evaluate landscape value in terms of ecosystem sevice is pretty straightforward in the epistemological realm and for technocratic purposes. However, the ontological meaning of this value is of concern for coming to terms theoretically with water resource commodification more satisfactorily.
 
-The land pattern that emerge from relations of water production across the watershed of Lima generate a space of territorial congruence where the ecosystem service scheme plays a catalitic role in diverting fluxes to the maintenance and provision of the water commodity.
+The land pattern that emerge from relations of water production across the watershed of Lima generate a space of territorial congruence where the ecosystem service scheme plays a catalitic role in diverting capital fluxes to the maintenance and provision of the water commodity.
 
 ### Reference
 
