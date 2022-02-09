@@ -9,7 +9,7 @@ categories: updates
 
 ## Supuestos del análisis
 
-La cuesti[on que aborda el presente artículo es el problema de la baja productividad en el sector agricola peruano. El análisis se realiza tomando como referencia la teoría social crítica[^1]. 
+La cuestión que aborda el presente artículo es el problema de la baja productividad en el sector agricola peruano. El análisis se realiza tomando como referencia la teoría social crítica[^1]. 
 En un primer paso, se identifican las brechas teóricas existentes entre la busqueda del incremento de la productividad y el funcionamiento del sistema socio-espacial, en el marco de operacion del libre mercado en el Perú.
 Esta identificación emplea los estudios de Mandel, sobre la política económica regional, donde la estructura socio-espacial es necesaria para que se realize la reproducción del capital.
 
