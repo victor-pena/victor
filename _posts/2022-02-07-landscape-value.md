@@ -21,7 +21,7 @@ Above mentioned quote is not gratuite as it gives way to discuss first, the role
 
 Land is a category related to property deeds. People on the highlands possesing land contributes to the water regulation function by conserving and maintaining green infrastructure such as pastures, lakes, infiltration fields, etc. They receive payment via public investment funded primarly by fees that urban dwellers pay to Lima water utility company.
 
-![commodification]({{ "/assets/sedapal.jpg" | relative_url }})
+![commodification]({{ "/assets/sedapal1.jpg" | relative_url }})
 *Lima watershed (Fuente: SEDAPAL 2017)*
 
 ## The realization of the commodity
