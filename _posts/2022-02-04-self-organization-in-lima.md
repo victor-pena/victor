@@ -32,7 +32,7 @@ The seek of spatial order continues on and is also feeding a stigma against info
 The two mentioned views intersect on the issue of the social and economic convenience for the city to maintain individual, decentralized self-building housing.
 Professional establishment in Lima favors the modernist approach and agree on the use of public budget to finance formal real estate developers and construction companies.
 Peruvian state agrees with both the modernist vision and the support of informal settlers.
-Ciudad Bicentenario project, whose cost is estimated in USD 3 billion, is going to provide the political arena and space to test, using public funds, the plausibility of top-down planning facing the advancing and combined effort of independent agents generating physical and social spaces.
+Ciudad Bicentenario project, whose cost is estimated in USD 3 billion, is going to provide the political arena and space to test, using public funds. The plausibility of top-down planning is facing initial public design, from the advancing and combined effort of independent agents that are actually generating physical and social spaces.
 
 ### References
 
