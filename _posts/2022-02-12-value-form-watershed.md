@@ -33,8 +33,7 @@ Several reasons could be argued regarding the full implementation of the governa
 
 ### References
 
-[^1]: Maria Kaika, Erik Swyngedouw. 2014.Radical urban political-ecological
-imaginaries. Dérive 55: 15-20.
+[^1]: Maria Kaika, Erik Swyngedouw. 2014. Radical urban political-ecological imaginaries. Dérive 55: 15-20.
 [^2]: Rutgerd Boelens, Jaime Hoogesteger, Erik Swyngedouw, Jeroen Vos, Philippus Wester. 2016. Hydrosocial territories: a political ecology perspective. Water International 41(1): 1–14. Routledge.
 [^3]: Soja, Edward. 1989. Postmodern Geographies: The Reassertion of Space in Critical Social Theory. New York: Verso.
-[^4]: Lena Hommes, Rutgerd Boelens. 2018. From natural flow to ‘working river’: hydropower development,modernity and socio-territorial transformations in Lima's Rimac watershed. Journal of Historical Geography 62: 85-95. Elsevier.
+[^4]: Lena Hommes, Rutgerd Boelens. 2018. From natural flow to 'working river': hydropower development,modernity and socio-territorial transformations in Lima's Rimac watershed. Journal of Historical Geography 62: 85-95. Elsevier.
