@@ -34,7 +34,7 @@ The value-form circulation of water and its transformation to societal value acr
 
 Current institutional arrangement allows both the highland communities to negotiate the territorial configuration and its resources, and the geographical transfer of value downstream (e.g. participative budgeting, watershed council, etc.). The value-form of water is realizing into a social driven territorial governance adressing physical capital distribution towards the headwaters. However, the masive power of public and private institutions based in Lima is preventing them to grasp the command of the circulation.
 
-Several reasons could be argued regarding the full implementation of the governance, but these have in common the distrust of these institutions to negociate on actual value returns with the population living in the highlands. SbN and MeReSE may set a intermetiate stage in the transition to a governance model that permits an increased flow of returns from water value realizations in Lima.
+Several reasons could be argued regarding the full implementation of the governance, but these have in common the distrust of these institutions to negociate on actual value returns with the population living in the highlands. SbN and MeReSE may set a intermetiate stage in the transition to a governance model that permits an increased flow of returns from water value realizations in Lima. Current model is private-oriented with a constellation of actors and a regulatory body (SUNASS).
 
 ### References
 
