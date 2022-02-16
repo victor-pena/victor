@@ -21,7 +21,7 @@ Landscape change in Lima watershed emerges from the social form that accompanies
 ## Water circulation and the geographical transfer of value
 
 This described socio-spatial configuration appears as "the mutable spatiality of the geographical transfer of value" (Soja 1996)[^3].
-Capital in Lima controls the provision of water and energy in the headwaters. Hommes and Boelens (2018)[^4], found that "socio-cultural, legal-institutional, economic and physical-hydrological arrangements are reconstituted" to bring about water resource and energy supply towards Lima.
+Capital controls the provision of water and energy in the headwaters downwards to Lima that is producing more than 50% of Peruvian GDP. Hommes and Boelens (2018)[^4], found that "socio-cultural, legal-institutional, economic and physical-hydrological arrangements are reconstituted" to bring about water resource and energy supply towards Lima.
 SbN and MeReSE (Mechanism for Returning the Ecosystem Services) schemes are a further movement in the relations of center-periferia that have been working in the domain and relations of water resource management in Lima watershed for decades.
 Identification and description of these power relations would provide insights to reaccomodate resource management framework and perhaps to fix unequalities in the actual governance practice.
 
