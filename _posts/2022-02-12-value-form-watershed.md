@@ -16,7 +16,7 @@ The form of value is not the commodification, since "the commodity is a moment i
 Landscape change in Lima watershed emerges from the social form that accompanies its explicit physical form, merged in a system of *territorial congruence*. This superstructure along with the (green) infrastructure is the hydrosocial territory (Boelens et al. 2016)[^2]. Here it has developed historically through the water management practices to become a cultural landscape and a social network composed by several actors that now are accompanying the institutionalized programme of the nature-based solutions-NbS. NbS functions as landscape template, is the "green" component of a consensus predicated upon ecological values, and at the same time allow for usual capital reproduction, circulation and accumulation. The above mentioned template is supported and marketed employing moral arguments not political decisions.
 
 ![water]({{ "/assets/survey.jpg" | relative_url }})
-*Surveying water resources in Lima watershed (Source: Aquafondo 2019)*
+*Surveying water resources in Lima headwaters (Source: Aquafondo 2019)*
 
 ## Water circulation and the geographical transfer of value
 
