@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La producción social del espacio"
+title: "La producción social del espacio (2)"
 author: "Victor Peña Guillen"
 #date:   2022-02-21 16:52:30 +0900
 #permalink: /hello-world/
