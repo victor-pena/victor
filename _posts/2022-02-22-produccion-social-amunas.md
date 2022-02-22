@@ -15,13 +15,13 @@ and consumption of their environments as commodities"* (Heynen et al. 2006, cita
 Ciertamente los canales de infiltración llamados *amunas* tuvieron funciones de regulacion hídrica similares durante el régimen de uso de los recursos en el periodo prehispanico.
 Sin embargo en la actualidad su funcion social es diferente, a causa de la presencia de la ciudad de Lima.
 
-El abastecimiento de agua a la ciudad ha venido siendo un asunto de importancia que fue progresivamente abordado desde la ocupación española del valle de Lima (Ref.)[^2]. El cambio en la estructura social que sucedió, tambien modificó el manejo y aprovechamiento, y esos cambios se vieron influenciados por el crecimiento de la población.
+El abastecimiento de agua a la ciudad ha venido siendo un asunto de importancia que fue progresivamente abordado desde la ocupación española del valle de Lima (Cogorno 2015)[^2]. El cambio en la estructura social que sucedió, tambien modificó el manejo y aprovechamiento, y esos cambios se vieron influenciados por el crecimiento de la población.
 
 Como consecuencia de este factor, la produccion de agua está explicitamente definida y abordada, en consecuencia, a traves de construcción de infraestructura y equipamiento a lo largo de una secuencia metabólica lineal que se origina en la cordillera y termina en el océano.
 
 ## La aproximación desde la Ecología Política
 
-La Ecología Política provee un enfoque para entender los procesos de transformacion del paisaje, empleando su particular visión de la economía política. Como se vio en la entrada anterior, la espacialisación es un concepto operativo para descubrir la formacion del paisaje en este proceso que Swyngedouw, Kaika y Castro (2006)[^3] denominan ``urbanización de la naturaleza"
+La Ecología Política provee un enfoque para entender los procesos de transformacion del paisaje, empleando su particular visión de la economía política. Como se vio en la entrada anterior, la espacialisación es un concepto operativo para descubrir la formacion del paisaje en este proceso que Swyngedouw, Kaika y Castro (2002)[^3] denominan ``urbanización de la naturaleza"
 
 Con el objetivo de descubrir aquella *dinámica social de la espacialización* del agua, que explicaría la formación social del paisaje en las áreas de captación de agua, la aproximacion elegida consiste en describir al agua como materia que puede ser instrumentada, e identificar cuales son sus fases en esas mediaciones durante su proceso de producción y transferencia geográfica de valor.
 
