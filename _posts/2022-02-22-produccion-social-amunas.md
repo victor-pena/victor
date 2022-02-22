@@ -39,7 +39,6 @@ En un paso siguiente esta naturaleza se urbaniza, pues se le encarga producir el
 
 Territorio es el lugar donde se ejerce soberania. Esta es una concepcion modernista de la implementacion social del poder en un lugar o espacio físico. Las relaciones de poder a lo largo del espacio donde se transfiere el valor del agua generan un paisaje fisico, politico, social, y económico desigual.
 
-
 [](como se hace operativa la ecologica politica para estudiar este caso
 al carecer de forma es indiferente a si misma
 la sustancia es devenir el paso de la potencia al acto
