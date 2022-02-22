@@ -38,6 +38,7 @@ En un paso siguiente esta naturaleza se urbaniza, pues se le encarga producir el
 ## Relaciones de poder
 
 El territorio es el lugar donde se ejerce soberanía. Esta es una concepción modernista de la implementacion social del poder en un lugar o espacio físico. Las relaciones de poder a lo largo del espacio donde se transfiere el valor del agua generan un paisaje físico, político, social, y económico desigual.
+Una forma de visualizar esa desigualdad es comparando la inversión destinada a la construcción de infraestructura natural en las cabeceras de las cuencas que abastecen a la ciudad de Lima, la urbanizacion de la naturaleza, con los ingresos que se obtienen por el pago del servicio de agua.
 
 ### Referencias
 [^1]: Nik Heynen,Harold A. Perkins, Parama Roy 2006. The Political Ecology of Uneven Urban Green Space, The Impact of Political Economy on Race and Ethnicity in Producing Environmental Inequality in Milwaukee. Urban Affairs Review 42(1): 3-25. Sage Publications.
