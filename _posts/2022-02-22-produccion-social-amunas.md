@@ -7,7 +7,7 @@ date:   2022-02-22 16:52:30 +0900
 categories: updates
 ---
 
-*"cities have emerged as centers for the production, exchange,
+*"... cities have emerged as centers for the production, exchange,
 and consumption of their environments as commodities"* (Heynen et al. 2006, citando a Lefebvre 1991, 1996, 2003; Robbins, Polderman, and Birkenholtz 2001)[^1].
 
 ## Antecedentes
@@ -17,7 +17,7 @@ Sin embargo en la actualidad su funcion social es diferente, a causa de la prese
 
 El abastecimiento de agua a la ciudad ha venido siendo un asunto de importancia que fue progresivamente abordado desde la ocupación española del valle de Lima (Cogorno 2015)[^2]. El cambio en la estructura social que sucedió, tambien modificó el manejo y aprovechamiento, y esos cambios se vieron influenciados por el crecimiento de la población.
 
-Como consecuencia de este factor, la produccion de agua está explicitamente definida y abordada, en consecuencia, a traves de construcción de infraestructura y equipamiento a lo largo de una secuencia metabólica lineal que se origina en la cordillera y termina en el océano.
+Como consecuencia de este factor, la produccion de agua está explicitamente definida y abordada, en consecuencia, a traves de construcción de infraestructura y equipamiento a lo largo de una secuencia metabólica lineal que se origina en la cordillera y termina en el océano. La institucion a cargo es SEDAPAL.
 
 ## La aproximación desde la Ecología Política
 
@@ -29,9 +29,9 @@ De este modo se presta atrención a los nudos entretejidos del proceso social, e
 
 ## La producción social de las amunas
 
-Primero identifiquemos la forma fisica y las consecuencias socioecologicas. Esta forma procede de una materia que es el agua que en su origen historico geografico al carecer de forma es indiferente a si misma.
+Primero identifiquemos la forma física y las consecuencias socio-ecológicas. Esta forma procede de una materia que es el agua que, en su origen histórico y geográfico, al carecer de forma es indiferente a si misma.
 
-Una vez que se construye los canales con el objetivo de infiltrar el agua para recargar su acuifero, y emplearla en campos agricolas localizados aguas abajo, adquiere su primera forma que a su vez es su primera mediacion. La naturaleza se produce y el proceso social adquiere espacialidad. El agua como elemento que se presenta, interpreta y usa ademas adquiere valor de cambio al requerir de una organizacion para su retribucion a traves del mantenimiento.
+Una vez que se construyen los canales con el objetivo de infiltrar el agua para recargar su acuífero, y emplearla en campos agrícolas localizados aguas abajo, esta adquiere su primera forma que es a su vez su primera mediacion. La naturaleza se produce y el proceso social adquiere espacialidad. El agua como elemento que se presenta, interpreta y usa ademas adquiere valor de cambio, al requerir de una organización para su retribucion a traves del mantenimiento.
 
 En un paso siguiente esta naturaleza se urbaniza, pues se le encarga producir el agua para abastecer a la ciudad. El mecanismo de retribucion por servicios ambientales (MeReSE) encaja en el esquema de produccion de agua, SEDAPAL invierte ahora en infraestructura natural como complemento a la construccion de infraestructura gris. Las amunas son una mezcla de ambas, una etapa donde la materia agua puede ser instrumentada. Esta es una fase en esas mediaciones del metabolismo lineal de la produccion de agua. El resultado emergente es el paisaje que se presenta en sus escalas geográficas y territoriales.
 
