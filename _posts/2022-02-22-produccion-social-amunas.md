@@ -37,7 +37,13 @@ En un paso siguiente esta naturaleza se urbaniza, pues se le encarga producir el
 
 ## Relaciones de poder
 
-Territorio es el lugar donde se ejerce soberania. Esta es una concepcion modernista de la implementacion social del poder en un lugar o espacio físico. Las relaciones de poder a lo largo del espacio donde se transfiere el valor del agua generan un paisaje fisico, politico, social, y económico desigual.
+Territorio es el lugar donde se ejerce soberanía. Esta es una concepción modernista de la implementacion social del poder en un lugar o espacio físico. Las relaciones de poder a lo largo del espacio donde se transfiere el valor del agua generan un paisaje físico, político, social, y económico desigual.
+
+### Referencias
+[^1]: Nik Heynen,Harold A. Perkins, Parama Roy 2006. The Political Ecology of Uneven Urban Green Space, The Impact of Political Economy on Race and Ethnicity in Producing Environmental Inequality in Milwaukee. Urban Affairs Review 42(1): 3-25. Sage Publications.
+[^2]: Gilda Cogorno. 2015. Agua e hidráulica urbana de Lima: espacio y gobierno, 1535-1596. Pontificia Universidad Católica del Perú, Instituto Riva-Aguero.
+
+[^3]: Erik Swyngedouw, Maria Kaika and Esteban Castro. 2002. Urban Water: A Political-Ecology Perspective. Built Environment 28(2), Water Management in Urban Areas: 124-137.
 
 [](como se hace operativa la ecologica politica para estudiar este caso
 al carecer de forma es indiferente a si misma
