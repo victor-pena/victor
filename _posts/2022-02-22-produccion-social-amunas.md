@@ -39,18 +39,23 @@ En un paso siguiente esta naturaleza se urbaniza, pues se le encarga producir el
 
 El territorio es el lugar donde se ejerce soberanía. Esta es una concepción modernista de la implementacion social del poder en un lugar o espacio físico. Las relaciones de poder a lo largo del espacio donde se transfiere el valor del agua generan un paisaje físico, político, social, y económico desigual.
 Una forma de visualizar esa desigualdad es comparando la inversión destinada a la construcción de infraestructura natural en las cabeceras de las cuencas que abastecen a la ciudad de Lima, la urbanizacion de la naturaleza, con los ingresos que se obtienen por el pago del servicio de agua.
+Este asunto es analizado por Hommes y Boelens (2017)[^4], quienes estudiaron las estructuras jerárquicas de control donde SEDAPAL y las comunidades rurales negocian en posiciones desiguales. Ellos sostienen que, a partir de esta situación, donde el agua esta controlada por las instituciones de abastecimiento de agua y energía, emergen injusticias en la distribución de los beneficios derivados del agua.
 
 ### Referencias
+
 [^1]: Nik Heynen,Harold A. Perkins, Parama Roy 2006. The Political Ecology of Uneven Urban Green Space, The Impact of Political Economy on Race and Ethnicity in Producing Environmental Inequality in Milwaukee. Urban Affairs Review 42(1): 3-25. Sage Publications.
+
 [^2]: Gilda Cogorno. 2015. Agua e hidráulica urbana de Lima: espacio y gobierno, 1535-1596. Pontificia Universidad Católica del Perú, Instituto Riva-Aguero.
 
 [^3]: Erik Swyngedouw, Maria Kaika and Esteban Castro. 2002. Urban Water: A Political-Ecology Perspective. Built Environment 28(2), Water Management in Urban Areas: 124-137.
+
+[^4]: Lena Hommes, Rutgerd Boelens. 2017. Urbanizing rural waters: Rural-urban water transfers and the reconfiguration of hydrosocial territories in Lima. Political Geography 57: 71-80. Elsevier.
 
 [](como se hace operativa la ecologica politica para estudiar este caso
 al carecer de forma es indiferente a si misma
 la sustancia es devenir el paso de la potencia al acto
 la realizacion
 teoria
-para si para otros
+para si y para otros
 el paso de su estado indeciso a su estado decidido
 la materia que puede ser instrumentada cuales son sus fases)
