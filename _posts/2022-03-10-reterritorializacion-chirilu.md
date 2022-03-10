@@ -7,11 +7,11 @@ date:   2022-03-10 16:52:30 +0900
 categories: updates
 ---
 
-``... territory is not external to the society that formed it, but rather is its substance, it also embodies the contradictions, conflicts and struggles of that society" (Baletti, 2012, p. 578)[^1]
+"... territory is not external to the society that formed it, but rather is its substance, it also embodies the contradictions, conflicts and struggles of that society" (Baletti, 2012, p. 578)[^1]
 
 ## El territorio como la sustancia de la sociedad que lo forma
 
-La iniciativa de retribución por servicios ecosistémicos hídricos (MeReSE), que esta desarrollándose en las cuencas de los rios Chillón, Rimac y Lurín, conlleva una reestructuración de las estructuras sociales y espaciales del territorio hidro-social. Esta evolución en la conformación de las estructuras espaciales y las condiciones sociales de ``producción de agua" esta siendo implementada por una asociación de actores públicos y privados cuyo rol de control institucional esta a cargo de SEDAPAL.
+La iniciativa de retribución por servicios ecosistémicos hídricos (MeReSE), que esta desarrollándose en las cuencas de los rios Chillón, Rimac y Lurín (ChiRiLu), conlleva una reestructuración de las estructuras sociales y espaciales del territorio hidro-social. Esta evolución en la conformación de las estructuras espaciales y las condiciones sociales de ``producción de agua" esta siendo implementada por una asociación de actores públicos y privados cuyo rol de control institucional esta a cargo de SEDAPAL.
 
 El territorio involucrado posee una historia de urbanización de la naturaleza, que se sustenta en la demanda de usos para consumo y producción de bienes en la ciudad de Lima. Este proceso de construcción de soberania sobre el espacio y los recursos hídricos abarca, además del espacio de la cuenca, las dimensiones sociales, institucionales y materiales que componen la red hidro-social; esta proyección se observa desde la escala de una amuna hasta comprender la red de drenaje de la cuenca (Boelens et al. 2016)[^2].
 
