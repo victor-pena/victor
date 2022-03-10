@@ -19,7 +19,7 @@ El medio ambiente contribuye al bienestar humano, y en esta relación la infraes
 
 ## La Re-territorialización de las cuencas
 
-El año 2016 se promulga la Ley 30215 y su Reglamento (DS 009-2016-MINAM) que establece la estrategia de escala nacional de los MeReSE, fundamentados en la caracterización de la estructura y función del ecosistema, y del servicio ecosistémico.
+El año 2016 se promulgan la Ley 30215 y su Reglamento (DS 009-2016-MINAM), que establecen la estrategia de escala nacional de los MeReSE, fundamentados en la caracterización de la estructura y función del ecosistema, y del servicio ecosistémico.
 
 La SUNASS provee el esquema institucional para la implementación de las actividades de retribución por servicios ecosistémicos hídricos. La norma correspondiente es el DS 1280, Ley de Gestión y Prestación de los Servicios de Saneamiento. En esta última norma se establece reservar en una cuenta intangible un porcentaje de sus ingresos para la operación del régimen de los MeReSE hídricos.
 
