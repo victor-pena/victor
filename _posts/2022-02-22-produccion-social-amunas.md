@@ -58,4 +58,7 @@ la realizacion
 teoria
 para si y para otros
 el paso de su estado indeciso a su estado decidido
-la materia que puede ser instrumentada cuales son sus fases)
+la materia que puede ser instrumentada cuales son sus fases
+As of August 2020, 37 of Peru’s 50 water utilities have begun to generate revenue for NBS through their water tariffs
+coxon gammie 2021
+)
