@@ -23,9 +23,10 @@ El año 2016 se promulgan la Ley 30215 y su Reglamento (DS 009-2016-MINAM), que 
 
 La SUNASS provee el esquema institucional para la implementación de las actividades de retribución por servicios ecosistémicos hídricos. La norma correspondiente es el DS 1280, Ley de Gestión y Prestación de los Servicios de Saneamiento. En esta última norma se establece reservar en una cuenta intangible un porcentaje de sus ingresos para la operación del régimen de los MeReSE hídricos.
 
-El marco normativo e institucional descrito viene promoviendo la re-estructuración del territorio. Esto se observa en el incremento en el financiamiento de las obras de infraestructura natural. La justificación cientifica viene de la mano de una nueva iteración de la logica positivista de control social y político de los recursos, denominada esta vez Soluciones basadas en la Naturaleza.
+El marco normativo e institucional descrito viene promoviendo la re-estructuración del territorio. Esto se observa en el incremento en el financiamiento de las obras de infraestructura natural.
+La rehabilitación de las amunas, la restauración de bofedales y la construcción de zanjas de infiltración, son realizaciones materiales del renovado proceso de producción social del territorio y de mercantilización del agua. 
 
-La rehabilitación de las amunas, la restauración de bofedales y la construcción de zanjas de infiltración, son realizaciones materiales del renovado proceso de producción social del territorio y de mercantilización del agua. El valor del trabajo incorporado en el valor del recurso hídrico se traslada aguas abajo hacia las áreas de consumo y producción. El valor del agua es retribuido aguas arriba en un esquema de distribución desigual,que no refleja el aporte territorial de la parte alta, mientras que el capital se reproduce, circula y acumula inequitativamente en Lima bajo el esquema de gobernanza territorial arriba descrito.
+El valor del trabajo incorporado en el valor del recurso hídrico se traslada aguas abajo hacia las áreas de consumo y producción. El valor del agua es retribuido aguas arriba en un esquema de distribución desigual,que no refleja el aporte territorial de la parte alta, mientras que el capital se reproduce, circula y acumula inequitativamente en Lima bajo el esquema de gobernanza territorial arriba descrito.
 Tal como indica Melathopoulos (2015)[^3], el enfoque de valoración de servicios ecosistémicos podría estar reflejando la cambiante estructura de la sociedad y de su sustancia territorial.
 
 ### References
@@ -36,4 +37,5 @@ Tal como indica Melathopoulos (2015)[^3], el enfoque de valoración de servicios
 
 [^3]: Andony P. Melathopoulos, Alexander M. Stoner. 2015. Critique and transformation: On the hypothetical nature of ecosystem service value and its neo-Marxist, liberal and pragmatist criticisms. Ecological Economics 117: 173–181. Elsevier.
 
-[](urbanizacion de la naturaleza en chan-chan)
+[](urbanizacion de la naturaleza en chan-chan
+La justificación cientifica viene de la mano de una nueva iteración de la logica positivista de control social y político de los recursos, denominada esta vez Soluciones basadas en la Naturaleza.)
