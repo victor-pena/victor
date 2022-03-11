@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Re-territorialización en las cuencas ChiRiLu"
+title: "Re-territorialización en las cuencas de Lima"
 author: "Victor Peña Guillen"
 date:   2022-03-10 16:52:30 +0900
 #permalink: /hello-world/
