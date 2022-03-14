@@ -37,4 +37,4 @@ El reconocimiento de la imposibilidad de controlar esos complejos sistemas terri
 
 ---
 
-[^1]: Ordenamiento Territorial es un curso dictado en la Facultad de Ingenieria Agricola de la Universidad Nacional Agraria La Molina.
+[^1]: Ordenamiento Territorial es un curso dictado en la Facultad de Ingeniería Agrícola de la Universidad Nacional Agraria La Molina.
