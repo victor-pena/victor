@@ -24,7 +24,7 @@ Los SE emplean lo que se podría denominar el comando directivo, es decir establ
 Hay que señalar que en ambos casos se proclama el bién público como justificación y fín de las actividades propuestas. Asimismo, es necesario indicar que, generalmente, los recursos que se buscan gestionar, a traves de estos dos instrumentos, son aquellos de uso público (agua, aire, patrimonio natural, etc.), aunque la propiedad de la tierra que sostiene las funciones correspondientes sea privada.
 
 ![zee]({{ "/assets/zee_puno.jpg" | relative_url }})
-*ZEE Puno (Source: radioaltura.com)*
+*ZEE provincia de Carabaya, Puno (Source: radioaltura.com)*
 
 ## Localización de la infraestructura (natural) de producción
 
