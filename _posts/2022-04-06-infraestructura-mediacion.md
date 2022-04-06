@@ -9,7 +9,7 @@ categories: updates
 
 ## Una ontología de la infraestructura
 
-Una turbina propulsada por el agua convierte el movimiento en energía electrica. De este modo, este equipo y toda la infraestructura asociada actúan como intermediación entre la materia agua, su estado potencial, y diversas formas de uso humano. Este ejemplo puede extenderse, a través del espacio y del sistema de producción, decribiendo la secuencia de mediaciones de la materia que se convierten en elementos que tienen una determinada forma, que sirven a su vez como materia para otros usos.
+Una turbina propulsada por el agua convierte el movimiento en energía eléctrica. De este modo, este equipo y toda la infraestructura asociada actúan como intermediación entre la materia agua, su estado potencial, y diversas formas de uso humano. Este ejemplo puede extenderse, a través del espacio y del sistema de producción, decribiendo la secuencia de mediaciones de la materia que se convierten en elementos que tienen una determinada forma, que sirven a su vez como materia para otros usos.
 
 Esta concatenación sugiere que entendiendo el contexto social y espacial en el que opera la infraestructura, permite comprender el sistema económico y político que la genera y la sostiene.
 
