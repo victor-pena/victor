@@ -2,7 +2,7 @@
 layout: post
 title: "La infraestructura como mediación"
 author: "Victor Peña Guillen"
-date:   2022-03-14 16:52:30 +0900
+date:   2022-04-06 16:52:30 +0900
 #permalink: /hello-world/
 categories: updates
 ---
