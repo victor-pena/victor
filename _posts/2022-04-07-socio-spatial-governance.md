@@ -9,7 +9,7 @@ categories: updates
 
 ## La operación del mercado y la gobernanza territorial
 
-La construcción y recuperación de las infraestructuras de control o regulación de las funciones ecosistémicas, se enmarca dentro de una red de comando operando en las diversas escalas territoriales, en la que el recurso se emplea o intercambia. Este esquema de gestión puede estar definido por claros regímenes de gobernanza, derechos de propiedad, normas institucionales y bien establecidos actores o grupos de interés.
+La construcción y recuperación de las infraestructuras de control o regulación de las funciones ecosistémicas, se enmarca dentro de una red de comando que opera en las diversas escalas territoriales, en la que el recurso se emplea o intercambia. Este esquema de gestión puede estar definido por claros regímenes de gobernanza, derechos de propiedad, normas institucionales y bien establecidos actores o grupos de interés.
 
 El mercado generado por las nuevas iteraciones de los instrumentos de manejo ambiental, como es el caso de los servicios ecosistémicos, se orienta hacia reducir la incertidumbre generada por los cambios geográficos, las variaciones económicas y los vaivenes políticos. En todo caso estas turbulencias generan, tanto riesgos que enfrentar, como oportunidades económicas para aprovechar.
 
