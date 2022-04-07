@@ -21,7 +21,7 @@
 title: Landscape power
 email: victorpg@lamolina.edu.pe
 description: >- # this means to ignore newlines until "baseurl:"
-  Landscape restoration and artificial societies represented as complex systems and interpreted by radical geography
+  Landscape restoration and societies represented as complex systems operating at different territorial scales and interpreted by political geography
 domain: victor-pena.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 
 baseurl: "/victor" # the subpath of your site, e.g. /blog
