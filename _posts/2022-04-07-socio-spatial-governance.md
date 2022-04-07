@@ -2,7 +2,7 @@
 layout: post
 title: "Regímenes de gobernanza"
 author: "Victor Peña Guillen"
-date:   2022-04-07 16:52:30 +0900
+date:   2022-04-06 16:52:30 +0900
 #permalink: /hello-world/
 categories: updates
 ---
