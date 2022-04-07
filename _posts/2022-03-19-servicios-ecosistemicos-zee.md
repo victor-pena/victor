@@ -34,7 +34,6 @@ La dimensión social no es explícita en áreas homogéneas establecidas por la 
 
 ---
 **Notas**
-
 La Ley 20230 (simplificación de procesos), promulgada el 12 Julio del 2014, menciona en su artículo 22 que "ni la Zonificación Económica Ecológica, ni el
 Ordenamiento Territorial asignan usos ni exclusiones de uso".
 
