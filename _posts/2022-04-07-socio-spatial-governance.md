@@ -13,7 +13,7 @@ La construcción y recuperación de las infraestructuras de control o regulació
 
 El mercado generado por las nuevas iteraciones de los instrumentos de manejo ambiental, como es el caso de los servicios ecosistémicos, se orienta hacia reducir la incertidumbre generada por los cambios geográficos, las variaciones económicas y los vaivenes políticos. En todo caso estas turbulencias generan, tanto riesgos que enfrentar, como oportunidades económicas para aprovechar.
 
-La búsqueda de esquemas de gobernanza predecibles, para asegurar la inversión y la ganancia, se traduce en normas e instituciones que regulan la interacción entre actores, empleando instrumentos de valoración económica como las retribuciones o los costos de oportunidad, fundamentadas en aquel esquema de servicios ecosistémicos.
+La búsqueda de esquemas de gobernanza predecibles, para asegurar la inversión y la ganancia, se traduce en normas e instituciones que regulan la interacción entre actores, empleando instrumentos de valoración económica como las retribuciones o los costos de oportunidad, fundamentados en aquel esquema de servicios ecosistémicos.
 
 ## Gobernanza policéntrica
 
