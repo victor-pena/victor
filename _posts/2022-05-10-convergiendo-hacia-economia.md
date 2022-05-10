@@ -16,7 +16,7 @@ Those environmental framework apply to activities that seek to obtain resources 
 The type of infrastructure does not matter and ranges from mining and oil facilities to parks and restored wetlands. Under this classification all of these can be considered environmental infrastructure, as they constitute the bridge the society employs to get the nature resources or ecosystem services as they are called now.
 
 ![valoracion]({{ "/assets/valoracion.png" | relative_url }})
-*Resolución Ministerial No. 047-2022-MINAM (Fuente: Diario Oficial El Peruano)*
+*Ministerial level regulation on environmental impact valoration (Source: Diario Oficial El Peruano)*
 
 ## The economic construction of environment
 
