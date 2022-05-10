@@ -18,7 +18,7 @@ The type of infrastructure does not matter and ranges from mining and oil facili
 ![valoracion]({{ "/assets/valoracion.png" | relative_url }})
 *Resolución Ministerial No. 047-2022-MINAM (Fuente: Diario Oficial El Peruano)*
 
-## The economic construction of space
+## The economic construction of environment
 
 Since the 1990, the Peruvian state has been including all initiatives of landscape transformation made by public and private institutions under its normative control. This process continues on now, following international standards, which are validated against local conditions. The Ministry of Environment is in charge of this task since its creation in 2008.
 
