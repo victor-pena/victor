@@ -10,7 +10,7 @@ categories: updates
 ## (Environmental) infrastructures
 
 Environmental regulation is converging infrastructure towards an accompaniment with nature functions, following economic means and ends.
-The contimnuous emergence of new landscapes is being conducted in accordance to the mechanisms of capital reproduction. This socio-spatial system operates across scales where society perceptions and concerns about the condition of the nature, are institutionalized by regulations implemented through the same range of scales.
+The continuous emergence of new landscapes is being conducted in accordance to the mechanisms of capital reproduction. This socio-spatial system operates across scales where society perceptions and concerns about the condition of the nature, are institutionalized by regulations implemented through the same range of scales.
 
 Those environmental framework apply to activities that seek to obtain resources from nature. The object of these rules is the infrastructure planning, construction, operation and decommission.
 The type of infrastructure does not matter and ranges from mining and oil facilities to parks and restored wetlands. Under this classification all of these can be considered environmental infrastructure, as they constitute the bridge the society employs to get the nature resources or ecosystem services as they are called now.
