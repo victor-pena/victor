@@ -21,13 +21,14 @@ Por tanto, el estudio del conflicto, asumido como desencuentro de intereses que 
 Puesto el esquema metodológico sobre la mesa, el analisis se acota en los límites de la gestión territorial a través de la inversión pública. Cabe señalar en todo caso que, el ciudadano o beneficiario de los servicios públicos, mantiene su independencia como agente de cambio a partir de su autonomía individual o grupal.
 De esta manera, el conflicto muestra a la acción social y su encuentro con el Estado y con la operación de los flujos globales de movimiento de bienes y servicios. Al parecer el Estado no cumple en tiempo y forma con las demandas que motivan esa acción. La solución es politica y económica, y requiere incorporar esa acción social en instituciones con real participación de los ciudadanos en las actividades de gestión territorial. El proceso de Descentralización, provee la institucionalidad y podrian guiar esa transición hacia un mayor control ciudadano en la gestión de la inversión pública.
 
+---
+**Nota**
+"El proceso de descentralización se realiza por etapas, en forma progresiva y ordenada conforme a criterios que permitan una adecuada asignación de competencias y transferencia de recursos del gobierno nacional hacia los gobiernos regionales y locales. Los Poderes del Estado y los Organismos Autónomos así como el Presupuesto de la República se descentralizan de acuerdo a ley" (Artículo 188, Ley de Bases de la Descentralización).
+
+---
+
 ### Referencias
 
 [^1]: Castells M. 1995. La ciudad informacional: tecnologías de la información, reestructuración económica y el proceso urbano regional. Alianza Editorial. Madrid.
 
 [^2]: Ley No 27680: Ley de Reforma Constitucional que modifica el Capítulo XIV del Título IV de la Constitución Política del Perú (2002).
-
----
-**Nota**
-"El proceso de descentralización se realiza por etapas, en forma progresiva y ordenada conforme a criterios que permitan una adecuada asignación de competencias y transferencia de recursos del gobierno nacional hacia los gobiernos regionales y locales. Los Poderes del Estado y los Organismos Autónomos así como el Presupuesto de la República se descentralizan de acuerdo a ley" (Artículo 188, Ley de Bases de la Descentralización).
----
