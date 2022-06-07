@@ -27,7 +27,7 @@ Las iniciativas del Estado, se acomodan al mercado y aceptan el impulso y decisi
 
 ## ¿Qué es el planeamiento, cómo opera, y cómo debe ser realizado?
 
-Innes (2015)[^2], propone esas preguntas refiriendose al desafío, de la teoría del planeamiento comunicativo, sobre el planeamiento tradicional. En todo caso, la pregunta servirá para proyectar una futura discusión respecto a la actividad individual y al rol del Estado descritos lineas arriba.
+Innes y Booher (2015)[^2], proponen esas preguntas refiriendose al desafío, de la teoría del planeamiento comunicativo, sobre el planeamiento tradicional. En todo caso, la pregunta servirá para proyectar una futura discusión respecto a la actividad individual y al rol del Estado descritos lineas arriba.
 
 Lo mencionado, además resalta la relevancia y el requerimiento de estudiar la evolución de la micro-practica del planeamiento, en una propiedad particular, adaptada a las necesidades del decisor y dentro del marco de la economía de libre mercado.
 
