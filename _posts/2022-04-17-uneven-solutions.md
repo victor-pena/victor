@@ -9,7 +9,7 @@ categories: updates
 
 ## Nature based Solutions as process
 
-Approaching NbS as process rather than to fixed goals allow recognition of contextual changes during green infrastructure setting-up and operation.
+Approaching NbS as a process rather than to a project with fixed goals allow recognition of contextual changes during green infrastructure setting-up and operation.
 Adaptive planning works well with this approach providing new inputs for discussion between stakeholders, facing conflict, driving cooperation and therefore assuring permanent monitoring of outcomes during implementation.
 
 ## Figuring out the NbS engineered systems outputs
