@@ -9,8 +9,8 @@ categories: updates
 
 ## Nature based Solutions as process
 
-Approaching NbS as a process rather than to a project with fixed goals allow recognition of contextual changes during green infrastructure setting-up and operation.
-Adaptive planning works well with this approach providing new inputs for discussion between stakeholders, facing conflict, driving cooperation and therefore assuring permanent monitoring of outcomes during implementation.
+Approaching NbS as a process rather than to a project with fixed goals, allow the recognition of contextual changes during green infrastructure setting-up and operation.
+Adaptive planning works well with this approach, providing new inputs for discussion between stakeholders, facing conflict, driving cooperation and therefore assuring permanent monitoring of outcomes during implementation.
 
 ## Figuring out the NbS engineered systems outputs
 
@@ -23,6 +23,6 @@ Technical expertise is required for both design and construction of NbS, but to 
 
 ## Uneven solutions
 
-Setting communication at the core of the NbS process of colaborative implementation is the strategy that unfolds from the above mentioned observations.
+Setting communication at the core of the NbS process of colaborative implementation, is the strategy that unfolds from the above mentioned observations.
 As places and solutions diverges across uneven socio-spatial geographies, it should be reasonable to expect NbS to emerge accordingly.
-Thus, this identified attribute should not be surprise us, instead the recognition of uneven NbS happening out there in the real world, may help us to include communicative-oriented planning in order to adapt implementation to the occurrence of this process.
+Thus, this identified attribute should not be surprise us, instead the recognition of uneven NbS happening out there in the real world, may help us to realize its holistic character. This aproximation provide arguments to include communicative-oriented planning in the process, in order to address the infrastructure implementation in an adaptively fashion.
