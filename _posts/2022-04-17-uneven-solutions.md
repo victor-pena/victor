@@ -19,7 +19,7 @@ Communication is at the heart of the current analysis.
 Technical expertise is required for both design and construction of NbS, but to assure its durability it needs the participation of the involved communities.
 
 ![ladera2]({{ "/assets/zapallal.jpg" | relative_url }})
-*Area verde auto-gestionada en el distrito de Carabayllo, Lima (Fuente: https://abasto2012i.blogspot.com)*
+*Area verde auto-gestionada en el distrito de Carabayllo, Lima (Fuente: <https://abasto2012i.blogspot.com>)*
 
 ## Uneven solutions
 
