@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plataforma pública para los actores privados"
+title: "Plataforma pública, actores privados y evolución territorial"
 author: "Victor Peña Guillen"
 date:   2022-06-22 16:52:30 +0900
 #permalink: /hello-world/
