@@ -15,7 +15,7 @@ Estos esquemas son regulados por la SUNASS y se financian a través de las tarif
 La identificación y descripción de los sistemas de gobernanza
 existentes es relevante para establecer un esquema descriptivo del proceso de implementacion de las SbN en el contexto peruano de economía de libre mercado.
 
-## Derechos y deberes de los usuarios aportantes y receptores
+## Derechos y deberes de los aportantes y receptores
 
 La materialización en las normas de la idea de retribución o pago por servicios ecosistémicos, sugiere la puesta en práctica de las nociones de justicia social y bien común.
 Ambos principios han sido considerados por los técnicos y funcionarios como la meta a obtener en la gestión de los recursos naturales.
