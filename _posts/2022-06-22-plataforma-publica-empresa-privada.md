@@ -11,7 +11,7 @@ categories: updates
 
 El Mecanismo de Retribución de Servicios Ecosistémicos-MeReSE de regulación hídrica, es un esquema institucional diseñado para sostener las actividades de recarga de los acuiferos en las partes altas de una cuenca (contribuyente), asegurando su uso en la parte baja (retribuyente).
 
-Estos esquemas son regulados por la SUNASS y se financian a través de las tarifas del servicio de abastecimiento.
+Estos esquemas son regulados por la superintendencia Nacional de Servicios de Saneamiento-SUNASS y se financian a través de las tarifas del servicio de abastecimiento.
 La identificación y descripción de los sistemas de gobernanza
 existentes es relevante para establecer un esquema descriptivo del proceso de implementacion de las SbN en el contexto peruano de economía de libre mercado.
 
