@@ -9,7 +9,7 @@ categories: updates
 
 ## Los MeReSE en el mercado
 
-El Mecanismo de Retribución de Servicios Ecosistémicos-MeReSE de regulación hídrica, es un esquema institucional diseñado para sostener las actividades de recarga de los acuiferos en las partes altas de una cuenca (contribuyente), asegurando su uso en la parte baja (retribuyente).
+El Mecanismo de Retribución de Servicios Ecosistémicos-MeReSE de regulación hídrica, es un esquema institucional diseñado para sostener las actividades de recarga de los acuiferos en las partes altas de una cuenca (contribuyente), asegurando su uso en la parte baja (retribuyente)[^1].
 
 Estos esquemas son regulados por la superintendencia Nacional de Servicios de Saneamiento-SUNASS y se financian a través de las tarifas del servicio de abastecimiento.
 La identificación y descripción de los sistemas de gobernanza
@@ -32,3 +32,7 @@ El desarrollo económico local en los sectores aportantes podría considerarse u
 Por tanto, el bienestar de los individuos en las zonas aportantes es un lineamiento a considerar para la verificación de los procesos de cooperación establecidos implicitamente en el mecanismo de los MeReSE.
 
 Finalmente, habra que advertir que ese bienestar, que acompaña al desarrollo, implica la destrucción (creativa) de la actual percepción de aquellos territorios aportantes y por ese motivo creará un nuevo contexto y plataforma socio-espacial para la negociación del uso y gestión de los recursos naturales. El proceso de evolución es continuo.
+
+### Referencias
+
+[^1]: Ley 30215 del 28 de junio del 2014, y su reglamento aprobado por el DS 009-2016-MINAM.
