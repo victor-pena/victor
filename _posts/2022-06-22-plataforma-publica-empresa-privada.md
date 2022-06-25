@@ -13,7 +13,7 @@ El Mecanismo de Retribución de Servicios Ecosistémicos-MeReSE de regulación h
 
 Estos esquemas son regulados por la superintendencia Nacional de Servicios de Saneamiento-SUNASS y se financian a través de las tarifas del servicio de abastecimiento.
 La identificación y descripción de los sistemas de gobernanza
-existentes es relevante para establecer un esquema descriptivo del proceso de implementacion de las SbN en el contexto peruano de economía de libre mercado.
+existentes, es relevante para establecer un esquema descriptivo del proceso de implementacion de las SbN en el contexto peruano de economía de libre mercado.
 
 ## Derechos y deberes de los aportantes y los receptores
 
@@ -33,6 +33,6 @@ Por tanto, el bienestar de los individuos en las zonas aportantes es un lineamie
 
 Finalmente, habra que advertir que ese bienestar, que acompaña al desarrollo, implica la destrucción (creativa) de la actual percepción de aquellos territorios aportantes y por ese motivo creará un nuevo contexto y plataforma socio-espacial para la negociación del uso y gestión de los recursos naturales. El proceso de evolución es continuo.
 
-### Referencias
+### Referencia
 
 [^1]: Ley 30215 del 28 de junio del 2014, y su reglamento aprobado por el DS 009-2016-MINAM.
