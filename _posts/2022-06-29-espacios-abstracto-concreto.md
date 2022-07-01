@@ -42,6 +42,6 @@ EL modelo de red interconectada y mas especificamente la gestión adoptando el e
 
 [^2]: Baringo Ezquerra D. 2013. La tesis de la producción del espacio en Henri Lefebvre y sus críticos: un enfoque a tomar en consideración. Quid 16 3: 110-126. Instituto de Investigaciones Gino Germani, Facultad de Ciencias Sociales, Universidad de Buenos Aires. Buenos Aires, Argentina.
 
-[^3]: Alcalde Miguel Romero explica la distribución de los 42 distritos para formar las 5 Limas (1 de julio del 2022). Peru21. Ultimo acceso: 1 de julio del 2022. <https://larepublica.pe/politica/actualidad/2022/06/23/congreso-municipalidad-de-lima-alcalde-propone-dividir-la-capital-en-5-distritos-lima-metropolitana-miguel-romero-sotelo-mdga/>
+[^3]: Alcalde Miguel Romero explica la distribución de los 42 distritos para formar las 5 Limas (1 de julio del 2022). Peru21. Ultimo acceso: 1 de julio del 2022. <https://peru21.pe/lima/municipalidad-de-lima-alcalde-miguel-romero-explica-la-distribucion-de-los-42-distritos-para-formar-las-5-limas-mml-consejo-metropolitano-rmmn-noticia/>
 
 [^4]: Carlisle K. y Gruby R.L. 2019. Polycentric Systems of Governance: A Theoretical Model for the Commons. Policy Studies Journal 47(4): 927-952. Wiley.
