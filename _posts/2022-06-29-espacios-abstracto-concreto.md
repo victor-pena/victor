@@ -11,7 +11,7 @@ categories: updates
 
 El tejido prehispanico presente en la ciudad de Lima, es descrito por Adine Gavazzi (2014)[^1] como un horizonte subyacente que todavia influye en la configuración territorial de la región. Dicha composición puede leerse empleando el concepto de "espacio absoluto" propuesto por Henri Lefebvre. Este concepto facilita la descripción de la presencia urbana actual.
 
-Los canales, huacas y caminos configuraron el paisaje historico prehispánico del valle irrigado por los rios Chillón, Rimac y Lurín, interpretado y construido en claves culturales. Este espacio absoluto de Lima se ha transformado, al igual que los mitos de la sociedad que lo construye. El paisaje presente responde al sistema ambiental, social, económico y politico que lo produce, y de esta manera emerge a través de las relaciones presentes en el espacio y en el tiempo.
+Los canales, huacas y caminos configuraron el paisaje historico prehispánico del valle irrigado por los rios Chillón, Rimac y Lurín, e interpretado y construido en claves culturales. Este espacio absoluto se ha transformado, al igual que los mitos de la sociedad que lo construye. El paisaje presente en Lima responde al sistema ambiental, social, económico y politico que lo produce, y de esta manera emerge a través de las relaciones presentes en el espacio y en el tiempo.
 
 En esta ciudad, las personas que la habitan interactuan en la micro-escala y deciden donde, cuando y como construir sus viviendas y habitar sus barrios, y orientan el presupuesto público distrital. En esta dimensión política, y con la participación de los grupos de interés, se produce el "espacio concreto" que complementa dialecticamente al "espacio absoluto" (Baringo 2013)[^2].
 
