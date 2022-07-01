@@ -9,22 +9,22 @@ categories: updates
 
 ## La representación del espacio y el espacio de representación
 
-El tejido prehispanico presente en la ciudad de Lima, descrito por Adine Gavazzi (2014)[^1] como un horizonte subyacente que todavia influye en la configuración territorial de la región, puede leerse empleando el concepto de "espacio absoluto" propuesto por Henry Lefebvre. Este concepto facilita la descripción de la presencia urbana actual.
+El tejido prehispanico presente en la ciudad de Lima, es descrito por Adine Gavazzi (2014)[^1] como un horizonte subyacente que todavia influye en la configuración territorial de la región. Dicha composición puede leerse empleando el concepto de "espacio absoluto" propuesto por Henry Lefebvre. Este concepto facilita la descripción de la presencia urbana actual.
 
-Los canales, huacas y caminos configuraron el paisaje historico prehispánico del valle irrigado por los rios Chillón, Rimac y Lurín. Este espacio absoluto de Lima se ha transformado al igual que la sociedad que la construye. El paisaje presente responde al sistema económico que lo produce y emerge a través de las relaciones socio-espaciales presentes.
+Los canales, huacas y caminos configuraron el paisaje historico prehispánico del valle irrigado por los rios Chillón, Rimac y Lurín, interpretado y construido en claves culturales. Este espacio absoluto de Lima se ha transformado, al igual que los mitos de la sociedad que lo construye. El paisaje presente responde al sistema ambiental, social, económico y politico que lo produce, y de esta manera emerge a través de las relaciones presentes en el espacio y en el tiempo.
 
-En esta ciudad, las personas que la habitan tiene un rol importante en la construcción del espacio. Son aquellas quienes en la micro-escala interactuan y deciden donde, cuando y como construir sus viviendas y habitar sus barrios, y orientan el presupuesto distrital. En esta dimensión, y con la participación de los actores sociales, se produce el "espacio concreto" que complementa dialecticamente al "espacio absoluto" (Baringo 2013)[^2].
+En esta ciudad, las personas que la habitan interactuan en la micro-escala y deciden donde, cuando y como construir sus viviendas y habitar sus barrios, y orientan el presupuesto público distrital. En esta dimensión política, y con la participación de los grupos de interés, se produce el "espacio concreto" que complementa dialecticamente al "espacio absoluto" (Baringo 2013)[^2].
 
-El proceso histórico no esta desligado del espacial, la espacialidad creada por los ciudadanos, define y completa la vida social y temporal en la actual región urbana.
+La trayectoria histórica no esta desligada del proceso espacial, la espacialidad creada y andada por los ciudadanos, define y completa la vida social y temporal en la actual región urbana.
 
 ![pucllana]({{ "/assets/pucllana.jpg" | relative_url }})
 *Imagen Lidar de la huaca Pucllana y sus alrededores, Lima (Fuente: Gavazzi 2014)*
 
 ## La continua producción social del espacio en Lima
 
-El espacio abstracto es estructurado a traves de las instituciones y normas del Estado, y del sistema económico de libre mercado que lo complementa. Esta superestructura ejerce influencia parcial en la apariencia del territorio. El "espacio concreto" emerge de la interacción social cotidiana y refleja tanto su dinámica como su presencia efímera en el presente.
+El "espacio concreto" emerge de la interacción social cotidiana, complementada con las instituciones y normas del Estado, y del sistema económico de libre mercado, todo lo cual se refleja en su presencia efímera en el presente.
 
-Desde el Periodo Arcaico (5000 AP), la interacción entre ambas dimensiones es la que ha venido produciendo espacios en el valle de Lima, resaltando la materialidad de los centros administrativos, huacas y sistemas de riego que todavia se pueden observar. Estos nucleos autonomos sub-regionales se configuraron tomando en cuenta el aprovechamiento de los recursos existentes en la costa central. La alteración de la cosmovisión se ha llevado a cabo acumulativamente, y ha sido producida por la permanente incorporación de las nociones y teorías sobre la forma de los asentamientos y el aprovechamiento de los recursos naturales.Estos nuevos elementos tiene origen tanto autóctono como externo al mundo andino.
+Desde el Periodo Arcaico (5000 AP), la interacción entre ambos "espacios" es la clave que ha venido produciendo los consecutivos paisajes en el valle de Lima. Sobre la superficie resalta la materialidad de los centros administrativos, huacas y sistemas de riego que todavia se pueden observar. Estos núcleos autonomos sub-regionales se configuraron en relación a la particular cosmovisión que guiaba el aprovechamiento de los recursos existentes en la costa central. La alteración de los mitos que permiten interpretar y actuar sobre el paisaje del valle se ha llevado a cabo acumulativamente. La permanente incorporación de las nociones y teorías de la interaccion del ser humano con su medio da lugar a la acción social y el resultante cambio del paisaje. Estos nuevos elementos vienen teniendo un origen tanto autóctono como externo al mundo andino.
 
 Desde hace 400 años, en la región de Lima, esta dinámica de cambio socio-espacial se ha acelerado hasta tomar la forma, en nuestra época, de un palimpsesto compuesto por diferentes capas socio-espaciales superpuestas, que dan cabida institucional a la gestión autónoma y descentralizada de los diferentes nucleos municipales presentes actualmente en la región.
 
@@ -35,7 +35,7 @@ La gobernanza de la espacialidad descrita y generada a escala regional, debe tom
 Esta fragmentación favorece la toma de decisiones a escala local.
 Algunos argumentan a favor de la centralización de las funciones a nivel metropolitano a fin de controlar la dinamica autoorganizada [^3]. Sin embargo, mas que la concentración del poder lo que se requiere es modificar las normas que incentivan la desconexion entre distritos y reforzar aquellas que favorecen una vision en conjunto. El esquema de las mancomunidades en una ventana abierta en ese sentido y requiere voluntad politica y comunicación efectiva entre las autoridades locales.
 
-EL modelo de red interconectada y mas especificamente la gestión adoptando el esquema de sistema policentrico de gobernanza [^4], posibilita la implementacion del mencionado enlace y dialogo. Esta estrategia reconoce la policentricidad de aquellos 42 distritos, y se acomoda a la nueva dinamica urbana regional, adoptando la topología de los centros distritales, las nuevas densidades, los planes de desarrollo concertado distritales, y la zonificacion en cada distrito. De este modo, a lo mejor, estaría emergiendo en el amplio territorio limeño un centro de regulacion regional, ambiental, social, económico y politico.
+EL modelo de red interconectada y mas especificamente la gestión adoptando el esquema de sistema policentrico de gobernanza [^4], posibilita la implementacion del mencionado enlace y dialogo. Esta estrategia reconoce la policentricidad de aquellos 42 distritos, y se acomoda a la nueva dinamica urbana regional, adoptando la topología de los centros distritales, las nuevas densidades, los planes de desarrollo concertado distritales, y la zonificacion en cada distrito. De este modo, a lo mejor, estaría emergiendo en el amplio territorio limeño un centro de regulación regional, ambiental, social, económico y politico.
 
 ### Referencias
 
