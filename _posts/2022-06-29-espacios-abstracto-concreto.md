@@ -9,7 +9,7 @@ categories: updates
 
 ## La representación del espacio y el espacio de representación
 
-El tejido prehispanico presente en la ciudad de Lima, es descrito por Adine Gavazzi (2014)[^1] como un horizonte subyacente que todavia influye en la configuración territorial de la región. Dicha composición puede leerse empleando el concepto de "espacio absoluto" propuesto por Henry Lefebvre. Este concepto facilita la descripción de la presencia urbana actual.
+El tejido prehispanico presente en la ciudad de Lima, es descrito por Adine Gavazzi (2014)[^1] como un horizonte subyacente que todavia influye en la configuración territorial de la región. Dicha composición puede leerse empleando el concepto de "espacio absoluto" propuesto por Henri Lefebvre. Este concepto facilita la descripción de la presencia urbana actual.
 
 Los canales, huacas y caminos configuraron el paisaje historico prehispánico del valle irrigado por los rios Chillón, Rimac y Lurín, interpretado y construido en claves culturales. Este espacio absoluto de Lima se ha transformado, al igual que los mitos de la sociedad que lo construye. El paisaje presente responde al sistema ambiental, social, económico y politico que lo produce, y de esta manera emerge a través de las relaciones presentes en el espacio y en el tiempo.
 
