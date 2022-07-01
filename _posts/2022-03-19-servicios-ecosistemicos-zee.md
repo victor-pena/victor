@@ -9,7 +9,7 @@ categories: updates
 
 ## La dimensión espacial en ambos enfoques
 
-Los servicios ecosistemicos - SE son un esquema, de gestión de los recursos naturales, que se emplea para identificar y evaluar las funciones ecosistémicas, tomando como referencia los servicios que estas proveen al ser humano. El reconocimiento de la operación de un sistema socio-ecológico, que se utiliza en este esquema, permite su comparación con otra aproximación al manejo de los recursos naturales, que es espacialmente mas explícita, y que se denomin zonificación ecológica y económica - ZEE.
+Los servicios ecosistemicos - SE son un esquema, de gestión de los recursos naturales, que se emplea para identificar y evaluar las funciones ecosistémicas, tomando como referencia los servicios que estas proveen al ser humano. El reconocimiento de la operación de un sistema socio-ecológico, que se utiliza en este dominio, permite su comparación con otra aproximación al manejo de los recursos naturales, que es espacialmente mas explícita, y que se denomin zonificación ecológica y económica - ZEE.
 
 Sin embargo, a diferencia de la ZEE, donde  el conjunto agregado de parametros y las categorias de la ZEE y su componente de segregación espacial característico, son estáticas, en el enfoque y representación de los SE, estos elementos se acomodan a la dinámica del uso de los recursos en el territorio. En el enfoque SE, el componente espacial requiere una identificación de las escalas donde opera, y del mecanismo de localización espacial presente en estos niveles territoriales; ademas al estar fundamentado en la operación de las funciones ecosistémicas, reconoce los procesos y el movimiento continuo del sistema ecológico-económico adquiriendo un caracter dinámico desde su concepción.
 
