@@ -14,7 +14,7 @@ Tantalean y Leyva (2011) así como Cancho (2020), en sus respectivos trabajos so
 Habria que comentar que de ser asi que no hubo un control centralizado en la construccion, el espacio que emergió, dentro de los monumentos, en fue el de espacios abiertos centrales.
 
 ![huando]({{ "/assets/huando.jpg" | relative_url }})
-* Complejo en U de Huando B, en el Valle Chancay-Huaral (Fuente: Cancho 2020)*
+*Complejo en U de Huando B, en el Valle Chancay-Huaral (Fuente: Cancho 2020)*
 
 ## Linea del espacio y el tiempo
 
