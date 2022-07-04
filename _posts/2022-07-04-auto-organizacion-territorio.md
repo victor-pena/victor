@@ -38,5 +38,4 @@ Aquella sustancia socio-espacial asi generada a partir del trabajo individual, s
 
 [^2]: Christian Giovanni Cancho Ruiz. 2020. Repensando la organización espacial de los «Templos en U» del Formativo de la Costa Central del Perú: el caso de Huando B y el modelo espacial-dual. Bulletin de l'Institut français d'études andines 49(3): 349-372.
 
-[^3]: Chris Collinge. 2005. The _differance_ between society and space: nested scales and the
-returns of spatial fetishism. Environment and Planning D: Society and Space 23, p. 189-206.
+[^3]: Chris Collinge. 2005. The _differance_ between society and space: nested scales and the returns of spatial fetishism. Environment and Planning D: Society and Space 23, p. 189-206.
