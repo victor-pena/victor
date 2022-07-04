@@ -30,7 +30,7 @@ La presencia actual de las unidades de vivienda contruidas sobre las laderas de 
 La construcción social de esta forma urbana es producto del trabajo descentralizado y autónomo de miles de individuos en un contexto de organización institucional que define las regulaciones y valores económicos en el espacio regional.
 
 Pero son las instituciones flexibles, aquellas que permiten la aparición, crecimiento y consolidación de de este tejido urbano en las laderas. El espacio urbanizado se re-territorializa y materializa, obteniendo su sustancia a través del reconocimiento formal de su espacialidad.
-Aquella sustancia socio-espacial asi generada a partir del trabajo individual, se incorpora en el circuito económico de cambio de mercancias y en la institucionalidad del registro público nacional y la gestión municipal local. De esta manera, la auto-organización refleja al sistema político y económico que la genera, así como el patrimonio social presente quizás desde el periodo Formativo.
+Aquella sustancia socio-espacial asi generada a partir del trabajo individual, se incorpora en el circuito económico de cambio de mercancías y en la institucionalidad del registro público nacional y la gestión municipal local. De esta manera, la auto-organización refleja al sistema político y económico que la genera, así como el patrimonio social presente quizás desde el periodo Formativo.
 
 ### Referencias
 
