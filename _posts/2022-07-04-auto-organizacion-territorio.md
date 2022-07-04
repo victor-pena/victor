@@ -9,18 +9,18 @@ categories: updates
 
 ## La auto-organización en el periodo Formativo
 
-Tantalean y Leyva (2011) así como Cancho (2020), en sus respectivos trabajos sobre la construcción y significado de los "templos en U" de la costa central del Perú, citan una importante interpretación planteada por Richard Burger. Los primeron mencionan que "las sociedades que construyeron los edificios con planta en U de Lurín no tengan características estatales o de jefatura, sino que serían más bien comunidades con ausencia de centralización y jerarquía"[^1]. El segundo, "los grandes volúmenes constructivos pueden ser logrados por entidades comunales, sin la presencia de estructuras sociopolíticas centralizadas", asimismo este autor señala que, "el tamaño de los complejos en U está en función de las renovaciones y episodios constructivos en la historia del monumento, por lo que no serían un indicador de jerarquías sociopolíticas"[^2].
+Tantalean y Leyva (2011) así como Cancho (2020), en sus respectivos trabajos sobre la construcción y significado de los "templos en U" de la costa central del Perú, citan una importante interpretación planteada por Richard Burger. Los primeros mencionan que "las sociedades que construyeron los edificios con planta en U de Lurín no tengan características estatales o de jefatura, sino que serían más bien comunidades con ausencia de centralización y jerarquía"[^1]. El segundo, "los grandes volúmenes constructivos pueden ser logrados por entidades comunales, sin la presencia de estructuras sociopolíticas centralizadas", asimismo este autor señala que, "el tamaño de los complejos en U está en función de las renovaciones y episodios constructivos en la historia del monumento, por lo que no serían un indicador de jerarquías sociopolíticas"[^2].
 
-Habria que comentar que de ser asi que no hubo un control centralizado en la construccion, el espacio que emergió, dentro de los monumentos, en fue el de espacios abiertos centrales.
+Habría que comentar que de ser así, que no hubo un control centralizado en la construccion, la forma que emergió dentro de los monumentos en fue la de un espacio abierto "central".
 
 ![huando]({{ "/assets/huando.jpg" | relative_url }})
 *Complejo en U de Huando B en el Valle Chancay-Huaral (Fuente: Cancho 2020)*
 
 ## Linea del espacio y el tiempo
 
-Es conocido que, en los siguientes periodos historicos andinos, aparecieron sociedades con una organización jerárquica explícita, diferente a la del periodo Formativo, la cuales organizaron tanto la sociedad como su territorio en la logica del control restrictivo, aunque mantenoendo la subyacente lectura del cosmos como la dimensión de referencia en la configuración espacial y temporal de sus actividades.
+Además de la complejidad social presente en el Formativo y previamente en el Arcaico, es conocido que, en los siguientes periodos históricos andinos, aparecieron sociedades con una organización jerárquica explícita, diferente a la del periodo Formativo. Estos sucesivos regímenes organizaron tanto la sociedad como su territorio en la lógica del control restrictivo, aunque manteniendo la subyacente lectura del cosmos como la dimensión de referencia en la configuración espacial y temporal de sus actividades.
 
-Observando aquellos dos modos opuestos de organización social, que aparecen durante la evolución de la cultura peruana, podriamos plantear la pregunta de Collinge (2005)[^3]: ¿En que grado los patrones espaciales determinan las relaciones sociales o tal vez reflejan pasivamente aquellas relaciones, o quizás su efecto se encuentra intermedio entre esos dos extremos o incluso va mas allá de esas dos categorías?
+Observando aquellos dos modos opuestos de organización social, que aparecen durante la evolución de la cultura Peruana, podriamos plantear la pregunta de Collinge (2005)[^3]: ¿En que grado los patrones espaciales determinan las relaciones sociales o tal vez reflejan pasivamente aquellas relaciones, o quizás su efecto se encuentra intermedio entre esos dos extremos o incluso va mas allá de esas dos categorías?
 
 Es posible que haya habido una continuidad a modo de trayectoria ondulante entre el control restrictivo y un modo intermedio de comando directivo, que confiere atribuciones a las unidades autonomas dentro de un marco de jerarquía social, religiosa, económica o política. La historia del Perú es extensa y se pueden obtener ejemplos de estos rangos de gobernanza territorial.
 
