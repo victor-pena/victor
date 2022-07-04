@@ -22,7 +22,7 @@ Además de la complejidad social presente en el Formativo y previamente en el Ar
 
 Observando aquellos dos modos opuestos de organización social, que aparecen durante la evolución de la cultura Peruana, podriamos plantear la pregunta de Collinge (2005)[^3]: ¿En que grado los patrones espaciales determinan las relaciones sociales o tal vez reflejan pasivamente aquellas relaciones, o quizás su efecto se encuentra intermedio entre esos dos extremos o incluso va mas allá de esas dos categorías?
 
-Es posible que haya habido una continuidad a modo de trayectoria ondulante entre el control restrictivo y un modo intermedio de comando directivo, que confiere atribuciones a las unidades autonomas dentro de un marco de jerarquía social, religiosa, económica o política. La historia del Perú es extensa y se pueden obtener ejemplos de estos rangos de gobernanza territorial.
+Es posible que haya habido una continuidad a modo de trayectoria ondulante entre el control restrictivo y un modo intermedio de comando directivo, que confiere atribuciones a las unidades autonomas dentro de un marco de jerarquía social, religiosa, económica o política. La historia del Perú es extensa y se pueden obtener ejemplos de estos rangos de gobernanza territorial, que no necesariamente siguen el modelo racional cartesiano que actualmente abunda en el discurso moderno de la planificación espacial.
 
 ## La urbanización informal en laderas
 
