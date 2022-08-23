@@ -17,6 +17,9 @@ Under ANT approach this territorialized water system should include water itself
 
 Woodward et al. (2009)[^2] call it orienting inquiry toward what these things do. Furthermore, these authors suggest that ANT approach is "challenging the limited, anthropocentric domain of agency in accounts of materiality"; and furthermore, "because there are any number of activities and processes unfolding across this network, it becomes impossible to grant certain participants at specific sites within it (that is, humans) a causal agency over and against that of other participants (that is, objects) that play just as crucial a role in carrying out a desired end".
 
+![apacheta]({{ "/assets/apacheta.jpg" | relative_url }})
+*Apacheta headwaters, Ayacucho (Fuente: Vilca 2022)*
+
 ## Beyond social relations of water transfers
 
 In recognizing categorizations as the product of social relations of power, attention turns to which social groups have the discursive resources to construct categories; that is, who has the ability to name the world? (Woodward et al. 2009).
