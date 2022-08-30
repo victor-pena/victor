@@ -20,7 +20,7 @@ Woodward et al. (2009)[^2] call it orienting inquiry toward what these things do
 ![apacheta]({{ "/assets/apacheta2.png" | relative_url }})
 *Headwaters of Apacheta river, Ayacucho (Fuente: Vilca 2022)*
 
-## Beyond social relations of water transfers
+## Socio-spatial relations of water transfers
 
 In recognizing categorizations as the product of social relations of power, attention turns to which social groups have the discursive resources to construct categories; that is, who has the ability to name the world? (Woodward et al. 2009).
 
