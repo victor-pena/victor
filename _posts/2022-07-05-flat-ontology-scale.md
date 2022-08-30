@@ -27,9 +27,9 @@ In recognizing categorizations as the product of social relations of power, atte
 Thought is given to how people and things exist
 in the world such that they are constituted with particular capacities for action, which comes from a form or organization composed by their specific manifestation (their self as form) and their mode of operation that is very much context dependent.
 
-The above mentioned interpretation to the study of territory, provides a framework to represent it as a interconnected network of human and no-human elements, at various spatial scales, whose dynamics are dependent and contingent to its interactions. Acepting this nature provides a source of knowledge and also a way to influence its non-linear trajectory.
+This ontological interpretation to the study of territory, provides a framework to represent it as a interconnected network of human and no-human elements, at various spatial scales, whose dynamics are dependent and contingent to its interactions. These features allow to develop this representation as a source of knowledge and also as a plausible model to influence its non-linear trajectory.
 
-In the case of hydrosocial territories proposed by Hommes and Boelens (2017), ANT broadens the discourse of extractive transfers of controled resources. This focus allows us to include in the analysis the resource and the space where it flows. It provides an insight on the way physical elements of the landscape influence human valoration of the resource and the economic outcomes from the transfer process.
+In the case of the model of hydrosocial territories, proposed by Hommes and Boelens (2017), ANT broadens the discourse of extractive transfers of controled resources towards an operational instrument to describe and influence the evolution of this socio-spatial entity. This focus allows us to include in the analysis the resource and the space where water flows. It provides an insight on the way physical elements of the landscape influence human valoration of the resource and the economic outcomes from the transfer process.
 
 ### References
 
