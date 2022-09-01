@@ -2,7 +2,7 @@
 layout: post
 title: "Informal urbanization and democracy"
 author: "Victor Peña Guillen"
-date:   2022-07-04 09:35:30 +0900
+date:   2022-08-31 09:35:30 +0900
 #permalink: /hello-world/
 categories: updates
 ---
