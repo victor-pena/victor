@@ -35,4 +35,4 @@ La comunicación entre actores es útil en este escenario contingente. Las regla
 
 ### Referencia
 
-[^1]: Elden, Stuart.  2013. The Birth of Territory. Chicago University Press, Chicago.
+[^1]: Elden, Stuart. 2013. The Birth of Territory. Chicago University Press, Chicago.
