@@ -41,8 +41,7 @@ The study of NEC experience may provide useful insights to delineate a structura
 
 [^1]: K. Woodward, D.P. Dixon, J.P. Jones III. 2009. Poststructuralism/Poststructuralist Geographies. In: International Encyclopedia of Human Geography. Elsevier.
 
-[^2]: New Engineering Contract, is a family of engineering and
-construction contracts.
+[^2]: New Engineering Contract, is a family of engineering and construction contracts.
 
 ---
 
@@ -50,9 +49,9 @@ construction contracts.
 
 Peruvian public sector is adopting this British standard for contracting and constructing infrastructure damaged by floods in 2017.
 Contracts used by ARCC (Autoridad para la Reconstrucción con Cambios)are:
-        NEC3: Engineering and Construction Contract Option A
-        NEC3: Engineering and Construction Contract Option B
-        NEC3: Engineering and Construction Contract Option F
-        NEC3: Professional Service Contract (PSC)
+    - NEC3: Engineering and Construction Contract Option A
+    - NEC3: Engineering and Construction Contract Option B
+    - NEC3: Engineering and Construction Contract Option F
+    - NEC3: Professional Service Contract (PSC)
 
 ---
