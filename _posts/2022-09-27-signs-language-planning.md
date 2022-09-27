@@ -37,15 +37,9 @@ One example of the developmentalist approach in peruvian planning, that can be e
 The institutional scheme in which collaborative NEC operates is challenging the existing rational and confrontational views stakeholders have of budget and project management.
 The study of NEC experience may provide useful insights to delineate a structural representation of the peruvian territorial system and the ways to better grasp land use auto-organization.
 
-### References
-
-[^1]: K. Woodward, D.P. Dixon, J.P. Jones III. 2009. Poststructuralism/Poststructuralist Geographies. In: International Encyclopedia of Human Geography. Elsevier.
-
-[^2]: New Engineering Contract, is a family of engineering and construction contracts.
-
 ---
 
-**NEC case.**
+**A NEC case in Perú.**
 
 Peruvian public sector is adopting this British standard for contracting and constructing infrastructure damaged by floods in 2017.
 Contracts used by ARCC (Autoridad para la Reconstrucción con Cambios) are:
@@ -55,3 +49,9 @@ Contracts used by ARCC (Autoridad para la Reconstrucción con Cambios) are:
     - NEC3: Professional Service Contract (PSC)
 
 ---
+
+### References
+
+[^1]: K. Woodward, D.P. Dixon, J.P. Jones III. 2009. Poststructuralism/Poststructuralist Geographies. In: International Encyclopedia of Human Geography. Elsevier.
+
+[^2]: New Engineering Contract, is a family of engineering and construction contracts.
