@@ -48,7 +48,7 @@ The study of NEC experience may provide useful insights to delineate a structura
 **NEC case.**
 
 Peruvian public sector is adopting this British standard for contracting and constructing infrastructure damaged by floods in 2017.
-Contracts used by ARCC (Autoridad para la Reconstrucción con Cambios)are:
+Contracts used by ARCC (Autoridad para la Reconstrucción con Cambios) are:
     - NEC3: Engineering and Construction Contract Option A
     - NEC3: Engineering and Construction Contract Option B
     - NEC3: Engineering and Construction Contract Option F
