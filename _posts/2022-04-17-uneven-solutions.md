@@ -18,8 +18,8 @@ As the system naturally evolves within its physical and social context, it requi
 Communication is at the heart of the current analysis.
 Technical expertise is required for both design and construction of NbS, but to assure its durability it needs the participation of the involved communities.
 
-![ladera2]({{ "/assets/zapallal.jpg" | relative_url }})
-*Area verde auto-gestionada en el distrito de Carabayllo, Lima (Fuente: <https://abasto2012i.blogspot.com>)*
+![volantei]({{ "/assets/volante1.jpg" | relative_url }})
+*Area verde auto-gestionada en el distrito de Independencia, Lima (Fuente propia)*
 
 ## Uneven solutions
 
