@@ -27,11 +27,11 @@ Las iniciativas del Estado, se acomodan al mercado y aceptan el impulso y decisi
 
 ## ¿Qué es el planeamiento, cómo opera, y cómo debe ser realizado?
 
-Innes y Booher (2015)[^2], proponen esas preguntas refiriendose al desafío, de la teoría del planeamiento comunicativo, sobre el planeamiento tradicional. En todo caso, la pregunta servirá para proyectar una futura discusión respecto a la actividad individual y al rol del Estado descritos lineas arriba.
+La pregunta del sub-título intenta responder aquella pregunta inicial, entendiendo que la perspectiva de sostiene la zonificación puede recolocarse desde otro enfoque que reconozca la dinamica permanente en la evolución territorial. Innes y Booher (2015)[^2], plantean esta segunda pregunta incorporando en el análisis a la teoría del planeamiento comunicativo, y refiriendose al desafío que propone la auto-organición territorial caótica sobre el planeamiento tradicional. En todo caso, la pregunta servirá también para proyectar una futura discusión respecto a la actividad individual y al rol del Estado descritos lineas arriba.
 
-Lo mencionado, además resalta la relevancia y el requerimiento de estudiar la evolución de la micro-practica del planeamiento, en una propiedad particular, adaptada a las necesidades del decisor y dentro del marco de la economía de libre mercado.
+La ventaja de cambio en la perspectiva de gestión institucional del territorio, además resalta la relevancia y el requerimiento de estudiar la evolución de la micro-práctica del planeamiento, implementada en el espacio y escala de la propiedad privada. Este marco normativo flexible debería estar adaptado a las necesidades del decisor y dentro del marco de la economía de libre mercado.
 
-Por el momento ese proceso sigue su curso en los términos descritos. La economía importa en la relacion entre los ciudadanos, las autoridades y el territorio.
+Por el momento ese proceso sigue su curso en los términos descritos. La economía importa en la relación entre los ciudadanos, las autoridades y el territorio emergente.
 
 ### Referencias
 
