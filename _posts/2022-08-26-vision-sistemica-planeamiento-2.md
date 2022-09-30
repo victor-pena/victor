@@ -37,8 +37,8 @@ El modelo se construye empleando métodos matemáticos como instrumento formal y
 El tiempo interviene si se desea, obteniendo modelos estáticos o dinámicos. La modelación está definida por el detalle que queremos incluir (grado de resolución usando un concepto de la óptica), y por los límites prácticos de la modelación.
 
 En este proceso se recomienda el empleo de sub-modelos mas prácticos y manejables, los cuales además se justifican por los resultados ya obtenidos y por su facil realización.
-Los grandes modelos tienen mas pretenciones que resultados.
-De este modo se propone una secuencia de priorización del modelamiento de los sistemas urbanos, recomendando primero el modelamiento de los sistemas residenciales y de empleo, donde hay información y experiencia. A continuación es imprescindible abordar los modelos de transporte, dejando para las siguientes etapas el trabajo con el resto de sistemas socio-tecnicos.
+Los grandes modelos tienen más pretenciones que resultados.
+De este modo se propone una secuencia de priorización del modelamiento de los sistemas urbanos, recomendando primero el modelamiento de los sistemas residenciales y de empleo, donde hay información y experiencia. A continuación es imprescindible abordar los modelos de transporte, dejando para las siguientes etapas el trabajo con el resto de sistemas socio-técnicos.
 
 ---
 
