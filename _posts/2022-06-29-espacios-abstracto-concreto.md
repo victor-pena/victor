@@ -24,7 +24,11 @@ La trayectoria histórica no esta desligada del proceso espacial, la espacialida
 
 El "espacio concreto" emerge de la interacción social cotidiana, complementada con las instituciones y normas del Estado, y del sistema económico de libre mercado, todo lo cual se refleja en su presencia efímera en el presente.
 
-Desde el Periodo Arcaico (5000 AP), la interacción entre ambos "espacios" es la clave que ha venido produciendo los consecutivos paisajes en el valle de Lima. Sobre la superficie resalta la materialidad de los centros administrativos, huacas y sistemas de riego que todavia se pueden observar. Estos núcleos autonomos sub-regionales se configuraron en relación a la particular cosmovisión que guiaba el aprovechamiento de los recursos existentes en la costa central. La alteración de los mitos que permiten interpretar y actuar sobre el paisaje del valle se ha llevado a cabo acumulativamente. La permanente incorporación de las nociones y teorías de la interaccion del ser humano con su medio da lugar a la acción social y el resultante cambio del paisaje. Estos nuevos elementos vienen teniendo un origen tanto autóctono como externo al mundo andino.
+Desde el Periodo Arcaico (5000 AP), la interacción entre ambos "espacios" es la clave que ha venido produciendo los consecutivos paisajes en el valle de Lima. Sobre la superficie resalta la materialidad de los centros administrativos, huacas y sistemas de riego que todavia se pueden observar. Estos núcleos autonomos sub-regionales se configuraron en relación a la particular cosmovisión que guiaba el aprovechamiento de los recursos existentes en la costa central.
+
+La alteración de los mitos, que permiten interpretar y actuar sobre el paisaje del valle, se ha llevado a cabo acumulativamente.
+La permanente incorporación de las nociones y las teorías de la interacción del ser humano con su medio, se procesa en el mundo informal y da lugar a la micro acción social y el resultante cambio del paisaje.
+Estos nuevos elementos vienen teniendo un origen tanto autóctono como externo al mundo andino.
 
 Desde hace 400 años, en la región de Lima, esta dinámica de cambio socio-espacial se ha acelerado hasta tomar la forma, en nuestra época, de un palimpsesto compuesto por diferentes capas socio-espaciales superpuestas, que dan cabida institucional a la gestión autónoma y descentralizada de los diferentes nucleos municipales presentes actualmente en la región.
 
