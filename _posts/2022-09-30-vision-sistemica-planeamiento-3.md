@@ -38,3 +38,5 @@ Esta es la filosofía de la modelística del sistema total, y la principal herra
 Schlager parte de la idea que "el diseño y no la explicación o la predicción se convierte en el problema primario a resolver"; de acuerdo a esto este autor plantea dos condiciones de diseño: primero, las variables de calidad, cantidad y localización; y en segundo lugar, los requisitos comparando el uso en zonas distintas, y a la vez determinando los rangos en las variables para el uso del suelo.
 
 En ambos casos el requisito de diseño es susceptible de una expresión matemática, por medio de una igualdad o desigualdad algebraica haciendo viable, de este modo, una formulación mediante la programación lineal.
+
+[^1]: G.F Chadwick. 1970. Una visión sistémica del planeamiento. Editorial Gustavo Gili. España.
