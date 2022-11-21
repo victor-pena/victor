@@ -13,12 +13,16 @@ categories: updates
 
 ---
 
+## El potencial de la urbanización informal
+
 La construcción de la ciudad informal en el Perú, viene demostrando una vitalidad que podrìa fundamentarse en la validez del discurso general del libre mercado. Se observa que esta dinámica crea riqueza a partir de espacios sin valor aparente. Esta generación de valor de cambio recrea la satisfaccion de necesidades del mundo formal.
 
-Los mecnismos de mercado tambien operan en las relaciones del grupo social de menores ingresos. Ellas satisfacen sus similares necesidades socio-espaciales, las cuales van mas allá del acceso a la vivienda o los servicios basicos. Como parte de su derecho a la ciudad o la ciudadania de mercado este grupo incorpora elementos mas sofisticados como la especulacion inmobiliaria.
+Los mecnismos de mercado tambien operan en las relaciones del grupo social de menores ingresos. Ellas satisfacen sus similares necesidades socio-espaciales, las cuales van mas allá del acceso a la vivienda o los servicios básicos. Como parte de su derecho a la ciudad o la ciudadania de mercado este grupo incorpora elementos mas sofisticados como la especulacion inmobiliaria.
 
 ![posibilidad]({{ "/assets/pasamayito2.jpg" | relative_url }})
 *Via Pasamayito (Fuente: Municipalidad Metropolitana de Lima, 2022)*
+
+## Mas allá de la necesidad de la vivienda
 
 Este fenomeno ha sido registrado, directa e indirectamente, en la urbanización en laderas. Es notoria la existencia de reglas donde se busca limitar la ocupación de personas que no tienen la necesidad. Por ejemplo hay periodos máximos en las cuales el terreno debe estar sin ocupación.
 
@@ -29,12 +33,16 @@ Un componente que implicitamente aborda una faceta, de este carácter particular
 
 Sin embargo, las enseñanzas de la ocupación informal en términos de la iniciativa individual, la auto-organización, la coordinación y la cooperación (legales e ilegal) entre actores privados y públicos no se toma en cuenta.
 
+## El gestor de tierras posible
+
 El gestor de tierras, en el ámbito informal, es el traficante de tierras que ilegalmente intermedia la obtencion de suelo, su acceso e incluso su consolidación.
 En este caso los recursos así como los nodos de decisión política en juego se locaizan tanto en los ámbitos privados como públicos, y a traves de diferentes escalas.
 
 El nivel de decisión municipal es donde se desarrolla el juego contextual que materializa la ciudad informal; mientras que es a nivel nacional donde se asignan los presupuestos o se legisla la consolidacion urbana.
 
 El proceso de urbanización informal ha creado el esquema de las posibilidades de su propio desarrollo. Además, viene estableciendo las normas y reglas que tienen el poblador, el traficante, la autoridad municipal, el legislador y los funcionarios públicos, para abordar la satisfaccion de sus intereses.
+
+Por tanto, para recuperar la soberania sobre el suelo iniciativa de la organizacion, se debe reconocer el orden emergente y dejar de insistir en implementar la orden.
 
 ### Referencia
 
