@@ -36,6 +36,6 @@ El nivel de decisión municipal es donde se desarrolla el juego contextual que m
 
 El proceso de urbanización informal ha creado el esquema de las posibilidades de su propio desarrollo. Además, viene estableciendo las normas y reglas que tienen el poblador, el traficante, la autoridad municipal, el legislador y los funcionarios públicos, para abordar la satisfaccion de sus intereses.
 
-## References
+### Referencia
 
 [^1]: Bernardo Secchi. 2014. Primera lección de urbanismo. Pontificia Universidad Católica del Perú. Lima.
