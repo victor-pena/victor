@@ -42,7 +42,7 @@ El nivel de decisión municipal es donde se desarrolla el juego contextual que m
 
 El proceso de urbanización informal ha creado el esquema de las posibilidades de su propio desarrollo. Además, viene estableciendo las normas y reglas que tienen el poblador, el traficante, la autoridad municipal, el legislador y los funcionarios públicos, para abordar la satisfaccion de sus intereses.
 
-Por tanto, para recuperar la soberania sobre el suelo iniciativa de la organizacion, se debe reconocer el orden emergente y dejar de insistir en implementar la orden.
+Por tanto, para recuperar la soberania sobre el suelo iniciativa de la organización, se debe reconocer el continuo orden emergente presente en la evolución de la cultura peruana, y dejar de insistir en implementar solamente la orden modernista.
 
 ### Referencia
 
