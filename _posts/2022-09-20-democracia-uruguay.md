@@ -22,11 +22,11 @@ La cita de Madison describe un posible resultado en las democracias tomando en c
 
 En el presente texto se considera lo contrario, es decir la minoria perteneciente a la clase politica y la _inteligentsia_ concentrada en Montevideo, ha constyruido un sistema de prebendas, sostenido por las corporaciones (incluidos los agentes que tienen la propiuedad de la tierra), cuya operacion se manifiesta en una apropiacion de los recursos naturales y la infraestructura del pais, graficados claramente el las clausulas del contrato UPM2 y la concesión del puerto de Montevideo a Katoen Natie.
 
-Para probar esa tesis, se emplea el caso uruguayo estudiando algunos atributos que se resaltan en su funcionamiento social y político.
-De esta manera se cuestiona el discurso imperante, del mito de la institucionalidad uruguaya, donde se unifican categorias diversas bajo el paraguas de un indicador del nivel de democracia, facilmente manipulable por políticos y funcionarios públicos.
-Sobretodo se resalta la distancia con las reales necesidades de la sociedad, que son visibles, por ejemplo, en la falta de infraestructura de servicios de calidad en el espacio de esa penillanura suavemente ondulada y vacia.
+El caso uruguayo prueba esta tesis, estudiando algunos atributos que se resaltan en su funcionamiento social y político.
+De esta manera se cuestiona el discurso imperante, del mito de la institucionalidad uruguaya, donde se unifican categorías diversas bajo el paraguas de un indicador del nivel de democracia, facilmente manipulable por los académicos, políticos y funcionarios públicos nativos.
+Sobretodo se contrasta esa construcción mitológica de autoafirmación social, que se distancia del real funcionamiento de la sociedad, y de sus necesidades que son visibles, por ejemplo, en la falta de infraestructura de servicios de calidad en el espacio de esa penillanura suavemente ondulada y vacia.
 
-El presente texto sugiere que  existen diferentes democracias y estas emergen o se producen a partir de las particulares condiciones presentes en cada pais, por lo tanto no se puede diseñar una escala que acomode el arreglo específico que cada población ha creado.
+El presente texto sugiere, a partir del ejemplo uruguayo, que existen diferentes democracias y estas emergen o se producen a partir de las particulares condiciones presentes en cada pais, por lo tanto no se puede diseñar una escala que acomode el arreglo específico que cada población ha creado.
 
 ## Pensamiento, discurso y realidad de las instituciones
 
