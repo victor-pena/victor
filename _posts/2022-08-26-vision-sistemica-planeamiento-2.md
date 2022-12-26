@@ -43,7 +43,7 @@ De este modo se propone una secuencia de priorización del modelamiento de los s
 ---
 
 **Nota.**
-La planificación está escencialmente relacionada con una estructura conceptual y quizá filosófica, que permite los procesos necesarios de regulación de la variedad. Se invoca a la Ley de la variedad necesaria: "solo la variedad puede destruir la variedad" (Ross Ashby 1964).
+La planificación está esencialmente relacionada con una estructura conceptual y quizá filosófica, que permite los procesos necesarios de regulación de la variedad. Se invoca a la Ley de la variedad necesaria: "solo la variedad puede destruir la variedad" (Ross Ashby 1964).
 La variedad que tenemos en un sistema se empareja con la variedad necesaria del sistema.
 El control del sistema permite tener la variedad necesaria.
 Esta cibernética está compuesta de hardware, software y de un nivel de fiabilidad dado por los canales de información.
