@@ -33,10 +33,10 @@ El presente texto sugiere que  existen diferentes democracias y estas emergen o 
 Cuando los exiliados nor-coreanos cruzan la frontera del sur, encuentran una realidad diferente a la que les contaron.
 El esclavo segun La Voesie, el amor de la servidumbre, servidumbre voluntaria, el estado pasional de los sujetos q ven en la identificacion con unos signos de identidad nacional, el destino al cual estan llamados a un destino superior ese es el esclavo (Albiac 2020).
 
-Estas caracteristicas son cisibles en paises pequeños, con una poblacion insatisfecha de su situación vital como Uruguay y Cataluña.
-Muchos ejemplos de esa actitud pueden observarse en los tópicos cotidaneos como la reforma en la seguridad social, la historia del  puente colapsado en la barra de Punta del Este; todo lo cual provee una analogáa de la situacion, la percepcion y el caracter de los actores y de la sociedad que permite estos eventos ocurran.
+Estas características son visibles en paises pequeños, con una poblacion insatisfecha de su futura condición vital como Uruguay y Cataluña.
+Muchos ejemplos de esa actitud pueden observarse en los tópicos cotidianos como la reforma en la seguridad social, la historia del  puente colapsado en la barra de Punta del Este; todo lo cual provee una analogía de la situacion, la percepcion y el carácter de los actores y de la sociedad que permite que estos eventos ocurran.
 
-Finalmente, el diseño institucional donde falta la rendicion de cuentas honesta frente a la ciudadanía, es reemplazada por el patrioterismo alimentado por la propaganda de toda la clase política, desde el Frente Amplio al Partido Nacional, incluyendo los apaños de Cabildo Abierto y el Partido Independiente, perpetúa las condiciones de impunidad en las autoridades y funcionarios públicos, alienando al sentido común, con el objetivo de mantener las condiciones de aprovechamiento de los recursos del pais.
+Finalmente, el diseño institucional donde falta la rendición de cuentas honesta frente a la ciudadanía, es reemplazada por el patrioterismo alimentado por la mitología democrática, validada por toda la clase política, desde el Frente Amplio al Partido Nacional, incluyendo los apaños de Cabildo Abierto y el Partido Independiente. El sistema se perpetúa en las condiciones de impunidad en las autoridades y funcionarios públicos, alienando al sentido común de los habitantes, con el objetivo de mantener las condiciones de aprovechamiento de los recursos del país.
 
 ### Referencia
 
