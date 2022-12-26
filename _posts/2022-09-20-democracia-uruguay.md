@@ -12,6 +12,7 @@ categories: updates
 **Prefacio.**
 
 "The size of the territory matters, Madison argued, because in a small republic it is easy for a majority to communicate and unite on the basis of selfish interest or prejudice and thereby oppress the minority" [^1].
+
 ---
 
 ## Categorizando para describir
