@@ -21,3 +21,5 @@ Esto último es notorio, por ejemplo, en los procesos de asignación de recursos
 Sin embrago el control administrativo y normativo sobre la implementación de estas inversiones se mantiene en la escala nacional.
 
 Lo mencionado describe un proceso en camino de implementación. Este flujo tiene un caracter innovador pues incorpora la asignación de capacidades reales de gestión en las escalas locales. Sin embargo la actuación de los funcionarios en ese nivel sigue siendo crucial para asegurar la fluidez y adaptación normativa y el logro de los servicios al ciudadano que se pretende alcanzar.
+
+Esta caracterización de la descentralización como propiedad esencial del desarrollo económico Peruano, la convierte además en un elemento necesario a este, aunque no suficiente, pues requiere el sustento y sustrato formado por aquellas otras propiedades transformadas en políticas de Estado, que han sido mencionadas en el primer párrafo.
