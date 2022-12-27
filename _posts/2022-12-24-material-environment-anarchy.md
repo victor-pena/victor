@@ -35,12 +35,12 @@ And, which is more, these social practices are also prosaic attempts to achieve 
 Above mentioned anarchic means to acquire their housing, via land appropriation and self-help building, characterize contemporary urban growth in Lima and several Peruvian cities.
 Informality is providing a revolutionary alternative based on self-determination.
 
-Whereas no strong ideology and leadership is identified and pursued, guidance and ground rules actualy emerge within the common and specific goals individuals perceive and accord in issues, regarding to the improvement of the physical conditions in their neighborhood.
+Whereas no strong ideology and leadership is identified and pursued, guidance and ground rules actualy emerge within the common and specific goals that individuals perceive and accord in issues regarding to the improvement of the physical conditions in their neighborhood.
 However, this process is conducted along institutionalized paths as a strategy followed by citizens living in contested territories.
 Ultimatelly, they are seeking help from the State for recognition and support to improve their material environments.
 
-Thus, community elected leaders or committees in turn relate to land brokers, both informal or institutionalized, and in many cases related to illegal land trafficking, in a gray zone at municipal scale.
-In turn, these local agents together press on the larger territorial scales and greater institutional levels, of the very acquiescent and also pragmatic Peruvian polity, seeking the legal recognizance of their newly acquired deeds.
+Thus, community elected leaders or committees in turn associate to land brokers, both informal or institutionalized, and in many cases related to illegal land trafficking, in a gray zone at municipal scale.
+Consecutively, these local agents together press on the larger territorial scales and greater institutional levels, of the very acquiescent and also pragmatic Peruvian polity, seeking the legal recognizance of their newly acquired deeds.
 
 ### Note
 
