@@ -9,6 +9,13 @@ categories: updates
 
 ## La estructura de la máquina
 
+[]({{ "/assets/plan.jpg" | relative_url }})
+
+*Figura. Sistema complejo adaptativo (Fuente: elaboración propia, basado en Secchi 2014)
 
 
 ## La operación de la máquina
+
+![]({{ "/assets/formas-expresivas.jpg" | relative_url }})
+
+*Figura. Sistema complejo adaptativo (Fuente: elaboración propia)
