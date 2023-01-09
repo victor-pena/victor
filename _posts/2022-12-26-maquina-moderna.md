@@ -9,7 +9,7 @@ categories: updates
 
 ## La estructura de la máquina
 
-[]({{ "/assets/plan.jpg" | relative_url }})
+[]({{ "/assets/plan.jpeg" | relative_url }})
 
 *Figura. Sistema complejo adaptativo (Fuente: elaboración propia, basado en Secchi 2014)
 
