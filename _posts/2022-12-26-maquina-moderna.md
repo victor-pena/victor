@@ -11,8 +11,7 @@ categories: updates
 
 []({{ "/assets/plan.jpeg" | relative_url }})
 
-*Figura. Sistema complejo adaptativo (Fuente: elaboración propia, basado en Secchi 2014)
-
+*Figura. La figura de la máquina (Fuente: elaboración propia, basado en Secchi 2014)
 
 ## La operación de la máquina
 
