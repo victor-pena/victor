@@ -9,7 +9,7 @@ categories: updates
 
 ## La estructura de la máquina
 
-[]({{ "/assets/plan.jpeg" | relative_url }})
+![]({{ "/assets/plan.jpeg" | relative_url }})
 
 *Figura. La figura de la máquina (Fuente: elaboración propia, basado en Secchi 2014)
 
