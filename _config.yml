@@ -55,3 +55,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+pages:
+  markdown:
+    extra: true
