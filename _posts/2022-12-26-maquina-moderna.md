@@ -11,10 +11,10 @@ categories: updates
 
 ![]({{ "/assets/plan.jpeg" | relative_url }})
 
-*Figura. La figura de la máquina (Fuente: elaboración propia, basado en Secchi 2014)
+* Figura 1. La figura de la máquina (Fuente: elaboración propia, basado en Secchi 2014)*
 
 ## La operación de la máquina
 
 ![]({{ "/assets/formas-expresivas.jpg" | relative_url }})
 
-*Figura. Sistema complejo adaptativo (Fuente: elaboración propia)
+* Figura 2. Sistema complejo adaptativo (Fuente: elaboración propia)*
