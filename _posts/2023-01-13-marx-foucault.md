@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Diagnóstico marxista y pronóstico foucaldiano"
+title: "Diagnóstico marxista y pronóstico foucaultiano"
 date:   2023-01-13 16:52:30 +0900
 #permalink: /hello-world/
 author: "Victor Peña Guillen"
@@ -20,7 +20,7 @@ El tiempo de trabajo también incorpora aquel socialmente necesario para generar
 De este modo, dentro el espacio informal comodificado, el precio promedio de las mercancias es siempre diferente de su valor (Marx 1969, citado por Dunn 2011[^1]).
 
 ![vmt]({{ "/assets/vmt.jpg" | relative_url }})
-*Fuente: <https://andina.pe> (15JUL2012)*
+Generación de valor *Fuente: <https://andina.pe> (15JUL2012)*
 
 ## Planeamiento y consolidación urbana
 
