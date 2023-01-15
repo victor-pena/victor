@@ -23,7 +23,6 @@ Sin embargo, la poligonal se deforma en el relieve, y además, este condiciona s
 ![chuquitanta]({{ "/assets/segregacion-lima.jpg" | relative_url }})
 *Fuente: GoogleEarth*
 
-
 ## La red de acceso
 
 De este modo las lineas y nodos, así establecidos a través de la infraestructura (muros de contención y escaleras), generan el espacio público.
