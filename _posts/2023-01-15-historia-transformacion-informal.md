@@ -32,4 +32,4 @@ Finalmente, este modo de vida anarquico, compartido en comunidad, provee las con
 
 ### Referencias
 
-[^1]: Antonio Negri. 2019. Marx y Foucault. Cactus.
+[^1]: Antonio Negri. 2019. Marx y Foucault. Cactus, Bs. Aires.
