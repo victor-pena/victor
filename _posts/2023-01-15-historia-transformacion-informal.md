@@ -23,7 +23,7 @@ la nueva Ley de Desarrollo Urbano Sostenible tambien será ignorada por aquellos
 
 La construccion social se adapta al libre mercado dominante. El sistema de comando directivo podría interpretarse empleando el concepto de biopolítica "como trama de reproducción de la sociedad y de circulación de los bienes (no solo materiales sino sobretodo inmateriales: conocimiento, saberes, afectos, etc.), como horizonte abierto de producción de formas de vida" (Negri 2019)[^1].
 
-## Transformación del espacio y de los sujetos políticos
+## Los sujetos políticos y la competencia por el espacio
 
 Estos pobladores transforman la realidad, y parten desde una resistencia a la dominación de su fuerza de trabajo, para construir individualmente la estructura de la ciudad.
 Liberados de instrumentos financieros (hipotecas) y acorde con el flujo irregular de sus ingresos, ellos desarrollan la acción de edificación progresiva de sus viviendas, transformando su espacio y tambien su ser y condición de ciudadanos o sujetos políticos.
