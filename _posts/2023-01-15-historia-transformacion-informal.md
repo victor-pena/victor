@@ -19,9 +19,9 @@ Es la historia, de la apropiacion del espacio marginal y la construcción de la 
 ## El horizonte abierto de la producción de la ciudad informal
 
 La revolución observada en el proceso de urbanización informal es subjetiva. Resulta de decisiones individuales tomadas en asociación con mediadores públicos y privados operando fuera de la ley y las normas (de desarrollo urbano).
-la nueva Ley de Desarrollo Urbano Sostenible tambien será ignorada por aquellos pobladores y los intermediarios.
+La nueva Ley de Desarrollo Urbano Sostenible tambien será ignorada por aquellos pobladores y los intermediarios.
 
-La construccion social se adapta al libre mercado dominante. El sistema de comando directivo podría interpretarse empleando el concepto de biopolítica *"como trama de reproducción de la sociedad y de circulación de los bienes (no solo materiales sino sobretodo inmateriales: conocimiento, saberes, afectos, etc.), como horizonte abierto de producción de formas de vida"* (Negri 2019)[^1].
+La construccion social se adapta al libre mercado dominante. Este sistema de comando directivo, donde las reglas de mercado operan según el libre albedrio, podría interpretarse empleando el concepto de biopolítica, *"como trama de reproducción de la sociedad y de circulación de los bienes (no solo materiales sino sobretodo inmateriales: conocimiento, saberes, afectos, etc.), como horizonte abierto de producción de formas de vida"* (Negri 2019)[^1].
 
 ## Los sujetos políticos y la competencia por el espacio
 
