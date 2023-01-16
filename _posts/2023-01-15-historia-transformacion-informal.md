@@ -28,7 +28,7 @@ La construccion social se adapta al libre mercado dominante. El sistema de coman
 Estos pobladores transforman la realidad, y parten desde una resistencia a la dominación de su fuerza de trabajo, para construir individualmente la estructura de la ciudad.
 Liberados de instrumentos financieros (hipotecas) y acorde con el flujo irregular de sus ingresos, ellos desarrollan la acción de edificación progresiva de sus viviendas, transformando su espacio y tambien su ser y condición de ciudadanos o sujeto político.
 
-Finalmente, este modo de vida anárquico, compartido en comunidad, provee las condiciones de competencia en el mercado, donde agentes operando descentralizadamente y generando señales a traves de los precios, sostienen el proceso de descubrimiento y empleo del conocimiento obtenido que mantiene, a su vez, el sistema inmobiliario neoliberal.
+Finalmente, este modo de vida anárquico, compartido en comunidad, provee las condiciones de competencia en el mercado, donde agentes operando descentralizadamente y generando señales a traves de los precios (resultantes de la acción social), sostienen el proceso de descubrimiento y empleo del conocimiento obtenido que mantiene, a su vez, el dinámico sistema inmobiliario neoliberal.
 
 ### Referencias
 
