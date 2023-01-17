@@ -28,7 +28,9 @@ La construccion social se adapta al libre mercado dominante. Este sistema de com
 Estos pobladores transforman la realidad, y parten desde una resistencia a la dominación de su fuerza de trabajo, para construir individualmente la estructura de la ciudad.
 Liberados de instrumentos financieros (hipotecas) y acorde con el flujo irregular de sus ingresos, ellos desarrollan la acción de edificación progresiva de sus viviendas, transformando su espacio y tambien su ser y condición de ciudadanos o sujetos políticos.
 
-Finalmente, este modo de vida anárquico, compartido en comunidad, provee las condiciones de competencia en el mercado, donde esos sujetos operando descentralizadamente y generando señales a traves de los precios (resultantes de la acción social), sostienen el proceso de descubrimiento y empleo del conocimiento obtenido que mantiene, a su vez, el dinámico sistema inmobiliario neoliberal. Se resuelve asi provisionalmente y en el espacio informal presente, el antagonismo entre la fuerza de trabajo constructora de la ciudad y el sistema que mantiene la circulación y acumulación del capital que seguirán impulsando la transformación de los sujetos y su entorno material.
+Finalmente, este modo de vida anárquico, compartido en comunidad, provee las condiciones de competencia en el mercado, donde esos sujetos operando descentralizadamente y generando señales a traves de los precios (resultantes de la acción social), sostienen el proceso de descubrimiento y empleo del conocimiento obtenido que mantiene, a su vez, el dinámico sistema inmobiliario neoliberal.
+
+Se resuelve asi, provisionalmente y en el espacio informal presente, el antagonismo entre la fuerza de trabajo constructora de la ciudad y el sistema que mantiene la circulación y acumulación del capital que seguirán impulsando la transformación de los sujetos y su entorno material.
 
 ### Referencias
 
