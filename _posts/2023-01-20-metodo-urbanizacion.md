@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un método inspirado por Beltran y Turner"
-date:   2023-01-13 16:52:30 +0900
+date:   2023-01-20 00:52:30 +0900
 #permalink: /hello-world/
 author: "Victor Peña Guillen"
 #affiliation: UNALM
