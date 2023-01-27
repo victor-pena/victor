@@ -42,6 +42,7 @@ Thus, what is more attainable is to focus on tracing the whole procedure of info
 
 The limits of these informal deviations to the norms are flexible, and attains mainly to allowing the operation of the newly created free housing market at marginal land.
 This form of urbanization requires political action at neighborhood level, in order to engage other actors in the relationship seeking and consolidation process of lobbying for public resources.
+Finally, social inequalities in access to housing are leveraged in this market.
 
 ### References
 
