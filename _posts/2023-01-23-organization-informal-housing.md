@@ -16,6 +16,8 @@ In this regard, it could be operative to employ Hayek's general social theory. T
 
 From this social evolutive approach, the urbanization process in Lima, is viewed as the functioning of an self-organized system progressing towards the fullfilment of ever changing social and economic needs. The relations between its components are highlighted to identify the most relevant relationships and its related procesures that generate organizational learning and social knowledge.
 
+Therefore, lines of action can be devised taking into account the most relevant relationships that generate desired outcomes, while also expected unintended consequences. Both of the resulting social and spatial outcomes comes along within a mix of normative and informal framework of operating rules among skateholders.
+
 ![autonomia]({{ "/assets/autonomia.jpeg" | relative_url }})
 Autonomy
 
@@ -37,7 +39,9 @@ The above exposed argument assumes that social institutions are the "unintended 
 As it is, their future condition becomes difficult to track, because it would require a great ammount of information on the intentions of each actor involved in such informal relations.
 
 Thus, what is more attainable is to focus on tracing the whole procedure of informal housing realization, specifically the self-generated and particular common law, whose enactment is continuously practiced, validating the informal way of life, which is also observable.
+
 The limits of these informal deviations to the norms are flexible, and attains mainly to allowing the operation of the newly created free housing market at marginal land.
+This form of urbanization requires political action at neighborhood level, in order to engage other actors in the relationship seeking and consolidation process of lobying for public resourses.
 
 ### References
 
