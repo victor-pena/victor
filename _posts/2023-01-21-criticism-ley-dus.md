@@ -21,7 +21,7 @@ Facing this context, the social capital is being realized in the form of new and
 Thus, the Law as seeking to control people and things becomes onerous in its attempt to predate social capital.
 It is because the Law require for its implementation and practice to be part of the economic process.
 
-![surplus]({{ "/assets/puente_inga.jpg" | relative_url }})
+![Water, land and social capital surplus]({{ "/assets/tambo_inga.jpg" | relative_url }})
 (Source: www.andina.pe)
 
 ## The laws governing social capital
