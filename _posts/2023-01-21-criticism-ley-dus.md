@@ -36,3 +36,8 @@ Thus, the socially constructed value of the houses integrates within the whole P
 To charge a surplus tax on housing benefiting from public investment, requires the construction of new property rights over common goods in order to ensure the tax is being spend on public benefit.
 Is at the local level, with democratic institutions, where these benefits are expected to be realized.
 Through the recongnition of this common rights, the surplus tax is guaranteed to be reapropiated and managed by the autonomous population.
+
+Finally, the individually-obtained rent from the socially constructed value worked out of bare land, is a way to build new social property rights of common land, a object where power is exerted.
+This is not antagonist to private property, in the informal form of live.
+The access to housing is related to the construction of public spaces as a form of common good that realizes itself as social rent whose benefit comes not from private property but from the socially constructed neighborhood.
+Therefore, for informal urbanization, the surplus tax double the burden of the realized and paid social rent, its logic is redundant and the payment is not necessary to ask for.
