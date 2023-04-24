@@ -36,7 +36,8 @@ La durabilidad de las estructuras por tanto es dependiente de la inversión de c
 En todo caso, a la fecha las estructuras mas antiguas, tienen una edad de 60 años, como en el cerro San Cristobal. La permanencia de ellas requiere estudios para evaluar las condiciones de su durabilidad.
 El argumento de insostenibilidad es discutible en cuanto a su extensión social y material, la durabilidad todavía no ha sido probada, y la infraestructura habitacional sigue prestando servicio a la fecha; además, se encuentra integrada al mercado de la vivienda.
 
-![cerro]({{ "/assets/cerro.jpg" | source: <https://de.dreamstime.com/redaktionelles-stockbild-elendsviertel-cerros-san-cristobal-lima-peru-image93608489> }})
+![cerro]({{ "/assets/cerro.jpg" | relative_url  }})
+(Fuente: <https://de.dreamstime.com/redaktionelles-stockbild-elendsviertel-cerros-san-cristobal-lima-peru-image93608489>)
 
 ## Ineficiente
 
