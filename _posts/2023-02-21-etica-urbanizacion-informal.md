@@ -19,7 +19,7 @@ El modo informal de construir el territorio, posee apoyo oficial de los alcaldes
 El apoyo a estos emprendimientos informales consiste en la formalización de los lotes, la revisión de sus estructuras, y promoción de inversiones públicas, a través de la promulgación de normas que intentar organizar la forma de la ciudad que emerge en las zonas marginales.
 
 Al mismo tiempo, un sector de la tecnocracia burocrática y académica busca imponer en la agenda pública el enfoque racional del planeamiento urbano, empleando argumentos éticos para descalificar el modo de construcción social del territorio urbano marginal. Algunos adjetivos que estos grupos utilizan para caracterizar la urbanización informal son: insostenible, ineficiente, marginal y discriminatorio.
-El empleo de categorías modernistas de control restrictivo, orientados hacia la creación de un orden utópico, contrasta con el modo de vida informal, que usa elementos culturales e idiosincráticos presentes en la evolución de la cultura peruana.
+El empleo de categorías modernistas de control restrictivo, orientadas hacia la creación de un orden utópico, contrasta con el modo de vida informal, que usa elementos culturales e idiosincráticos presentes en la evolución de la cultura peruana.
 
 Con el fin de discutir el empleo de los adjetivos por parte de esa corriente utópica racional, se deconstruye el discurso tecnocrático y su matriz mercantilista.
 En este ejercicio, se hara referencia al tipo de urbanización informal mas extremo, aquel realizado en los cerros.
