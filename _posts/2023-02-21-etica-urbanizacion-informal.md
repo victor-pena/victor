@@ -10,7 +10,7 @@ categories: updates
 ---
 
 >
-> <cite>*"It is not our intellect that created our morals, rather human interactions goberned by our morals make possible the growth of reason and those capabilities associated with it".*
+> <cite>*"It is not our intellect that created our morals, rather human interactions goberned by our morals make possible the growth of reason and those capabilities associated with it"*
 (Hayek citado por Sciabarra 1995).</cite>
 
 ## El miedo al caos
