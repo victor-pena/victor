@@ -9,7 +9,7 @@ categories: updates
 
 ---
 
-"El urbanismo no es solo el estudio de lo que ha pasado y de lo que es probable que suceda, sino sobre todo proyectar lo que es posible hacer que suceda" (Berbnardo Secchi, 2014)[^1]
+"El urbanismo no es solo el estudio de lo que ha pasado y de lo que es probable que suceda, sino sobre todo proyectar lo que es posible hacer que suceda" (Bernardo Secchi, 2014)[^1]
 
 ---
 
@@ -17,7 +17,7 @@ categories: updates
 
 La construcción de la ciudad informal en el Perú, viene demostrando una vitalidad que podrìa fundamentarse en la validez del discurso general del libre mercado. Se observa que esta dinámica crea riqueza a partir de espacios sin valor aparente. Esta generación de valor de cambio recrea la satisfaccion de necesidades del mundo formal.
 
-Los mecnismos de mercado tambien operan en las relaciones del grupo social de menores ingresos. Ellas satisfacen sus similares necesidades socio-espaciales, las cuales van mas allá del acceso a la vivienda o los servicios básicos. Como parte de su derecho a la ciudad o la ciudadania de mercado este grupo incorpora elementos mas sofisticados como la especulacion inmobiliaria.
+Los mecanismos de mercado tambien operan en las relaciones del grupo social de menores ingresos. Ellos satisfacen sus similares necesidades socio-espaciales, las cuales van mas allá del acceso a la vivienda o los servicios básicos. Como parte de su derecho a la ciudad o la ciudadania de mercado este grupo incorpora elementos mas sofisticados como la especulación inmobiliaria.
 
 ![posibilidad]({{ "/assets/pasamayito2.jpg" | relative_url }})
 *Via Pasamayito (Fuente: Municipalidad Metropolitana de Lima, 2022)*
@@ -42,7 +42,7 @@ El nivel de decisión municipal es donde se desarrolla el juego contextual que m
 
 El proceso de urbanización informal ha creado el esquema de las posibilidades de su propio desarrollo. Además, viene estableciendo las normas y reglas que tienen el poblador, el traficante, la autoridad municipal, el legislador y los funcionarios públicos, para abordar la satisfaccion de sus intereses.
 
-Por tanto, para recuperar la soberania sobre el suelo iniciativa de la organización, se debe reconocer el continuo orden emergente presente en la evolución de la cultura peruana, y dejar de insistir en implementar solamente la orden modernista.
+Por tanto, para recuperar la soberanía sobre el suelo, iniciativa de la organización, se debe reconocer el continuo orden emergente presente en la evolución de la cultura peruana, y dejar de insistir en implementar solamente la orden del plan modernista.
 
 ### Referencia
 
