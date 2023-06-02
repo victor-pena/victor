@@ -17,7 +17,7 @@ El poblador conoce su situación y su riesgo, en cuanto el mayor apremio que afr
 La solucion de vivienda que se agencia individualmente se enmarca en esa lucha diaria por obtener bienes y recursos desde el mercado.
 El orden social emergente, refleja un ciudadano que esta libre de la intrervencion estatal manteniendo su libertad financiera.
 
-![ad]({{ "/assets/AD1963.jpg" | relative_url  }})
+![ad]({{ "/assets/AD1963.png" | relative_url  }})
 Portada de la edición especial de Architectural Design sobre asentamientos informales (Fuente: <https://limaparislima.wordpress.com/2021/09/15/archreview-observando-las-barriadas-de-peru-john_fc_turner-ve-las-urbanizaciones-autoconstruidas-como-un-recurso-no-como-un-problema-kathrin_golda_pongratz/>)
 
 Los intentos por imponer el orden a traves de la zonificación o el financiamiento de vivienda de bajo costo se orientan a configurar a un sujeto consumidor de las hipotecas.
