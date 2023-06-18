@@ -7,7 +7,7 @@ date:   2023-06-02 09:35:30 +0900
 categories: updates
 ---
 
-Un mensaje permanentemente expresado en los la legislación, los medios y los textos de política pública es la necesidad de imponer la orden en el territorio.
+Un mensaje permanentemente expresado en la legislación, los medios y los textos de política pública es la necesidad de imponer la orden en el territorio.
 Este discurso se justifica asumiendo que la orden impuesta permitira una mejor asignacion y distribucion de recursos públicos para mejorar las condiciones de vivienda de la población.
 estas ideas se establecen y materializan en los textos y mensajes que buscan influir en las decisiones de los políticos y funcionarios, apelando también a convertir a la opinión pública a su idea, y en conjunto buscando que se consolide una razón de estado que no incorpore al poblador que construye su vivienda en el modo informal.
 
