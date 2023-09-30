@@ -18,5 +18,7 @@ La presencia fractal de agrupamientos compuestos por lotes individuales, ubicado
 Del Castillo (2015), remarca la naturaleza orográfica del territorio limeño, que está compuesta por 18% arenal, 29% valle y 53% cordillera sugiriendo que "Lima es más andina que costeña".
 Una característica particular del tejido urbano, en desarrollo permanente, es la identificación de los ciudadanos con esta segunda naturaleza que habitan y construyen progresivamente.
 
+## Escala local
+
 Este ambiente geográfico influye en el estado y actitud de los individuos. Tomando en cuenta que la busqueda de vivienda, y la falta de ingresos, los lleva esta elección, un primer comportamiento es la visión de largo plazo. Las viviendas informales se construyen a lo largo de decadas y se van adecuando tanto a los flujos de ingreso económico, como a las necesidades de espacio de la familia en crecimiento. De este modo la vivienda llega a alojar mas de dos generaciones.
 Los materiales y formas resultantes no siguen el estilo universal de la vivienda social, y por tanto no son del gusto de los urbanistas y arquitectos. Estos profesionales entrenados en un esquema racional insisten en una ocupación organizada, que niega la experiencia histórica y las tradiciones locales, sostenidas por la autonomía.
