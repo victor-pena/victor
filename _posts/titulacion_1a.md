@@ -2,7 +2,7 @@
 layout: post
 title: "La política de estado de la titulación (1)"
 author: "Victor Peña Guillen"
-date:   2023-09-30 00:00:00 +0600
+date:   2023-09-30 00:00:00 +0000
 #permalink: /hello-world/
 categories: updates
 ---
