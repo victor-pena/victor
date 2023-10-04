@@ -9,7 +9,7 @@ categories: updates
 
 ## Naturaleza de la urbanización informal
 
-La titulación de lotes informales, además de constituirse en una práctica institucionalizada y regulatoria, que emplea el estado para asegurar la propiedad del terreno, es también la herramienta política utilizada por los políticos para ser elegidos; en este último caso se invoca la agenda de la vivienda popular.
+La titulación de lotes informales, además de constituirse en una práctica institucionalizada y regulatoria, que emplea el estado para asegurar la propiedad del terreno; es también en muchos casos la herramienta política utilizada por los políticos para ser elegidos; en este último caso se invoca la agenda de la vivienda popular.
 Esta es una acción política conciente que toma en cuenta prácticas culturales y patrones de consumo en la micro-escala que interactúan,  con una red difusa compuesta por relaciones de poder operando, tanto en la escala local como en los niveles de decisión superiores formales e informales.
 
 ## Espacio y sociedad
