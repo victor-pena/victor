@@ -43,7 +43,6 @@ La autonomía de la auto-organización nace de la propia comunidad organizada, m
 
 ### espacio, norma y mercado
 
-
 En este proceso descentralizado de construcción urbana, las viviendas son localizadas y tienen acceso a través de vía que "emergen o evolucionan de una manera incremental a través de un proceso físico que considera reglas de agregación local" (Buhl et al. 2006).
 Los patrones de organización espacial de los asentamientos en general y las viviendas en particular responden a un orden emergente, proveniente justamente de esas decisiones locales autónomas.
 La configuracion espacial en laderas puede graficarse topológicamente tomando en cuenta el trazo de las calles. Generalmente la red corresponde a un eje principal con ramificaciones laterales.
@@ -69,4 +68,3 @@ Este poder (social) de naturaleza discontinua espacial y temporal, se realiza en
 De este modo, el espejismo de la política económica hace de la sociedad una maquina de producción.
 
 ## Red de nodos de decision
-
