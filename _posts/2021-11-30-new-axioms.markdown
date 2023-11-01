@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On the new axioms for reading the landscape by Mitchell (2008)"
+author: "Victor Peña Guillen"
 #date:   2021-11-30 16:52:30 +0900
 #permalink: /hello-world/
 categories: updates
@@ -23,16 +24,14 @@ Keeping on the original objective, Mitchell (2008)[^2] proposed six axioms that 
 | Physical environment matters   | Landscape is the spatial form that social justice takes        |
 | An obscure meaning can be cleared up by visual evidence      | -       |
 
-
-![](chavimochic.jpg)
-*source: http://www.chavimochic.gob.pe*
+![Chavimochic, Lima]({{ "/assets/chavimochic.jpg" | relative_url }})
+*source: <http://www.chavimochic.gob.pe>*
 
 ## Interpretation
 
 Michell builds up on Lewis only at the begining, they share the Lefebvrian principle of a socially produced space that allows interpretation from its emergent features. Mitchell continues the argument based on two Radical Geography elements: commodification of space and the search of social justice. These are the main axis of his sequential analysis where his argument is based. Therefore, his contribution goes beyond marxian explanation as it aims to provide a definition of landscape that is operational to social action as a means to counter alienation in the context of production of space.
 
+## References
 
-
-# References
 [^1]: https://doi.org/10.1080/10464883.1976.10758067
 [^2]: https://doi.org/10.1007/978-1-4020-5849-3_2
