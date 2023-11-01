@@ -8,7 +8,7 @@ categories: updates
 ---
 
 Estudiando el efecto de la infraestructura sobre las economías regionales rezagadas, Gansauer et al. (2023)[^1] recomiendan investigar las políticas intra-regionales de desarrollo, y la visión dominante que los agentes interesados tienen sobre el rol de la infraestructura. Esto último incluye identificar los imaginarios hegemónicos regionales, y describir sus orígenes a través de los motivos, los objetivos y las posiciones de poder de los actores públicos y privados.
-Este modo de investigación pretende establecer un esquema para observar como los intereses locales y regionales interactúan con los agentes extra-regionales (el Estado o las firmas internacionales) en el marco de planificación de la infraestructura ubicada en esa periferia.
+Este modo de investigación pretende establecer un esquema para observar como los intereses locales y regionales interactúan con los agentes extra-regionales (el Estado o las firmas internacionales) en el marco de planificación estatal de la infraestructura ubicada en esa periferia.
 
 Un elemento común a los gobiernos locales y regionales es la falta de una estructura organizacional que afronte los objetivos de desarrollo regional expresados y demandados, de abajo hacia arriba, por los ciudadanos.
 Gansauer et al. (2023), sugieren que este desencuentro, entre la demanda de servicios desde las bases y los requisitos de niveles superiores, es causado por una falta de estandarización en la planificación a lo largo de diferentes casos regionales.
