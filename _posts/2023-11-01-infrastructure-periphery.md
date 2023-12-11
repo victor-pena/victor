@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ---
 layout: post
 title: "La producción de infraestructura en la periferia"
@@ -32,4 +30,3 @@ El esquema restrictivo de la organización jerárquica se reproduce en todas las
 
 [1]: Gansauer, G., Haggerty, J.H., Smith, K.K., Haggerty, M.N., & Roemer, K.F. (2023). Can infrastructure help ‘left behind’ places ‘catch up?’ Theorizing the role of built infrastructure in regional development. _Cambridge Journal of Regions, Economy and Society_.
 [2]: LEY No 27680: Ley de Reforma Constitucional del Capítulo XIV del Título IV, sobre Descentralización, promulgado el 6 de marzo del 2002.
->>>>>>> 57b374ba20c239e8165ee390684627b5dea730bf
