@@ -13,7 +13,7 @@ Este modo de investigación pretende establecer un esquema para observar como lo
 Un elemento común a los gobiernos locales y regionales es la falta de una estructura organizacional que afronte los objetivos de desarrollo regional expresados y demandados, de abajo hacia arriba, por los ciudadanos.
 Gansauer et al. (2023), sugieren que este desencuentro, entre la demanda de servicios desde las bases y los requisitos de niveles superiores, es causado por una falta de estandarización en la planificación a lo largo de diferentes casos regionales.
 
-![ingeniero]({{ "/ingeniero.jpg" | relative_url }})
+![ingeniero]({{ "/ingeniero.JPG" | relative_url }})
 
 El método recomendado es la exploración de los intereses comunes, a lo largo de las escalas de interés presentes dentro del marco institucional de la planificación presupuestal de la infraestructura.
 El Plan Nacional de Infraestructura para la Competitividad,  promulgado año 2019, permite aplicar el esquema de investigación descrito lineas arriba. El objetivo es identificar el modo de selección de los proyectos incluidos en este plan, vista la manifiesta relevancia en el numero de beneficiarios involucrados y el tamaño de la inversión planificada.
