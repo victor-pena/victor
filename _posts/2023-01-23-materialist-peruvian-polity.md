@@ -9,12 +9,12 @@ author: "Victor Peña Guillen"
 categories: updates
 ---
 
-## Historical context of contemporary Peruvian polity
+## The dialectics of Peruvian polity
 
 Reflecting on the recent events that leads the power transition occurred from Castillo to Dina Boluarte, allows asking about the roots of the turbulent dynamic of Peruvian polity.
 To explore this issue, a materialistic approach is employed, combining both Marx and Hayek explanation of capitalist societies.
 
-Two interpretations arise from the transition, one is said to represent the indignation and appeal to a particular and moral interpretation to account for a general movement and call to insurrection. The ultimate goal of this movement is to appropriate the social demands, encapsulate under a minority interests, and push to incorporate elements oriented towards a social-engineering state, where the self-proclaimed leaders of the protest adopt the control of the state.
+Two interpretations arise from the transition, one is said to represent the indignation and appeal to a particular and moral interpretation to account for a general movement and call to insurrection. The ultimate goal of this movement is to appropriate the social demands, encapsulate under a minority interests, and push to incorporate elements oriented towards a socially engineered state, where the self-proclaimed leaders of the protest adopt the control of the population.
 The other calls for a more participation in politics and a efficient employment of public resources to better off indignated subjects and communities. This conservative approach to the problem tries to build on the autonomous and decentralized social practices.
 
 Marx and Hayek radical and dialectical method of social inquiry seeks a non-utopical understanding of human behavior and society dynamics.
