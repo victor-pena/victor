@@ -14,7 +14,7 @@ categories: updates
 
 ---
 
-## Una critica a los rankings sobre democracia
+## Una crítica a los rankings sobre democracia
 
 La revista británica The Economist, publica con cierta frecuencia un ranking donde se califican las democracias del mundo, en rangos de mayor a menor grado. Este ranking evalua atributos de la democracia liberal, cuantificando opiniones a partir de un diseño de encuesta y procesamiento de los resultados.
 La sistematización es arbitraria en el sentido que el referido diseño se sustenta en el discurso modernista de estructura y funcionamiento de la democracia liberal.
