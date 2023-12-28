@@ -10,7 +10,7 @@ author: "Victor Peña Guillen"
 categories: updates
 ---
 
-Para estudiar y comprender el crecimiento urbano informal en la periferia de las ciudades, localizadas en valles costeros del Perú, se emplean estrategias basadas en una descripción ontológica, del modo en el que los pobladores transforman la tierra y construyen la vivienda progresivamente.
+Para estudiar y comprender el crecimiento urbano informal en la periferia de las ciudades, localizadas en valles costeros del Perú, el presente texto empleará estrategias, basadas en una descripción ontológica del modo en el que los pobladores transforman la tierra y construyen la vivienda progresivamente en esos lugares.
 
 El espacio actual de la nueva ciudad, no está definido por las regulaciones, ni por la retórica moderna de la orden.
 Estos bordes en expansión estan siendo construidos por un orden emergente.
