@@ -40,8 +40,9 @@ This approach addresses the spatial and temporal trajectories of housing develop
 
 [^1]: Escohotado Antonio. 2000. Addenda a 'Caos y Orden'. Empiria. Revista de Metodología de Ciencias Sociales 3, pp. 151-166.
 
-[^2]: Peña Guillen, Victor (2022). Mercantilização de Parques: o SbN na produção de Espaços Verdes em Lima. Revista LABVERDE, 12(1), 161-182. https://doi.org/10.11606/issn.2179-2275.labverde.2022.189374
+[^2]: Peña Guillen, Victor (2022). Mercantilização de Parques: o SbN na produção de Espaços Verdes em Lima. Revista LABVERDE, 12(1), 161-182.
+<https://doi.org/10.11606/issn.2179-2275.labverde.2022.189374>
 
-[^3]: Heynen, N., Perkins, H. A., & Roy, P. (2006). The Political Ecology of Uneven Urban Green Space: The Impact of Political Economy on Race and Ethnicity in Producing Environmental Inequality in Milwaukee. Urban Affairs Review, 42(1), 3-25. https://doi.org/10.1177/1078087406290729
+[^3]: Heynen, N., Perkins, H. A., & Roy, P. (2006). The Political Ecology of Uneven Urban Green Space: The Impact of Political Economy on Race and Ethnicity in Producing Environmental Inequality in Milwaukee. Urban Affairs Review, 42(1), 3-25. <https://doi.org/10.1177/1078087406290729>
 
 [^4]: Wallace JM. Urban Anthropology in Lima: An Overview. Latin American Research Review. 1984;19(3):57-85. doi:10.1017/S0023879100021488
