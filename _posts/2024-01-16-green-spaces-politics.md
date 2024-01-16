@@ -2,7 +2,7 @@
 layout: post
 title: "Access to urban green spaces in Lima's informal settlements"
 author: "Victor Peña Guillen"
-date:   2021-01-16 00:00:00 +0000
+date:   2024-01-16 00:00:00 +0000
 #permalink: /hello-world/
 categories: updates
 ---
