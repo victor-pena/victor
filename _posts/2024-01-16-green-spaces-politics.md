@@ -29,7 +29,7 @@ Potential activities to reduce this disparity can be summarized as follows:
 
 - Public-Private Partnerships: Leveraging partnerships with private entities to invest in green infrastructure.
 
--Innovative Urban Planning: Adopting urban planning strategies that integrate green spaces into housing and community design.
+- Innovative Urban Planning: Adopting urban planning strategies that integrate green spaces into housing and community design.
 
 - Education and Awareness: Raising awareness about the benefits of urban green spaces and how to sustainably maintain them.
 
