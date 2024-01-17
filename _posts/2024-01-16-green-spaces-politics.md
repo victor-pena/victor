@@ -37,7 +37,7 @@ Thus, addressing the disparity in green space distribution in Lima's informal se
 This approach addresses the spatial and temporal trajectories of housing development in Lima's peripheral areas, considering the dynamics of urbanization from the bottom-up.
 
 However, the last suggestion on raising awareness about the benefits of urban green spaces and promoting sustainable maintenance practices is problematic; it can be seen in the context of Foucault's concept of governmentality[^5].
-In this way, promoting green spaces is guiding public behavior in the name of concepts like environmental sustainability and community well-being.
+In this way, promoting green spaces is guiding public behavior in the name of discourses like environmental sustainability and community well-being.
 This form of power often operates through subtler means such as shaping norms, influencing choices, and setting agendas. By guiding behavior, especially in a way that aligns with certain policies or "societal goals", authorities or corporations can subtly steer the actions and attitudes of individuals and communities. This guidance can be seen as a form of 'soft power' that operates through persuasion, education, and the creation of incentives, overall related to the above mentioned form of housing supply.
 
 ### Referencias
