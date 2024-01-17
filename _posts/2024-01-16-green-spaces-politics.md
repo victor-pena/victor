@@ -36,6 +36,10 @@ Potential activities to reduce this disparity can be summarized as follows:
 Thus, addressing the disparity in green space distribution in Lima's informal settlements requires a multi-faceted approach involving continous community participation, governmental support, and innovative urban planning. This not only enhances the urban environment but also promotes social equity.
 This approach addresses the spatial and temporal trajectories of housing development in Lima's peripheral areas, considering the dynamics of urbanization from the bottom-up.
 
+However, the last suggestion on raising awareness about the benefits of urban green spaces and promoting sustainable maintenance practices is problematic; it can be seen in the context of Foucault's concept of governmentality[^5].
+In this way, promoting green spaces is guiding public behavior in the name of concepts like environmental sustainability and community well-being.
+This form of power often operates through subtler means such as shaping norms, influencing choices, and setting agendas. By guiding behavior, especially in a way that aligns with certain policies or "societal goals", authorities or corporations can subtly steer the actions and attitudes of individuals and communities. This guidance can be seen as a form of 'soft power' that operates through persuasion, education, and the creation of incentives, overall related to the above mentioned form of housing supply.
+
 ### Referencias
 
 [^1]: Escohotado Antonio. 2000. Addenda a 'Caos y Orden'. Empiria. Revista de Metodología de Ciencias Sociales 3, pp. 151-166.
@@ -45,3 +49,5 @@ This approach addresses the spatial and temporal trajectories of housing develop
 [^3]: Heynen, N., Perkins, H. A., & Roy, P. (2006). The Political Ecology of Uneven Urban Green Space: The Impact of Political Economy on Race and Ethnicity in Producing Environmental Inequality in Milwaukee. Urban Affairs Review, 42(1), 3-25. <https://doi.org/10.1177/1078087406290729>
 
 [^4]: Wallace JM. Urban Anthropology in Lima: An Overview. Latin American Research Review. 1984;19(3):57-85. doi:10.1017/S0023879100021488
+
+[^5]: Daniele Lorenzini. 2023. Foucault, governmentality, and the techniques of the self. In: Handbook on Governmentality (William Walters and Martina Tazzioli Eds.). pp. 22–37. <https://doi.org/10.4337/9781839108662.00008>
