@@ -22,7 +22,7 @@ Key constitutional principles that align with the discussed trade policies inclu
 - Equality of National and Foreign Investment (Article 63)
 - Freedom of Contract and Consumer Protection (Articles 62 and 65)
 
-These constitutional provisions underscore the legal and ideological foundation for the trade policies implemented in both periods, indicating a continuity of economic liberalism principles adapted to the evolving social and economic contexts of Peru. The Constitution not only supports the liberalization efforts and the promotion of an open, competitive market but also mandates the state to play a guiding role in ensuring that these policies contribute to the overall development and welfare of the nation.
+These constitutional provisions underscore the legal and ideological foundation for the trade policies implemented in the above-mentioned periods, indicating a continuity of economic liberalism principles adapted to the evolving social and economic contexts of Peru. The Constitution not only supports the liberalization efforts and the promotion of an open, competitive market but also mandates the state to play a guiding role in ensuring that these policies contribute to the overall development and welfare of the nation.
 
 ### References
 
