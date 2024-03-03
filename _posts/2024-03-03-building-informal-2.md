@@ -18,10 +18,10 @@ To answer the question we are identifying the daily practices of city-making in 
 
 4. **Improvement of Living Conditions:** Despite the lack of formal infrastructure, residents engage in collective efforts to improve their living conditions. This includes installing basic services, creating access paths, and building communal facilities.
 
-5. **Political Engagement and Citizenship:** Through their practices of city-making, residents engage in acts of citizenship. They claim their right to the city and negotiate their place within it, often challenging stigmatization and exclusion.
+5. **Political Engagement and Citizenship:** Through their practices of city-making, residents engage in acts of citizenship. They claim their right to the city and negotiate their place within it, often challenging stigmatization and exclusion from stablished forms of public and private institutions and regulations.
 
-All these five identified activities are operating in both the public and private dimension of the informal construction of the city.
-These practices are not just about physical construction but also mobilizes local actors around the idea of change through social, political, and economic negotiations with public and private institutions as well. The above-mentioned activities highlight the residents' resilience and agency in the face of stigmatization and marginalization, as they work to build their communities and claim their rights as citizens of Lima.
+All these five identified activities are operating within both the formal public and private dimensions where the informal construction of the city is being performed.
+These practices are not just about physical construction but also mobilizes local actors around the idea of change through social, political, and economic negotiations with public and private institutions as well. The above-mentioned activities highlight the residents' resilience and agency in the face of marginalization, as they work to build their communities and claim their rights as citizens of Lima.
 
 ### Reference
 
