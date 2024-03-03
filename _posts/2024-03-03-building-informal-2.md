@@ -2,7 +2,7 @@
 layout: post
 title: " How is people building informal settlements in Lima? (2)"
 author: "Victor Peña Guillen"
-date:   2024-02-26 00:00:00 +0000
+date:   2024-03-03 00:00:00 +0000
 #permalink: /hello-world/
 categories: updates
 ---
