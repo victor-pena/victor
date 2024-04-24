@@ -19,7 +19,7 @@ La consecuencia en el transitar diario viene siendo la perdida de importancia e 
 Procediendo a observar esta anécdota desde la perspectiva de la operación a largo plazo del Estado Peruano, notamos que pertenece a la trayectoria no lineal que es generada por la actuación e interacción decentralizada de actores políticos.
 El Estado es flexible en el corto plazo y orienta su poder cuando aparecen condiciones o eventos que afectan su seguridad en el largo plazo.
 En ambos horizontes, promueve la informalidad, que asegura la operación del sistema neoliberal, que se ha constituido en una política de estado adoptada en las dimensiones formal e informal de la sociedad.
-La población y el Estado Peruano han adoptado ese regimen y vienen circulando ese camino. Esta apuesta basada en la virtud que provee la historia, define la naturaleza y evolución del regimen político que el país ha adoptado. El resultado inestable es la fuente de la secuencia de cambios permanente.
+La población y el Estado Peruano han adoptado ese regimen y vienen circulando ese camino. Esta apuesta basada en la virtud que provee la historia, define la naturaleza y evolución del regimen político que el país ha adoptado. El resultado inestable es la fuente de la secuencia permanente de enlace y desenlace en la estructura de ese tejido.
 
 ### Referencia
 
