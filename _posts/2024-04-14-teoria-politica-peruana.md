@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La construcción permanente en la capa mas reciente del tejido político en el Peru"
-date:   2023-03-16 00:52:30 +0900
+date:   2024-04-24 00:52:30 +0900
 #permalink: /hello-world/
 author: "Victor Peña Guillen"
 #affiliation: UNALM
