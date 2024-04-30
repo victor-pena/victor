@@ -11,7 +11,7 @@ categories: updates
 
 El estado de movimiento caótico, incierto en la naturaleza de un sistema social complejo y adaptativo, que es regulado por los deseos e intereses particulares de individuos o corporaciones, provoca, en muchos observadores, una descripción que resulta en una calificación superficial de las circunstancias aleatorias, la cual no llega a identificar ni describir la sustancia ni la forma de esa operación.
 
-Esta representación secular basada en una imagen preconcebida del orden, es comparada a la observación del flujo irregular de las personas y de los eventos.
+Esta representación secular basada en una imagen preconcebida del orden, es comparada a la observación del flujo irregular de las personas y de los eventos, en las diversas escalas del territorio.
 Las circunstancias durante construcción de la red integral de conexiones y nodos institucionales formales e informales, que todo lo determina, incluyendo la aparición permanente de nuevos nodos y conexiones, contrastan con la vision estática de la sociedad correspondiente a lo que debería ser lo justo, según las concepciones y creencias acotadas dentro de un grupo.
 
 En la imagen de esta colectividad conservadora, opuesta al cambio y la novedad, se detecta una regla moral alimentada tambien por deseos e intereses, individuales y corporativos. Dentro de este grupo los lazos de interconexión son muy fuertes y delimitados dentro del espacio social de sus ideas, normas y construcciones sociales.
