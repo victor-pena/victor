@@ -9,7 +9,7 @@ author: "Victor Peña Guillen"
 categories: updates
 ---
 
-El constitucionalismo peruano del 93 es democratico, potencia las actividades de los ciudadanos, provoca un proceso constituyente adaptativo, y suatenta la palanca para el lanzamiento de la auto-organizacion social y de las energias de democracia popular.
+El constitucionalismo peruano del 93 es democratico, potencia las actividades de los ciudadanos, provoca un proceso constituyente adaptativo, y sustenta la palanca para el lanzamiento de la auto-organizacion social y de las energias de la democracia popular.
 Este efecto democratizador constituyente, en el Perú, se valida a través de las actividades políticas, en los tres niveles de gobierno (local, regional y nacional).
 La volatilidad e incertidumbre del proceso complejo que se muestra diariamente, resulta en una ambiguedad que inquieta a los promotores del orden, inspirado en sus interpretaciones particulares de la realidad.
 
