@@ -17,6 +17,8 @@ De esta manera los principios fundacionales del régimen democrático, determina
 La aceptación de la permanente lucha, tomando en cuenta la teoría agonistica de la democracia[^1], permite analizar e interpretar recionalmente los eventos e idiosincracia de la política peruana.
 De este modo, nuestro sistema democrático visto como espacio de conflicto y negociación, no es algo externo o impuesto sino una expresión inmanente y emergente a partir de las prácticas y las relaciones entre los ciudadanos.
 
+Ciertamente, en el marco de la política comparada que se orienta a la medición de los grados de democracia entre paises, el diseño de un indicador que represente los niveles del poder constituyente, en una sociedad y un estado, podría ser a lo mejor un instrumento más preciso que los actuales relevamientos.
+
 ### Referencia
 
 [^1]: Wenman, M. (2013). Introduction: agonism and the constituent power. In Agonistic Democracy: Constituent Power in the Era of Globalisation (pp. 3–27). chapter, Cambridge: Cambridge University Press.
