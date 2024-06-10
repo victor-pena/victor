@@ -11,7 +11,7 @@ categories: updates
 
 ---
 
-"Processes of socio-environmental metabolic circulation transform both social and physical environments and produce social and physical milieus (such as cities) with new and distinct qualities" (Heynen 2005).[^1]
+"Processes of socio-environmental metabolic circulation transform both social and physical environments and produce social and physical milieus (such as cities) with new and distinct qualities" (Heynen et al. 2005).[^1]
 
 ---
 
