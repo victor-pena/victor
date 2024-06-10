@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La insfraestructura como paisaje"
+title: "Un nuevo paisaje para una nueva insfraestructura"
 date:   2024-06-10 00:52:30 +0900
 #permalink: /hello-world/
 author: "Victor Peña Guillen"
