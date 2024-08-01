@@ -32,6 +32,6 @@ Investments in ports and infrastructure, such as Chancay port, often spark geopo
 
 [^1]: Noorali 2022. Port Power.
 
-[^2]: <https://www.chinausfocus.com/finance-economy/a-china-funded-port-in-south-america-could-threaten-us-national-security>
+[^2]: Leland Lazarus 2024 <https://www.chinausfocus.com/finance-economy/a-china-funded-port-in-south-america-could-threaten-us-national-security>
 
-[^2]: Igor Patrick 2024. Senior China customs official to visit Peru for deal expanding fruit exports to mainland <https://www.scmp.com/news/china/article/3272705/senior-china-customs-official-visit-peru-deal-expanding-fruit-exports-mainland>
+[^3]: Igor Patrick 2024. Senior China customs official to visit Peru for deal expanding fruit exports to mainland <https://www.scmp.com/news/china/article/3272705/senior-china-customs-official-visit-peru-deal-expanding-fruit-exports-mainland>
