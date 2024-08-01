@@ -28,11 +28,12 @@ China's role in the current dynamics of port power globally includes strategic i
 
 Investments in ports and infrastructure, such as Chancay port, often spark geopolitical tensions. Host countries and rival powers may view these investments as strategic moves rather than purely economic ones, leading to resistance and complications. While the strategic value of Chancay port is clear, balancing this with economic viability and local stakeholder interests can be difficult under a rigid state-capitalist model.
 Peru's democratic institutions, established by the 1993 constitution, foster citizen engagement and adaptive governance. This environment supports social self-organization and democratic energy, essential for resilient business and social involvement in projects like the Chancay port. The polycentric governance system, with local, regional, and national levels, enables legal and organizational adaptations, promoting flexibility and conflict resolution.
+
 Peru is working to integrate its ports into broader regional trade initiatives, such as the Pacific Alliance and the Asia-Pacific Economic Cooperation (APEC). These efforts aim to position Peru as a key logistics hub in the region. Peru is indeed placing ports at the center of its geopolitical codes, recognizing their strategic importance for trade, investment, and regional integration. The development and modernization of port infrastructure, alongside efforts to enhance connectivity and balance foreign influence, reflect Peru’s commitment to leveraging its ports as pivotal assets in its geopolitical and economic strategy.
 
 ### References
 
-[^1]: Noorali 2022. Port Power.
+[^1]: Noorali H.; Flint C.; Ahmadi S.A.  2022. Port Power. Journal of Transport Geography 105. Elsevier. doi: <https://doi.org/10.1016/j.jtrangeo.2022.103483>
 
 [^2]: Leland Lazarus 2024 <https://www.chinausfocus.com/finance-economy/a-china-funded-port-in-south-america-could-threaten-us-national-security>
 
