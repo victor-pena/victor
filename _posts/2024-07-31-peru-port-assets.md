@@ -15,9 +15,9 @@ Peru is investing in the modernization of its port infrastructure to handle larg
 
 2. The project involves significant investments to build infrastructure capable of handling large volumes of maritime trade and accommodating modern shipping needs.
 
-3. The port is designed to handle large vessels and significant cargo throughput, essential for facilitating trade between Latin America and Asia.
+3. The port is designed to handle large vessels and significant cargo throughput, together with Callao, which is essential for facilitating trade between Latin America and Asia.
 
-4. Primary users include Chinese companies, which will use the port to export green technologies and import essential resources like copper.
+4. Primary users include Chinese companies, which will use Chancay port to export manufactures and technologies and import essential resources.
 
 5. The port’s development includes integrating with Peru's inland transport networks to efficiently move goods to and from the port.
 
