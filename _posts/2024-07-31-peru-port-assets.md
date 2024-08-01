@@ -28,14 +28,21 @@ In the case of Chancay port, this multi-billion dollar venture is poised to beco
 China's role in the current dynamics of port power globally includes strategic investments in ports worldwide to enhance its Belt and Road Initiative (BRI), facilitating trade, and extending geopolitical influence. By controlling key ports, China strengthens its maritime trade routes and increases its global economic and military reach [^3].
 
 Investments in ports and infrastructure, such as Chancay port, often spark geopolitical tensions. Host countries and rival powers may view these investments as strategic moves rather than purely economic ones, leading to resistance and complications. While the strategic value of Chancay port is clear, balancing this with economic viability and local stakeholder interests can be difficult under a rigid state-capitalist model.
-Peru's democratic institutions, established by the 1993 constitution, foster citizen engagement and adaptive governance. This environment supports social self-organization and democratic energy, essential for resilient business and social involvement in projects like the Chancay port. The polycentric governance system, with local, regional, and national levels, enables legal and organizational adaptations, promoting flexibility and conflict resolution.
+Peru's democratic institutions, established by the 1993 Constitution, foster citizen engagement and adaptive governance. This environment supports social self-organization and democratic energy, essential for resilient business and social involvement in projects like the Chancay port. The polycentric governance system, with local, regional, and national levels, enables legal and organizational adaptations, promoting flexibility and conflict resolution.
+This governance system, provide a framework that can support complex negotiations enabling different levels of government to collaborate and adapt strategies as needed, facilitating more robust and resilient deal-making processes.
+
+Negotiations with Chinese companies involve balancing economic benefits with strategic and security considerations [^4].
+The several Free Trade Agreements signed by Peru with other countries, have been building the capacity of Peruvian officials in areas such as international trade, investment law, and negotiation tactics. This is crucial for effectively managing the intricacies of deals with major global players like China and Cosco.
+Challenges such as power asymmetry, geopolitical pressures, and the need to address public and environmental concerns remain significant. Effective negotiation will require leveraging democratic institutions, legal frameworks, and strategic partnerships to ensure that deals are beneficial and sustainable for Peru.
 
 Peru is working to integrate its ports into broader regional trade initiatives, such as the Pacific Alliance and the Asia-Pacific Economic Cooperation (APEC). These efforts aim to position Peru as a key logistics hub in the region. Peru is indeed placing ports at the center of its geopolitical codes, recognizing their strategic importance for trade, investment, and regional integration. The development and modernization of port infrastructure, alongside efforts to enhance connectivity and balance foreign influence, reflect Peru’s commitment to leveraging its ports as pivotal assets in its geopolitical and economic strategy.
 
 ### References
 
-[^1]: Noorali H.; Flint C.; Ahmadi S.A.  2022. Port Power. Journal of Transport Geography 105. Elsevier. doi: <https://doi.org/10.1016/j.jtrangeo.2022.103483>
+[^1]: Noorali H.; Flint C.; Ahmadi S.A.  2022. Port Power: Towards a new geopolitical world order. Journal of Transport Geography 105. Elsevier. doi: <https://doi.org/10.1016/j.jtrangeo.2022.103483>
 
 [^2]: Leland Lazarus 2024 <https://www.chinausfocus.com/finance-economy/a-china-funded-port-in-south-america-could-threaten-us-national-security>
 
 [^3]: Igor Patrick 2024. Senior China customs official to visit Peru for deal expanding fruit exports to mainland <https://www.scmp.com/news/china/article/3272705/senior-china-customs-official-visit-peru-deal-expanding-fruit-exports-mainland>
+
+[^4]: Elisabeth Braw 2024. Peru Learns to Read the Fine Print in China Deals <https://foreignpolicy.com/2024/05/13/peru-learns-to-read-the-fine-print-in-china-deals/>
