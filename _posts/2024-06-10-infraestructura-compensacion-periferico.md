@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un nuevo paisaje para una nueva infraestructura"
+title: "Un nuevo paisaje para una nueva infraestructura (*)"
 date:   2024-06-10 00:52:30 +0900
 #permalink: /hello-world/
 author: "Victor Peña Guillen"
@@ -26,6 +26,12 @@ En este caso se debe promover una alianza con el concesionario del servicio vial
 La compensación de las áreas verdes existentes, puede incorporar el financiamiento de las labores de restauración y recuperación de la estructura y las funciones del paisaje, a lo largo de los distritos involucrados en la construcción de la autopista.
 De este modo, la construcción del anillo vial, se realizará acompañado de la red de areas verdes.
 La operación de ambas infraestructuras permitira confirmar que los procesos ecológicos y sociales vayan asociados y duren en el tiempo.
+
+---
+
+(*) El titulo proviene del libro titulado "NUOVE INFRASTRUTTURE PER NUOVI PAESAGGI" editado por Cesare Micheletti y Loredana Ponticelli en el año 2003.
+
+---
 
 ### Referencia
 
