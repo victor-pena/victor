@@ -9,7 +9,7 @@ author: "Victor Peña Guillen"
 categories: updates
 ---
 
-Peru is investing in the modernization of its port infrastructure to handle larger vessels and increase cargo throughput. These upgrades are essential for maintaining competitiveness in global shipping and logistics. Maritime transport networks refer to the interconnected routes that vessels follow between ports. The establishment and maintenance of these networks involve strategic considerations, such as the location of transshipment hubs, the frequency of maritime services, and the connectivity between different regions​ (Noorali 2022)[^1]​. 
+Peru is investing in the modernization of its port infrastructure to handle larger vessels and increase cargo throughput. These upgrades are essential for maintaining competitiveness in global shipping and logistics. Maritime transport networks refer to the interconnected routes that vessels follow between ports. The establishment and maintenance of these networks involve strategic considerations, such as the location of transshipment hubs, the frequency of maritime services, and the connectivity between different regions​ (Noorali 2022)[^1]​.
 The development of the China-funded Chancay port in Peru, is highlighting several factors:
 
 1. The port is strategically located on the Pacific coast of Peru, about 50 miles north of Lima, making it a key hub for connecting Latin America and Asia.
