@@ -27,12 +27,9 @@ By optimizing supply chain logistics—such as better planning and scheduling—
 
 ### References
 
-[^1]: Eleftherios Sdoukopoulos, Maria Boile. 2020. Port-hinterland concept evolution: A critical review. Journal of Transport Geography 86.
-<https://doi.org/10.1016/j.jtrangeo.2020.102775.>
+[^1]: Eleftherios Sdoukopoulos, Maria Boile. 2020. Port-hinterland concept evolution: A critical review. Journal of Transport Geography 86. <https://doi.org/10.1016/j.jtrangeo.2020.102775.>
 
-[^2]: Peter McMeekin - Grain Brokers Australia. March 26, 2024. Brazil contemplates Peru export pathway
-<https://www.graincentral.com/markets/brazil-contemplates-peru-export-pathway/>
+[^2]: Peter McMeekin - Grain Brokers Australia. March 26, 2024. Brazil contemplates Peru export pathway <https://www.graincentral.com/markets/brazil-contemplates-peru-export-pathway/>
 
 [^3]: Kara Carroll Tiller, Jean-Claude Thill. 2017. Spatial patterns of landside trade impedance in containerized South American exports,
-Journal of Transport Geography 58: 272-285
-<https://doi.org/10.1016/j.jtrangeo.2017.01.001>
+Journal of Transport Geography 58: 272-285. <https://doi.org/10.1016/j.jtrangeo.2017.01.001>
