@@ -26,7 +26,6 @@ Finally, it should be said, again, that the govermentalist project developing un
 
 ### References
 
-[^1]: McKinlay and Pezet 2018. Foucault, governmentality, strategy: From the ear of the sovereign to the multitude. Critical Perspectives on Accounting 53: 57-68 <https://doi.org/10.1016/j.cpa.2017.03.005.>
+[^1]: McKinlay and Pezet 2018. Foucault, governmentality, strategy: From the ear of the sovereign to the multitude. Critical Perspectives on Accounting 53: 57-68. <https://doi.org/10.1016/j.cpa.2017.03.005.>
 
-[^2]: M. Foucault. 1979. The history of sexuality I: An introduction.
-Allen Lane, London.
+[^2]: M. Foucault. 1979. The history of sexuality I: An introduction. Allen Lane, London.
