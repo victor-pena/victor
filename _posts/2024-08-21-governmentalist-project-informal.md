@@ -11,7 +11,7 @@ categories: updates
 
 "Governmentalist projects... are prepared to concede – or sacrifice – a level of autonomy to individuals, groups and populations to reduce costs and increase personal freedoms. To govern becomes the pursuit of minimising discipline and surveillance, an acceptance of probabilistic risk in order to maximise individual freedom and responsibility" (McKinlay and Pezet 2018)[^1].
 
-Above-mentioned quote suggests that there is a conscious and explicit strategy of Peruvian politicians of state officials, to recognize and value informal urbanization. But this learning practice requires interpretation and contestation.
+Above-mentioned quote suggests that there is a conscious and explicit strategy across Peruvian politicians, to recognize and value informal urbanization. This is a learning practice of state officials that requires interpretation.
 The credited strategy has been promoting the enactment of laws that are favouring marginal urban development, which in turn requires to concede that level of autonomy to the involved local actors.
 However, as far as the construction of governmentality of informal are identified by the emergent norms and institutions of the state, this also fits to the changing needs of those informal dwellers.
 
