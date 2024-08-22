@@ -11,7 +11,7 @@ categories: updates
 
 In 2024, Callao's port operations exemplify advanced digital coordination through the integration of DP World Callao, APM Terminals, and various maritime associations into the Port Community System (PCS). This system enables real-time data sharing among stakeholders, including customs agents, terminal operators, and transport companies. For instance, when a shipment arrives, all relevant data—such as container status and customs clearance—is instantly shared across the PCS. This facilitates coordinated actions, reducing delays, enhancing cargo flow, and ensuring regulatory compliance, ultimately streamlining the port’s supply chain operations.
 
-Exporters and importers are also key stakeholders connected to the Port Community System (PCS) for tasks such as tracing and taxation. The PCS integrates these entities primarily through the following functionalities: Customs Declarations, Tracing Shipments and
+Exporters and importers are key stakeholders connected to the Port Community System (PCS) for tasks such as tracing and taxation. The PCS integrates these entities primarily through the following functionalities: Customs Declarations, Tracing Shipments and
 Taxation and Compliance. Here is a table summarizing the tasks handled by the Port Community System (PCS) at each step of the workflow for hinterland transport operators entering a port:
 
 | **Workflow Step**                  | **PCS Tasks**                                                                                              |
@@ -24,7 +24,6 @@ Taxation and Compliance. Here is a table summarizing the tasks handled by the Po
 | **6. Hinterland Transportation**   | - Continues to track the shipment and provide updates to relevant stakeholders.<br>- Ensures ongoing communication with the transport operator until delivery. |
 | **7. Post-Delivery Reporting and Analytics** | - Generates reports and analytics on the transport operation's performance.<br>- Provides audit trails and performance feedback to stakeholders. |
 
-This table highlights the key roles of the PCS in managing, coordinating, and facilitating the workflow across the different stages of hinterland transport operations.
 
 Advanced digital coordination and real-time data sharing at Callao involves the integration of terminal operations with Peru's Port Community System (PCS). When a shipment of goods, such as agricultural exports, arrives at the port, information is immediately shared across the PCS. This data includes container status, customs clearance progress, and real-time tracking. Stakeholders like customs agents, terminal operators, and transport companies can access this data simultaneously, enabling coordinated actions that reduce wait times, improve cargo flow, and ensure compliance.
 
@@ -38,5 +37,8 @@ TradeLens has positively impacted efficiency at DP World's Callao Terminal in se
 - Productivity Gains: There has been a 15% increase in productivity at the South Quay of the Callao port precinct, contributing to a 13% rise in the total TEUs handled in the first seven and a half months of 2023 compared to the same period in 2022. This productivity gain is largely attributed to the improved coordination and reduced administrative bottlenecks brought about by the TradeLens platform.
 - Record-Setting Performance: In July 2023, DP World Callao set a new monthly record for TEUs handled, the highest in the history of Peruvian ports. This achievement reflects the enhanced operational efficiency and throughput capabilities enabled by the TradeLens system.
 
+### References
 
-[^3]: VUCE 2.0 project page [here](https://vuce.gob.pe/Paginas/ProyectoVuce2_0.aspx)
+[^1]: VUCE 2.0 project page [here](https://vuce.gob.pe/Paginas/ProyectoVuce2_0.aspx)
+
+[^2]: https://www.tradelens.com/
