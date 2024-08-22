@@ -9,7 +9,7 @@ author: "Victor Peña Guillen"
 categories: updates
 ---
 
-In 2024, Callao's port operations exemplify advanced digital coordination through the integration of DP World Callao, APM Terminals, and various maritime associations into the Port Community System (PCS). This system enables real-time data sharing among stakeholders, including customs agents, terminal operators, and transport companies. For instance, when a shipment arrives, all relevant data—such as container status and customs clearance—is instantly shared across the PCS. This facilitates coordinated actions, reducing delays, enhancing cargo flow, and ensuring regulatory compliance, ultimately streamlining the port’s supply chain operations.
+Callao's port operations exemplify advanced digital coordination through the integration of DP World Callao, APM Terminals, and various maritime associations into the Port Community System (PCS)[^1]. This system enables real-time data sharing among stakeholders, including customs agents, terminal operators, and transport companies. For instance, when a shipment arrives, all relevant data—such as container status and customs clearance—is instantly shared across the PCS. This facilitates coordinated actions, reducing delays, enhancing cargo flow, and ensuring regulatory compliance, ultimately streamlining the port’s supply chain operations.
 
 Exporters and importers are key stakeholders connected to the Port Community System (PCS) for tasks such as tracing and taxation. The PCS integrates these entities primarily through the following functionalities: Customs Declarations, Tracing Shipments and
 Taxation and Compliance. Here is a table summarizing the tasks handled by the Port Community System (PCS) at each step of the workflow for hinterland transport operators entering a port:
@@ -28,7 +28,7 @@ Advanced digital coordination and real-time data sharing at Callao involves the 
 
 The integration of the Peruvian customs platform VUCE (Ventanilla Única de Comercio Exterior) within PCS is a significant development aimed at enhancing trade facilitation and efficiency in Peru. VUCE can provide enhanced visibility into the status of shipments. Customs authorities can track containers from the point of origin to the destination, allowing for better risk management and more efficient processing. This visibility is crucial for conducting pre-arrival risk assessments and expediting the clearance of goods upon arrival.
 
-The VUCE 2.0[^1] platform has the potential to integrate with TradeLens[^2] and the Port Community System (PCS) to streamline the export process. For example, in blueberry exports from Callao to the USA under the Peru-USA FTA, VUCE 2.0 is going to facilitate digital submission of documents (e.g., phytosanitary certificates) which are then accessible in real-time via TradeLens. This possible integration leverages the capabilities of blockchain technology to streamline customs processes, improve data accuracy, and increase transparency across the supply chain. This integration again allows for seamless customs processing, efficient port handling, and real-time tracking, ensuring timely and compliant export operations.
+The VUCE 2.0[^2] platform has the potential to integrate with TradeLens[^3] and the Port Community System (PCS) to streamline the export process. For example, in blueberry exports from Callao to the USA under the Peru-USA FTA, VUCE 2.0 is going to facilitate digital submission of documents (e.g., phytosanitary certificates) which are then accessible in real-time via TradeLens. This possible integration leverages the capabilities of blockchain technology to streamline customs processes, improve data accuracy, and increase transparency across the supply chain. This integration again allows for seamless customs processing, efficient port handling, and real-time tracking, ensuring timely and compliant export operations.
 
 DP World's Callao Terminal has positively increased its efficiency in several measurable ways. Here are some key metrics highlighting these improvements:
 
@@ -38,6 +38,8 @@ DP World's Callao Terminal has positively increased its efficiency in several me
 
 ### References
 
-[^1]: VUCE 2.0 project page [here](https://vuce.gob.pe/Paginas/ProyectoVuce2_0.aspx)
+[^1]: Asociación Peruana de Operadores Portuarios (ASPPOR) <https://www.asppor.org.pe/2023/07/comport-callao-trabajara-para-elevar/>
 
-[^2]: <https://www.tradelens.com/>
+[^2]: VUCE 2.0 project page [here](https://vuce.gob.pe/Paginas/ProyectoVuce2_0.aspx)
+
+[^3]: <https://www.tradelens.com/>
