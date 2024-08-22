@@ -41,4 +41,4 @@ TradeLens has positively impacted efficiency at DP World's Callao Terminal in se
 
 [^1]: VUCE 2.0 project page [here](https://vuce.gob.pe/Paginas/ProyectoVuce2_0.aspx)
 
-[^2]: https://www.tradelens.com/
+[^2]: <https://www.tradelens.com/>
