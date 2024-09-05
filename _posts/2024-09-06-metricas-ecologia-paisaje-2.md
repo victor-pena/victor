@@ -2,7 +2,7 @@
 layout: post
 title: "Calculo de las metricas de ecologia del paisaje (2)"
 author: "Victor Peña Guillen"
-#date:   2021-12-15 16:52:30 +0900
+date:   2024-09-06 00:52:30 +0900
 #permalink: /hello-world/
 categories: updates
 ---
