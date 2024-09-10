@@ -26,7 +26,6 @@ De este modo, comprender las interdependencias y los efectos en cascada es cruci
 
 ### Referencias
 
-[^1]: V. Peña-Guillen. 2019. Simulation of house consolidation process in Lima using an epidemic diffusion mechanism.
-Computers, Environment and Urban Systems 77. DOI: <https://doi.org/10.1016/j.compenvurbsys.2019.101347>
+[^1]: V. Peña-Guillen. 2019. Simulation of house consolidation process in Lima using an epidemic diffusion mechanism. Computers, Environment and Urban Systems 77. DOI: <https://doi.org/10.1016/j.compenvurbsys.2019.101347>
 
-[^2]: Scott Thacker, Stuart Barr, Raghav Pant, Jim W. Hall, David Alderson. 2017. Geographic Hotspots of Critical National Infrastructure. Risk Analysis 37(12): 2490-2505. DOI: < https://doi.org/10.1111/risa.12840>
+[^2]: Scott Thacker, Stuart Barr, Raghav Pant, Jim W. Hall, David Alderson. 2017. Geographic Hotspots of Critical National Infrastructure. Risk Analysis 37(12): 2490-2505. DOI: <https://doi.org/10.1111/risa.12840>
