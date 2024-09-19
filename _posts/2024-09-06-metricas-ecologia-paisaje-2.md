@@ -152,6 +152,7 @@ shp2raster <- function(shp, mask.raster, label, value, transform = FALSE, proj.f
 ```
 
 ```{r, fig.width=12, fig.height=9}
+
 LH.mask <- raster("/Users/victorpena/Documents/work/unalm/courses/pyr/taller/2024_2/shapes/cuenca_raster.tif")
 # set the background cells in the raster to 0
 LH.mask[!is.na(LH.mask)] <- 1
@@ -159,6 +160,7 @@ lomas <- st_read("/Users/victorpena/Documents/work/unalm/courses/pyr/taller/2024
 # convert the NPWS.reserves polygon data for Parks
 # Parks to a raster
 NPWS.raster <- shp2raster(shp = lomas, mask.raster = LH.mask, label = "Lomas Chancay-Huaral", value = 3)
+
 ```
 
 ```{r}
