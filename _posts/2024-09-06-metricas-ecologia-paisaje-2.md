@@ -186,8 +186,6 @@ lsm_c_shape_mn(NPWS.raster)
 
 #### Referencias
 
-[^1]: landscapemetrics 2.1.4 4 octubre 2023
-**[enlace](https://r-spatialecology.github.io/landscapemetrics/index.html "spatialecology's Homepage")**
+[^1]: landscapemetrics 2.1.4 4 octubre 2023 **[enlace](https://r-spatialecology.github.io/landscapemetrics/index.html "spatialecology's Homepage")**
 
-[^2]: Amy Whitehead 1 May 2014
-<https://www.r-bloggers.com/2014/05/converting-shapefiles-to-rasters-in-r/>
+[^2]: Amy Whitehead 1 May 2014 <https://www.r-bloggers.com/2014/05/converting-shapefiles-to-rasters-in-r/>
