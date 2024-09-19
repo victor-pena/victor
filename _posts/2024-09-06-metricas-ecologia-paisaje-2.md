@@ -151,7 +151,7 @@ shp2raster <- function(shp, mask.raster, label, value, transform = FALSE, proj.f
 }
 ```
 
-```{r, fig.width=12, fig.height=9}
+```{r}
 
 LH.mask <- raster("/Users/victorpena/Documents/work/unalm/courses/pyr/taller/2024_2/shapes/cuenca_raster.tif")
 # set the background cells in the raster to 0
