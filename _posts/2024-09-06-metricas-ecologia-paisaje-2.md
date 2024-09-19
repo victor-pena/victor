@@ -87,7 +87,6 @@ library(landscapemetrics) # landscape metrics calculation
 library(landscapetools)
 ```
 
-
 Fuente: landscapemetrics[^1]
 **[enlace](https://r-spatialecology.github.io/landscapemetrics/index.html "spatialecology's Homepage")**
 
@@ -103,18 +102,15 @@ verbose = TRUE
 )
 ```
 
-
 ```{r}
 check_landscape(parques_raster)
 ```
-
 
 #### Mosaico de la cuenca
 
 ```{r}
 cuenca <- st_read("/Users/victorpena/Documents/work/unalm/courses/pyr/taller/2024_2/shapes/cuenca_chancay_huaral.shp")
 ```
-
 
 ```{r}
 blank_raster <- raster(nrow = 1000, ncol = 1000, extent(cuenca))
@@ -128,12 +124,9 @@ cuenca_raster[!(is.na(cuenca_raster))] <- 1
 plot(cuenca_raster, legend=FALSE)
 ```
 
-
-
 ```{r}
 terra::writeRaster(cuenca_raster, "cuenca_raster.tif", filetype = "GTiff", overwrite = TRUE)
 ```
-
 
 #### Funcion shp2raster[^2]
 
@@ -170,33 +163,25 @@ shp2raster <- function(shp, mask.raster, label, value, transform = FALSE, proj.f
 }
 ```
 
-
 ```{r, fig.width=12, fig.height=9}
 LH.mask <- raster("/Users/victorpena/Documents/work/unalm/courses/pyr/taller/2024_2/shapes/cuenca_raster.tif")
 # set the background cells in the raster to 0
 LH.mask[!is.na(LH.mask)] <- 1
-
 lomas <- st_read("/Users/victorpena/Documents/work/unalm/courses/pyr/taller/2024_2/shapes/lomas.shp")
-
 # convert the NPWS.reserves polygon data for Parks
 # Parks to a raster
 NPWS.raster <- shp2raster(shp = lomas,
     mask.raster = LH.mask, label = "Lomas Chancay-Huaral", value = 3)
-
 ```
-
-
 
 ```{r}
 lsm_p_area(NPWS.raster)
 ```
 
-
 ```{r}
 p1 <- lsm_c_te(NPWS.raster)
 p1
 ```
-
 
 ```{r}
 lsm_c_ca(NPWS.raster)
@@ -206,11 +191,9 @@ lsm_c_ca(NPWS.raster)
 lsm_c_pd(NPWS.raster)
 ```
 
-
 ```{r}
 lsm_c_shape_mn(NPWS.raster)
 ```
-
 
 #### Referencias
 
