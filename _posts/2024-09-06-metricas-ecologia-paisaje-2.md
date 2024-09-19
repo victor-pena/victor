@@ -74,7 +74,7 @@ plot(blank_raster)
 terra::writeRaster(blank_raster, "blank_raster.tif", filetype = "GTiff", overwrite = TRUE)
 ```
 
-```{r, fig.width=6, fig.height=4}
+```{r}
 lomas_raster <- rasterize(lomas, blank_raster)
 lomas_raster[!(is.na(lomas_raster))] <- 1
 plot(lomas_raster, legend=FALSE)
