@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interrelacion entre las infraestructuras criticas"
+title: "Interrelación entre las infraestructuras críticas"
 author: "Victor Peña Guillen"
 date:   2024-09-10 00:52:30 +0900
 #permalink: /hello-world/
