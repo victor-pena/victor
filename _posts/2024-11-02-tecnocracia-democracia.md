@@ -2,7 +2,7 @@
 layout: post
 title: "La tecnocracia y la democracia peruana"
 author: "Victor Peña Guillen"
-date:   2024-10-02 00:52:30 +0900
+date:   2024-11-02 00:52:30 +0900
 #permalink: /hello-world/
 categories: updates
 ---
