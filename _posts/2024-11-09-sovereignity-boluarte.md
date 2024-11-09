@@ -17,7 +17,7 @@ In his critic to liberal democracies, Schmitt saw a lack of decision this regime
 The Peruvian government appears to have raised APEC event to a critical status that conditions its success or failure to the future operation and strength of the state.
 Therefore, the importance given to this meeting could be interpreted as a political opportunity to express sovereignity under the state of exception.
 This move taken conciously or not is a decision that if carefuly taken must have considered the weakeness of the enemies of the Boluarte regime.
-Anyhow, the move is presenting the elements to interpret under the "question of the desicion under the exception" [^2].
+Anyhow, the move is presenting the elements to interpret under the "question of the decision under the exception" [^2].
 If successful the presidential initiative could strength her political position among its alies and foes and also project her power paving the contested way to finish her actual term.
 
 ### Reference
