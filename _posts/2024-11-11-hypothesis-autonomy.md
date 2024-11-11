@@ -16,4 +16,4 @@ In the case of previsible tariff increase on US imports, it is likely to affect 
 Peru is exporting to US minerals and fresh vegetables mainly; this trade is under mutual Free Trade Aggreement-FTA. Altough FTA is not a guarantee, US has deficit on both and requires them in order to keep increasing its production output while keeping inflation rate low.
 
 Given this panorama and reflecting on the political (unstable)flexibility on both sides, it could be hypothesized that Peruvian institutions are structurally designed to absorb the shock waves coming from US. Even Peruvian flexibility provides oportunities to engage in the same "wave longitude" with US, following the economic cycle of its second-largest trading partner.
-If it goes well, a parading shift can be confirmed, contrary to the suggestions of pundits and entrepreneurs that dislike chaos.
+If it goes well, a paradigm shift can be confirmed, contrary to the suggestions of pundits and entrepreneurs that dislike chaos, it is serving to prepare Peru to face the coming future.
