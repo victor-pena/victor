@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peruvian agonism theory"
+title: "Peruvian agonist theory"
 author: "Victor Peña Guillen"
 date:   2024-11-18 00:52:30 +0900
 #permalink: /hello-world/
