@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transit-oriented development along the corridor Lima-Ica"
+title: "Transit-oriented development along the Lima-Ica rail corridor"
 author: "Victor Peña Guillen"
 date:   2024-11-20 00:52:30 +0900
 #permalink: /hello-world/
@@ -14,7 +14,7 @@ The **Plan de Desarrollo Local Concertado (PDLC) 2018-2028 for Chilca**[^1] alig
 
 Key strategies from Chilca’s urban growth management include fostering already exixting industrial expansion, particularly in logistics and energy sectors (city gate for gas supply pipeline), which complements the district's role as a transit and economic hub along the corridor. The development of intermodal connectivity, such as integrating the rail station with local transport options, aligns with TOD goals.
 However, the current operation of buses, taxis, and motorcycle-sharing system is informal.
-Addressing this informality in Chilca and aligning them with formal TOD strategies requires a comprehensive approach that considers social, economic, and political dimensions
+Addressing this informality in Chilca and aligning them with formal TOD strategies requires a comprehensive approach that considers social, economic, and political dimensions.
 
 Along with established industrial and logistic activities, informal sector is particularly widespread in local housing and transportation sectors. A strategy on the corridor that address comprehesively TOD, should consider this hybrid space-developing regime. In this regard, a strategy on incentives for transition towards the upgraded transportation system, can provide the conditions of possibility to implement TOD in Chilca. Considering the actual situation and needs in the territory is required to implement the corridor. The following measures are suggested to be included into the corridor strategy:
 
