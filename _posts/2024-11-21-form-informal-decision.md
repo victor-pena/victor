@@ -16,7 +16,7 @@ This self-created informal space of autority faces State power.
 The form of informal is not the negation of formal order, it is its complement.
 Both are trying to grasp the reality of societal life.
 Even in some political driven opportunities, autonomous self-organized informal citizens create the conditions of posibility to direct established formal legislative powers towards the interest of the former.
-The continues appaereance or emergence of these legislative events develops the constituent power of informal dwellers.
+The continues appaereance or emergence of these legislative events, and the existing potencial of a network of self-organized citizens across Peruvian society, develops the constituent power of informal dwellers.
 
 The sovereign power of the state is influenced by this informal practice. The complete command of the head of the state or the tecnocracy that adscribes to formal legal order, is challenged permanently once this democracy allows informal to perform its potency.
 As informal subsumes into  formal power of Peruvian state, this ocasional merging reiforces the concrete authority of this state rejecting the abstract valid order of law.
