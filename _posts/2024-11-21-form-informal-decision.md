@@ -8,8 +8,8 @@ categories: updates
 ---
 
 According to Schmitt [^1], the juristic form is not trascendental, neither aesthetic nor technical.
-Informal decision within the context of urbanization is a concrete decision that emanates from a emerging authority.
-This authority is claiming its validity from the right to housing and the potency of transforming bare land into individual dwellings autonomously. The state was not able to provide it.
+Informal decision within the context of urbanization is a concrete decision that emanates from a emerging authority of city dwelers.
+This citizens authority is claiming its validity from the right to housing and the potency of transforming bare land into individual dwellings autonomously. The state was not able to provide it.
 The informal is valid and legitimate. Moreover, its practice is political because it creates concrete legal order, transforming autonomy into sovereignty.
 
 This self-created informal space of autority faces State power.
