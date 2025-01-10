@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Transformative Potential of Informal Land Occupations"
+title: "The transformative potential of informal land occupations"
 author: "Victor Peña Guillen"
 date:   2025-01-10 00:52:30 +0900
 #permalink: /hello-world/
