@@ -27,5 +27,4 @@ The Jorge Chávez project and the scholarly study both underline the economic, r
 
 ### Reference
 
-[^1]: Orya, F., & Calahorra-Jimenez, M. (2024). Delays in Infrastructure Projects: Main Reasons in the Design, Procurement, and Construction Phases. Public Works Management & Policy, 0(0). 
-<https://doi.org/10.1177/1087724X241308310>
+[^1]: Orya, F., & Calahorra-Jimenez, M. (2024). Delays in Infrastructure Projects: Main Reasons in the Design, Procurement, and Construction Phases. Public Works Management & Policy, 0(0). <https://doi.org/10.1177/1087724X241308310>
