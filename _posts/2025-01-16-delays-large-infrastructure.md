@@ -7,8 +7,6 @@ date:   2025-01-15 00:52:30 +0900
 categories: updates
 ---
 
-### Summary: Analysis of Delays in the Jorge Chávez International Airport Expansion Project
-
 The Jorge Chávez International Airport expansion, a major infrastructure project in Peru, has faced operational delays since first anounced start in December 16, 2024. Its opening is now reprogrammed for March 30, 2025. This delay provides an opportunity to study the factors contributing to setbacks in large infrastructure projects through the lens of the scholarly study by Orya and Calahorra-Jimenez[^1], which examines delays across the design, procurement, and construction phases.
 
 The mentioned study categorizes delay causes into three phases:
