@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Política del espacio informal"
+title: "Una política del espacio informal"
 author: "Victor Peña Guillen"
 date:   2025-01-29 00:52:30 +0900
 #permalink: /hello-world/
