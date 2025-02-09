@@ -7,7 +7,7 @@ date:   2025-02-09 00:52:30 +0900
 categories: updates
 ---
 
-La construcción de un corredor ferroviario entre Áspero, Supe y Caral, mejoraría significativamente el turismo al proveer la accesibilidad a los sitios de patrimonio cultural de la UNESCO. Esta infraestructura proveería las condiciones para invertir en el ecoturismo, el agroturismo y el turismo cultural, alentando a las empresas locales a expandirse y crear nuevas oportunidades de empleo.
+La construcción de un corredor ferroviario entre Áspero, Supe y Caral (conectado al futuro tren de cercanías Lima-Barranca), mejoraría significativamente el turismo al proveer la accesibilidad a los sitios de patrimonio cultural de la UNESCO. Esta infraestructura proveería las condiciones para invertir en el ecoturismo, el agroturismo y el turismo cultural, alentando a las empresas locales a expandirse y crear nuevas oportunidades de empleo.
 
 Esta propuesta para el desarrollo turístico de Supe requiere una estrategia territorial de financiamiento integral que incorpore recursos públicos y privados, con un enfoque especial en el sector pesquero. Este enfoque garantiza el financiamiento duradero del agroturismo, el ecoturismo y el turismo patrimonial, al tiempo que fomenta el crecimiento económico local.
 
