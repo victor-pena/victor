@@ -16,3 +16,5 @@ Este esquema de inversión debería considerar el financiamiento público a trav
 Como se mencionó, la inversión del sector privado es fundamental, en particular de la industria pesquera, que puede apoyar el ecoturismo marino, las experiencias con temática de mariscos y las iniciativas de conservación. Empresas como TASA, Austral y Hayduk tienen programas de responsabilidad social corporativa que se alinean con el turismo costero y proyectos de desarrollo comunitario. El plan también busca la inversión de desarrolladores de eco-hospitalidad, empresas inmobiliarias y empresas de agroturismo, que pueden beneficiarse de incentivos fiscales para emprendimientos de turismo sostenible.
 
 Al aprovechar estas fuentes de financiamiento, el desarrollo turístico, a traves de la propuesta del corredor ferroviario, posicionaría a Supe como un destino patrimonial y de ecoturismo alternativo en el Perú, teniendo en cuenta la estrategia de diversificacion de destinos actualmente vigente.
+
+![supe]({{ "/assets/myplot.png" | relative_url }})
