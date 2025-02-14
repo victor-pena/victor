@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Renewable energy concessions and the Uruguayan regime”"
+title: "Renewable energy concessions and the Uruguayan regime"
 author: "Victor Peña Guillen"
 date:   2025-02-14 00:52:30 +0900
 #permalink: /hello-world/
