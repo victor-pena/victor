@@ -26,6 +26,7 @@ En este camino, el Perú ha venido incorporando a la actividad ciudadana a la po
 A la fecha la constitución vigente de 1993, ha incorporado un esquema de economía de mercado que garantiza a los individuos e instituciones derechos sobre su propiedad e inversiones.
 La economía política por lo tanto se incorpora explicitamente en la estructura del estado y provee un estandar similar a otros paises en terminos de gobierno y de intercambio de bienes y servicios.
 Esta apertura comercial y política viene teniendo influencia en la evolución del Estado condicionando su gobierno y acomodando las demandas de los ciudadanos a través de cambios institucionales permanentes en todos los sectores de gobierno, incluida la gobernanza territorial.
+
 El ordenamiento territorial como técnica adoptada por el estado parte de la concepción de organización u orden espacial y social contrauesto al caos existente donde no existe el estado (Hobbes).
 Esta práctica racional de control coincide con la naturaleza propia del estado.
 El gobierno del territorio es por tanto la técnica cuantificable que fundamenta el poder del estado en su dominio social y espacial.
