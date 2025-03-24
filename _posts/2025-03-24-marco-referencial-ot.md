@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Marco referencial de la planificación en el Perú"
+author: "Victor Peña Guillen"
+date:   2024-03-24 00:00:00 +0000
+#permalink: /hello-world/
+categories: updates
+---
+
+El estudio del ordenamiento territorial se encuadra en la concepción de Estado como sujeto político.
+El concepto de Estado a utilizar se refiere a la organización política de la sociedad.
+Este arreglo artificial establece a través de la constitución las instituciones de gobierno.
+Un atributo constitucional es por ejemplo la división de poderes propia del estado concebido a partir de la Ilustracion.
+En este caso el gobierno del estado llamado liberal esta distribuido en tres componentes: el ejecutivo, el legislativo y el judicial.
+Complementariamente esta organizacion se realiza sobre un espacio donde el estado ejerce soberanía.
+
+La dinamica de esta estructura proviene de las interacciones entre sus componentes, los ciudadanos e instituciones públicas y privadas.
+Finalmente, cabe señalar que ese movimiento y el consecuente cambio físico e institucional generados en el territorio del Estado liberal tienen una lógica económica.
+La influencia del capital económico forma parte de una tradición inaugurada en el estado británico durante la revolución industrial a inicios del siglo 19.
+Coincidentemente esta presencia de la economía es registrada en el origen del Estado Peruano, tanto en la Constitucion de Cadiz (1812) como en la primera constitución de 1823.
+
+La evolución del Estado desde la independencia ha seguido un camino de consolidación de las instituciones.
+Esta evolución a través del tiempo ha visto la aparicion de estamentos y prácticas publicas, como la creacion del Ministerio de Relaciones Exteriores durante el protectorado de San Martin, el establecimiento del presupuesto público en el gobierno del Mariscal Castilla o la Ley de Reforma Agraria durante el régimen del General Velazco.
+En este camino, el Perú ha venido incorporando a la actividad ciudadana a la población, puesto que inicialmente, siguiendo una práctica occidental en aquellos tiempos, se restringía la ciudadanía y el derecho al voto solamente a los hombres casados que poseían cierto patrimonio.
+
+A la fecha la constitución vigente de 1993, ha incorporado un esquema de economía de mercado que garantiza a los individuos e instituciones derechos sobre su propiedad e inversiones.
+La economía política por lo tanto se incorpora explicitamente en la estructura del estado y provee un estandar similar a otros paises en terminos de gobierno y de intercambio de bienes y servicios.
+Esta apertura comercial y política viene teniendo influencia en la evolución del Estado condicionando su gobierno y acomodando las demandas de los ciudadanos a través de cambios institucionales permanentes en todos los sectores de gobierno, incluida la gobernanza territorial.
