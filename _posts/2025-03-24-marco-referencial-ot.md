@@ -26,8 +26,19 @@ En este camino, el Perú ha venido incorporando a la actividad ciudadana a la po
 A la fecha la constitución vigente de 1993, ha incorporado un esquema de economía de mercado que garantiza a los individuos e instituciones derechos sobre su propiedad e inversiones.
 La economía política por lo tanto se incorpora explicitamente en la estructura del estado y provee un estandar similar a otros paises en terminos de gobierno y de intercambio de bienes y servicios.
 Esta apertura comercial y política viene teniendo influencia en la evolución del Estado condicionando su gobierno y acomodando las demandas de los ciudadanos a través de cambios institucionales permanentes en todos los sectores de gobierno, incluida la gobernanza territorial.
-
 El ordenamiento territorial como técnica adoptada por el estado parte de la concepción de organización u orden espacial y social contrauesto al caos existente donde no existe el estado (Hobbes).
 Esta práctica racional de control coincide con la naturaleza propia del estado.
 El gobierno del territorio es por tanto la técnica cuantificable que fundamenta el poder del estado en su dominio social y espacial.
 Elden, a partir de Foucault, destaca cómo la gubernamentalidad moderna pasó de gobernar el territorio a gobernar la población mediante técnicas de cálculo, estadística y economía política. Esta transición convirtió la planificación territorial en un instrumento del poder estatal, utilizado para gestionar el espacio y controlar la población mediante la zonificación, la planificación urbana y la distribución de los recursos.
+
+Este cambio redujo el espacio a una categoría administrativa, convirtiendo la planificación en una herramienta de gobernanza en lugar de un proceso participativo y abierto. Frente a la presencia de la practica informal de desarrollo territorial, este paradigma estatal asume lo siguiente:
+
+- Una clara distinción entre espacios formales e informales: una dicotomía que privilegia las ciudades planificadas sobre los asentamientos autoconstruidos.
+- Una jerarquía de conocimientos donde la experiencia técnica prevalece sobre las prácticas espaciales vividas.
+- Un modelo lineal de desarrollo, donde la urbanización informal se considera un problema por resolver en lugar de una forma legítima de creación de espacios.
+
+Lo informal urbano desafía estas lógicas. La informalidad no es simplemente una falta de planificación, sino una forma de planificación en sí misma, que surge al margen o a pesar de las intervenciones estatales.
+La planificación territorial, si se deja en manos de tecnócratas y burócratas, seguirá siendo un instrumento de disciplina espacial ejercida a medias por el estado.
+Sin embargo, si se fundamenta en la ontología de la urbanización informal (el modo de ser y habitar desafiando el control del estado), puede convertirse en un instrumento de liberación.
+Este instrumento y prácica de autonomia o poder constituyente (Negri), fomenta un territorio que no solo se cartografíe y gobierne, sino que se viva y negocie políticamente.
+La emancipación, entonces, no proviene de integrar lo informal en lo formal, sino de transformar la planificación misma: de una herramienta de cálculo y control estatal a una práctica de autonomía espacial colectiva que transforma el orden institucional permanentemente.
