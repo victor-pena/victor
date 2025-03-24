@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "“libertad responsable”"
+title: "“Libertad responsable”"
 author: "Victor Peña Guillen"
-date:   2024-03-04 00:00:00 +0000
+date:   2025-03-04 00:00:00 +0000
 #permalink: /hello-world/
 categories: updates
 ---
