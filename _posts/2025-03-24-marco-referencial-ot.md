@@ -2,7 +2,7 @@
 layout: post
 title: "Marco referencial de la planificación en el Perú"
 author: "Victor Peña Guillen"
-date:   2024-03-24 00:00:00 +0000
+date:   2025-03-24 00:00:00 +0000
 #permalink: /hello-world/
 categories: updates
 ---
