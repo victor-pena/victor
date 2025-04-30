@@ -8,10 +8,12 @@ categories: updates
 ---
 
 # 🇺🇾 **Comprendiendo Uruguay a través del Puerto de Montevideo**
-### Hoja de trabajo para el debate en clase
+
+## Hoja de trabajo para el debate en clase
 
 ### 📘 **Objetivo**
-Comprender la naturaleza del régimen político-económico de Uruguay mediante el análisis de la gobernanza del Puerto de Montevideo y su comparación con los sistemas portuarios liberalizados de Perú (p. ej., Callao y Pisco).
+
+Comprender la naturaleza del régimen político-económico del Perú y Uruguay mediante el análisis de la gobernanza del Puerto de Montevideo y su comparación con los sistemas portuarios liberalizados de Perú (p. ej., Callao y Pisco).
 
 --
 
@@ -23,7 +25,6 @@ Comprender la naturaleza del régimen político-económico de Uruguay mediante e
 - **Economía Desarraigada**: Una economía donde los mercados operan libremente y la tierra, el trabajo y el capital se consideran mercancías, con mínimo control estatal o social.
 
 > ✅ **Pregunta 1**: Con base en esta definición, ¿cree que el sistema portuario del Perú está más integrado o desarraigado? ¿Por qué?
-
 > ✅ **Pregunta 2**: ¿Cuáles serían las ventajas o desventajas de un sistema económico integrado para el desarrollo nacional?
 
 ---
@@ -34,7 +35,6 @@ Comprender la naturaleza del régimen político-económico de Uruguay mediante e
 El Puerto de Montevideo está gobernado por la *Administración Nacional de Puertos (ANP)*, un organismo estatal. Los trabajadores están estrechamente controlados por el sindicato de trabajadores portuarios (*SUPRA*), que tiene una gran influencia en las operaciones portuarias. Cuando el gobierno otorgó trato preferencial a una terminal privada (TCP), parcialmente propiedad de una empresa china, los sindicatos protestaron, no por las condiciones laborales, sino en defensa de la propiedad nacional (Montecon). El resultado: intensa negociación política, batallas legales y consecuencias proteccionistas.
 
 > ✅ **Pregunta 3**: ¿Por qué un sindicato defendería a una empresa nacional privada (Montecon) en lugar de buscar salarios más altos o mejores condiciones?
-
 > ✅ **Pregunta 4**: ¿En qué se diferencia esto de las relaciones laborales y la gobernanza portuaria en Perú?
 
 ---
@@ -50,7 +50,6 @@ El Puerto de Montevideo está gobernado por la *Administración Nacional de Puer
 | Influencia política en la logística | Baja | Alta (redes partidistas, sindicatos) |
 
 > ✅ **Pregunta 5**: ¿Cuál de los dos modelos se adapta mejor a las cadenas de suministro globales? ¿Por qué?
-
 > ✅ **Pregunta 6**: ¿Qué modelo protege mejor la soberanía nacional y los derechos de los trabajadores?
 
 ---
@@ -58,7 +57,6 @@ El Puerto de Montevideo está gobernado por la *Administración Nacional de Puer
 ### 🧠 **Parte IV – Reflexión**
 
 > ✅ **Pregunta 7**: Si fuera planificador regional en Pisco, ¿qué lecciones (positivas o negativas) podría extraer de la experiencia de Montevideo?
-
 > ✅ **Pregunta 8**: ¿El modelo uruguayo representa un remanente "feudal" o una forma legítima de desarrollo soberano? Defienda su punto de vista.
 
 ---
