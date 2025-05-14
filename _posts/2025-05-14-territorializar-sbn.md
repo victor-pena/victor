@@ -17,7 +17,7 @@ Territorializar una SbN significa **situarla material, institucional y funcional
 
 Aquí te presento una **matriz que descompone los aspectos principales** que deben considerarse al territorializar una SbN:
 
-| **Dimensión**              | **Preguntas clave**                                               | **Elementos de análisis**                                               | **Ejemplo en Perú**                                      |
+| **Dimensión**              | **Preguntas clave**                                               | **Elementos de análisis**                                               | **Ejemplo**                                      |
 | -------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------- |
 | **Espacial**               | ¿Dónde se localiza la SbN y por qué?                              | Mapa ecológico, uso de suelo, accesibilidad, riesgo, conectividad       | Ubicación de humedal restaurado en cuenca alta del río Chincha   |
 | **Ecológica**              | ¿Qué procesos ecosistémicos están en juego?                       | Servicios ecosistémicos, resiliencia, biodiversidad                     | Infiltración, regulación hídrica, conectividad ecológica |
