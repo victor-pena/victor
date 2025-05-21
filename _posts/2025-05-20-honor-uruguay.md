@@ -7,7 +7,7 @@ date:   2025-05-20 00:00:00 +0000
 categories: updates
 ---
 
-In May 2025, Uruguay’s government finalized a \$144 million agreement to settle its debt with the consortium responsible for the Ferrocarril Central. On television programs like *La Boca es Mía*, pundits quickly reached a consensus: the payment was acceptable, the minister of economy had acted responsibly, and most importantly, “Uruguay saved its honor”[^1]. It was, apparently, the best possible outcome.
+In May 2025, Uruguay’s government finalized a \$144 million agreement to settle its debt with the consortium responsible for the Ferrocarril Central. On television programs like *La Boca es Mía*, pundits quickly reached a consensus: the payment was acceptable, the minister of economy had acted responsibly, and most importantly, “Uruguay saved its honor”[^1]. It was, apparently, the best possible outcome, considering financial conditions and the recurrent preocupation of minister Oddone.
 
 But beneath this consensus lies an anthropological drama—one that reveals how Uruguay’s middle class manages political crisis through ritualized performances of morality and national self-respect. In the words of former president Jorge Batlle (during the crisis of 2002), “The tragedy of Argentinians is not being able to face their problems directly but disguising themselves.” That phrase, often used to distinguish Uruguay from its neighbor, now feels eerily self-referential.
 
