@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "l’arte di non essere governati"
+title: "L’arte di non essere governati"
 author: "Victor Peña Guillen"
 date:   2025-05-22 00:00:00 +0000
 #permalink: /hello-world/
