@@ -13,6 +13,8 @@ output:
 
 Comprender cómo los instrumentos regionales de planificación (específicamente el **PDRC Ica 2016–2025**) proyectan el desarrollo territorial, y contrastar esa visión con las dinámicas reales y emergentes en zonas como **Pisco**, donde el recurseo, la ocupación informal, y la economía popular producen un territorio alternativo.
 
+Enlace PDRC: <https://cdn.www.gob.pe/uploads/document/file/4209705/Plan%20de%20Desarrollo%20Recional%20Concertado%202016%20-%202025.pdf?v=1677784511>
+
 ---
 
 ### I. Introducción
