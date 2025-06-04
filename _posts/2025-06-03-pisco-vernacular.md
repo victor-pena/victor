@@ -77,6 +77,6 @@ Los estudiantes identificarán que el instrumento de política regional opera co
 
 ---
 
-[^1]: El fenómeno del recurseo —entendido como la combinación flexible de actividades económicas diversas en contextos de precariedad— aparece como práctica económica constituyente.
-Los habitantes no esperan el desarrollo planificado: lo generan a través de prácticas cotidianas, como el transporte motorizado informal, la venta ambulatoria, la subdivisión de terrenos o la instalación de servicios básicos improvisados.
-Estas prácticas conforman una racionalidad territorial vernácula, con lógicas de uso, acceso y apropiación distintas al urbanismo oficial.
+#### Nota
+
+[^1]: El fenómeno del recurseo —entendido como la combinación flexible de actividades económicas diversas en contextos de precariedad— aparece como práctica económica constituyente. Los habitantes no esperan el desarrollo planificado: lo generan a través de prácticas cotidianas, como el transporte motorizado informal, la venta ambulatoria, la subdivisión de terrenos o la instalación de servicios básicos improvisados. Estas prácticas conforman una racionalidad territorial vernácula, con lógicas de uso, acceso y apropiación distintas al urbanismo oficial.
