@@ -1,13 +1,10 @@
 ---
-title: "Análisis de un Instrumento de Política Territorial: PDRC ICA"
+title: "Análisis de un Instrumento de Política Territorial: PDRC Ica y el Caso Pisco"
 author: "Victor Peña Guillen, PhD"
 date: "June 3, 2025"
 output:
   html_document: default
 ---
-
-
-# 📚 Tema: Análisis de Instrumentos de Política – PDRC Ica y el Caso Pisco
 
 ## 🎯 Objetivo de la Sesión
 
