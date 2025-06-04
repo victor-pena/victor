@@ -73,7 +73,7 @@ Diálogo colectivo en torno a:
 
 ## 🧠 Resultado Esperado
 
-Los estudiantes identificarán que el instrumento de política regional opera con una racionalidad tecnocrática y sectorial, orientada a atraer inversión y ordenar el espacio productivamente. Frente a ello, podrán argumentar la necesidad de una planificación **basada en la justicia situada**, que reconozca las prácticas vernáculas como legítimas y estructurantes del territorio.
+Los estudiantes identificarán que el instrumento de política regional opera con una racionalidad tecnocrática y sectorial, orientada a atraer inversión y ordenar el espacio productivamente. Frente a ello, podrán argumentar la necesidad de una planificación, que reconozca las prácticas vernáculas como legítimas y estructurantes del territorio.
 
 ---
 
