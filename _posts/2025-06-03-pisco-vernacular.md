@@ -53,7 +53,7 @@ Cada grupo presenta su análisis. En el pizarrón o mural digital, el docente fa
 * Planificación vs. ocupación
 * Competitividad vs. reproducción social
 * Densificación formal vs. urbanización informal
-* Inversión estatal vs. recurseo
+* Inversión estatal vs. recurseo[^1]
 
 Frase de anclaje para debate:
 
@@ -74,3 +74,9 @@ Diálogo colectivo en torno a:
 ## 🧠 Resultado Esperado
 
 Los estudiantes identificarán que el instrumento de política regional opera con una racionalidad tecnocrática y sectorial, orientada a atraer inversión y ordenar el espacio productivamente. Frente a ello, podrán argumentar la necesidad de una planificación **basada en la justicia situada**, que reconozca las prácticas vernáculas como legítimas y estructurantes del territorio.
+
+---
+
+[^1]: El fenómeno del recurseo —entendido como la combinación flexible de actividades económicas diversas en contextos de precariedad— aparece como práctica económica constituyente.
+Los habitantes no esperan el desarrollo planificado: lo generan a través de prácticas cotidianas, como el transporte motorizado informal, la venta ambulatoria, la subdivisión de terrenos o la instalación de servicios básicos improvisados.
+Estas prácticas conforman una racionalidad territorial vernácula, con lógicas de uso, acceso y apropiación distintas al urbanismo oficial.
