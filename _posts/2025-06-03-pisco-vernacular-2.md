@@ -17,7 +17,7 @@ Se parte de una lectura del territorio como **espacio constituido desde abajo**,
 
 * Diseñar un escenario territorial emergente (pronóstico) basado en las prácticas sociales observadas.
 * Identificar patrones de urbanización informal, *recurseo* y uso estratégico del espacio.
-* Formular propuestas que integren la **autonomía**, y la **co-gestión comunitaria**.
+* Formular propuestas que integren la **autonomía**, y la **co-gestión comunitaria**. Emplear los conceptos de policentricidad y sistema complejo adaptativo.
 
 ---
 
