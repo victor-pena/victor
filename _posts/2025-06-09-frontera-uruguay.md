@@ -1,5 +1,5 @@
 ---
-title: "Frontera, populismo y el mercado que nunca llega"
+title: "Frontera y el mercado que nunca llega en Uruguay"
 author: "Victor Peña Guillen, PhD"
 date: "June 9, 2025"
 output:
