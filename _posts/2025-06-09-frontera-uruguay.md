@@ -1,5 +1,5 @@
 ---
-title: "Frontera y el mercado que nunca llega en Uruguay"
+title: "Frontera y el mercado que nunca llega a Uruguay"
 author: "Victor Peña Guillen, PhD"
 date: "June 9, 2025"
 output:
