@@ -10,7 +10,7 @@ Las nuevas medidas fiscales anunciadas por el gobierno uruguayo para las zonas f
 
 El problema es económico, sí, pero también político y cultural. En estos territorios, la población misma percibe estas medidas como las mejores posibles. No hay demanda por integración productiva ni industrialización. Se celebra el descuento en el precio del combustible o el subsidio para vender con tarjeta. Porque lo estructural ha sido desplazado por lo inmediato: sobrevivir con lo que hay.
 
-En este escenario, figuras como Pablo Caram y Valentina Dos Santos emergen no como anomalías, sino como gestores funcionales del vacío institucional. Su populismo no es ideológico: es territorial. Administran precariedad, median favores, reparten empleos, y estabilizan el descontento sin alterar las causas. Su populismo no es una alternativa, sino el reverso funcional de una economía nacional que nunca se propuso integrar la frontera.
+En este escenario, figuras como Pablo Caram y Valentina Dos Santos emergen no como anomalías, sino como gestores funcionales del vacío institucional [^2]. Su populismo no es ideológico: es territorial. Administran precariedad, median favores, reparten empleos, y estabilizan el descontento sin alterar las causas. Su populismo no es una alternativa, sino el reverso funcional de una economía nacional que nunca se propuso integrar la frontera.
 
 Pero ¿por qué no se propone esa integración? Quizas porque al hacerla, esto implicaría romper con el régimen estanciero que todavía domina desde Montevideo. Implicaría abrir la competencia, distribuir el territorio, liberar el mercado. Y eso es algo que ni las élites quieren, ni la sociedad espera.
 
@@ -25,3 +25,5 @@ El populismo en la frontera no es una desviación. Es el aceite que permite func
 ### Referencia
 
 [^1]: <https://www.gub.uy/ministerio-economia-finanzas/comunicacion/noticias/gobierno-anuncio-medidas-para-atender-situacion-frontera-brasil>
+
+[^2]: <https://www.montevideo.com.uy/Noticias/Caso-Caram-el-paso-a-paso-de-la-denuncia-viral-que-termino-en-condenas-y-renuncias-uc894616>
