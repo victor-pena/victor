@@ -12,7 +12,7 @@ Este mito, impuesto por las elites ilustradas y funcional a los intereses britá
 
 ### **1. En las ciudades, en las rutas y el comercio**
 
-La traza urbana de Salta, Córdoba, Jujuy o Montevideo sigue el modelo de las nuevas fundaciones: plaza mayor, cabildo, iglesia y poder eclesiástico centralizado. Las festividades religiosas**, como la Virgen del Milagro o las procesiones con raíces indígenas, mantienen viva una espiritualidad barroca de origen virreinal.
+La traza urbana de Salta, Córdoba, Jujuy o Montevideo sigue el modelo de las nuevas fundaciones: plaza mayor, cabildo, iglesia y poder eclesiástico centralizado.
 
 Los caminos que unían Córdoba con Charcas o Santa Fe con Potosí se convirtieron en corredores logísticos. El comercio de mulas, alimentos y tejidos tejió una red económica surandina que aún influye en los flujos territoriales.
 
