@@ -30,5 +30,4 @@ En coplas, cuentos y expresiones orales sobre “irse al Perú” o “venir de 
 
 #### Referencia
 
-[^1]: Cecilia M. Argañaraz. 2025.Un organismo viviente. Ingenieros nacionales y obras hidráulicas en Argentina (1890-1930). Runa, 46(1): 225- 243 pp. Instituto de Ciencias Antropológicas, Facultad de Filosofía y Letras, Universidad de Buenos Aires.
-<doi: 10.34096/runa.v46i1.14549>
+[^1]: Cecilia M. Argañaraz. 2025. Un organismo viviente. Ingenieros nacionales y obras hidráulicas en Argentina (1890-1930). Runa, 46(1): 225-243 pp. Instituto de Ciencias Antropológicas, Facultad de Filosofía y Letras, Universidad de Buenos Aires. <doi: 10.34096/runa.v46i1.14549>
