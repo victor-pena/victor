@@ -20,11 +20,11 @@ El Ferrocarril Central cuenta con una **infraestructura férrea operativa** que 
 * El perfil de vía incluye zonas urbanas con pasos a nivel, curvas amplias y pendientes moderadas —especialmente adecuadas para trenes diesel convencionales con capacidad de tracción y frenado independiente.
 * Los tramos en vía única existentes pueden complementarse con **sistemas de cruces (siding tracks)** en estaciones intermedias como Vitarte o Chaclacayo.
 
-Esto permite considerar un servicio ferroviario con tiempos de viaje competitivos (menos de 60 minutos) y una frecuencia escalable.
+Esto permite considerar un servicio ferroviario con tiempos de viaje competitivos (alrededor de 60 minutos) y una frecuencia escalable.
 
 ### Material rodante: robustez comprobada
 
-La propuesta más lógica —desde el punto de vista técnico y financiero— es utilizar **locomotoras EMD F40PH** junto con **coches de dos niveles tipo gallery**, similares a los usados por el sistema **Metra de Chicago**:
+La propuesta más lógica —desde el punto de vista técnico y financiero— es utilizar **locomotoras EMD F40PH** junto con **coches de dos niveles tipo gallery**, similares a los usados actualmente por el sistema **Metra de Chicago**:
 
 | Componente         | Características relevantes                                                            |
 | ------------------ | ------------------------------------------------------------------------------------- |
@@ -39,7 +39,7 @@ Este material rodante es:
 * **Tolerante a vías de calidad media**, como las del tramo Lima–Chosica
 * **Eficiente en consumo**, especialmente en líneas con paradas intermedias espaciadas
 
-Las unidades disponibles donada por CalTrain, pueden ser reacondicionadas a bajo costo, reduciendo el tiempo de implementación.
+Las unidades disponibles, donadas por CalTrain, pueden ser reacondicionadas a bajo costo, reduciendo el tiempo de implementación.
 
 ### Viabilidad técnica general
 
