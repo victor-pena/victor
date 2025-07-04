@@ -24,7 +24,7 @@ Esto permite considerar un servicio ferroviario con tiempos de viaje competitivo
 
 ### Material rodante: robustez comprobada
 
-La propuesta más lógica —desde el punto de vista técnico y financiero— es utilizar **locomotoras EMD F40PH** junto con **coches de dos niveles tipo gallery**, similares a los usados actualmente por el sistema **Metra de Chicago**:
+La propuesta más lógica —desde el punto de vista técnico y financiero— es utilizar **locomotoras EMD F40PH** junto con **coches de dos niveles tipo gallery**, similares a los usados actualmente por el sistema **Metra de Chicago**[^1]:
 
 | Componente         | Características relevantes                                                            |
 | ------------------ | ------------------------------------------------------------------------------------- |
@@ -53,7 +53,7 @@ Con base en un análisis preliminar, este corredor tiene ventajas claras:
 
 ---
 
-El tren Lima–Chosica, bajo esta óptica, no es una promesa a futuro, sino un proyecto técnico y logístico **maduro**, con insumos existentes y soluciones conocidas. Solo requiere ser articulado con una visión de ciudad metropolitana que reconozca el **valor de reutilizar lo que ya está construido**.
+El tren de pasajeros Lima–Chosica, bajo esta óptica, no es una promesa a futuro, sino un proyecto técnico y logístico **maduro**, con insumos existentes y soluciones conocidas. Solo requiere ser articulado con una visión de ciudad metropolitana que reconozca el **valor de reutilizar lo que ya está construido**.
 
 #### Referencia
 
