@@ -6,7 +6,6 @@ output:
   html_document: default
 ---
 
-
 ### *Ciudadanía simbólica, mitos nacionales y exclusión constitucional en Uruguay*
 
 La reciente controversia sobre los pasaportes uruguayos —rechazados por Alemania y Francia por no incluir el lugar de nacimiento— ha sido interpretada como una falla técnica o diplomática. Pero, en realidad, es el síntoma visible de una tensión estructural en el imaginario constitucional del país: la separación entre nacionalidad y ciudadanía. Una división que, más que jurídica, es simbólica, racializada y profundamente política.
@@ -23,23 +22,17 @@ Sigmund Freud, en *La interpretación de los sueños* (1900), describía la “r
 
 La frase "nuestros abuelos bajaron del barco" cumple esa función: reescribe la historia nacional como una experiencia blanca, europea, civilizada. Así, los ciudadanos naturalizados, afrodescendientes, migrantes recientes o habitantes de los márgenes rurales quedan fuera del sueño uruguayo, aunque estén plenamente insertos en la realidad del país.
 
----
-
 ## *Balibar y la “etnicidad ficticia” de la nación*
 
 Étienne Balibar acuñó el concepto de *“etnicidad ficticia”* para describir cómo las naciones modernas, aunque fundadas jurídicamente en la ciudadanía, inventan una narrativa de origen común, como si fuesen una gran familia o una etnia preexistente. En Uruguay, esta ficción se manifiesta en la separación constitucional entre “ciudadanos naturales” (por sangre o suelo) y “ciudadanos legales” (por mérito y arraigo).
 
 Al modificar el pasaporte sin cambiar esta estructura, el Estado **intentó universalizar una ficción sin desmontar el mito que la sostiene**. Por eso, la medida resultó inaceptable para otros Estados soberanos: Alemania y Francia no aceptan documentos que omiten el lugar de nacimiento, pues éste aún es considerado un marcador de nacionalidad objetiva, más allá de las buenas intenciones.
 
----
-
 ## *Schmitt: definir al pueblo es decidir sobre el enemigo*
 
 Carl Schmitt sostuvo que “el soberano es quien decide sobre la excepción”, y que toda comunidad política se constituye sobre la base de una distinción entre amigo y enemigo. Siguiendo este razonamiento, n el caso uruguayo, la Constitución produce una frontera interna: el “pueblo verdadero” son los ciudadanos naturales; los demás son admitidos, pero nunca plenamente incluidos. Pueden votar, portar pasaporte, pero no son reconocidos como nacionales en el sentido fuerte del término.
 
 Este mecanismo cumple una función: preservar una unidad simbólica del “nosotros” mediante la exclusión constitutiva de los otros, incluso si esos otros viven, contribuyen y aman al país.
-
----
 
 ## *Salir del mito, asumir la pluralidad*
 
