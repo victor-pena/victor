@@ -7,7 +7,7 @@ output:
 ---
 
 
-## *Ciudadanía simbólica, mitos nacionales y exclusión constitucional en Uruguay*
+### *Ciudadanía simbólica, mitos nacionales y exclusión constitucional en Uruguay*
 
 La reciente controversia sobre los pasaportes uruguayos —rechazados por Alemania y Francia por no incluir el lugar de nacimiento— ha sido interpretada como una falla técnica o diplomática. Pero, en realidad, es el síntoma visible de una tensión estructural en el imaginario constitucional del país: la separación entre nacionalidad y ciudadanía. Una división que, más que jurídica, es simbólica, racializada y profundamente política.
 
