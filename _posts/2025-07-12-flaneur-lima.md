@@ -17,7 +17,7 @@ El verdadero observador situado no consume tipos, sino que los descompone. No ca
 
 El flâneur en la cultura chicha peruana no es observador, es partícipe. Camina no para contemplar, sino para probar suerte, tantear espacios, leer precios, saltar entre actividades. No es testigo de la ciudad: es su productor informal, su decorador improvisado, su esteta popular.
 
-Por eso el flâneur limeño no pasea sino resuelve, ya no es tortuga y zorro, criatura de callejón, de esquina, de oportunidad.
+Por eso el flâneur limeño no pasea sino resuelve, es tortuga y zorro, criatura de callejón, de esquina, de oportunidad.
 El tiempo no se expande se acelera y se recorta. Y en ese vértigo, no hay aura hay oportunidad, hay calor, hay riesgo.
 El orden ha muerto, pero eso no significa que no haya estructura, mas bien hay miles de ellas, cambiantes, vibrantes, impredecibles.
 El flâneur en Lima lee patrones dentro del ruido, adapta sus rutas a la urgencia del día y a los ritmos del cuerpo, porque la flânerie en Lima no es lineal ni nostálgica.
