@@ -1,5 +1,5 @@
 ---
-title: "El *flâneur* limeño no es invisible"
+title: "El flâneur limeño no es invisible"
 author: "Victor Peña Guillen, PhD"
 date: "July 12, 2025"
 output:
