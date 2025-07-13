@@ -1,5 +1,5 @@
 ---
-title: "Innovaciones para Invernaderos Inteligentes y Productivos"
+title: "Investigación en invernaderos y ambientes controlados"
 author: "Victor Peña Guillen, PhD"
 date: "July 13, 2025"
 output:
