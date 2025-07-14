@@ -1,5 +1,5 @@
 ---
-title: "Desburocratización sin Proyecto Productivo"
+title: "Desburocratización sin proyecto productivo"
 author: "Victor Peña Guillen, PhD"
 date: "July 14, 2025"
 output:
