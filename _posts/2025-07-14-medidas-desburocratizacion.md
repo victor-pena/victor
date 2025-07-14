@@ -32,8 +32,6 @@ Esto se agrava si consideramos la actual penetración de capitales agrícolas, l
 
 En un contexto donde el Estado carece de margen fiscal y de capacidad de inversión propia, **la política económica queda reducida a la administración de trámites**. Es el reflejo de un modelo donde el Ministerio de Economía actúa más como *facilitador de operaciones externas* que como diseñador de un rumbo nacional.
 
-## **Conclusión: Estado ágil, pero sin músculo**
-
 Las medidas anunciadas muestran un Estado más “ligero” y ágil en lo administrativo, pero cada vez más dependiente, periférico y sin agenda transformadora. Gabriel Oddone continúa cultivando la imagen de eficiencia, pero no hay un horizonte productivo o redistributivo claro.
 
 La simplificación sin estrategia puede ser útil para las empresas transnacionales, pero no genera ni empleo calificado, ni encadenamientos, ni autonomía fiscal. Uruguay sigue gestionando el tránsito de mercancías y de mitos, pero no produce ni historia ni destino propio.
