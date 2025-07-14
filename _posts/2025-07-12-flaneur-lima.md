@@ -6,7 +6,7 @@ output:
   html_document: default
 ---
 
-## Descripción del *flâneur* limeño
+## Descripción del *flâneur*[^1] limeño
 
 El *flâneur* limeño no es invisible: su cuerpo, su clase, su color de piel y su género importan en el espacio urbano. En Lima, *flâner* es exponerse.
 En Lima, flâner es un acto vigilado. Pero también es una forma de recuperar agencia sobre el espacio, de reclamar el derecho a observar, sin tener que consumir o rendir cuentas.
@@ -41,7 +41,7 @@ Hay también chifas improvisados como “Fong Chin”, donde el aeropuerto llega
 Canta Callao no tiene vitrinas, pero tiene señales. El flâneur que sabe mirar encontrará ahí no solo comida, sino un retrato brutal y delicioso de Lima. Una ciudad sin descanso, sin orden, pero llena de rutas posibles. Y todas, si se tiene hambre y paciencia, terminan en un buen huarique.
 
 ---
-Nota: el concepto de *flâneur* se toma de la siguiente referencia:
+[^1]: El concepto de *flâneur* se toma de la siguiente referencia:
 Coverley, M. (2006). Paris and the rise of the flâneur. En Psychogeography (pp. 57-79). Pocket Essentials.
 
 ---
