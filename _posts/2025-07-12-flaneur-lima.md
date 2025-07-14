@@ -42,7 +42,7 @@ Canta Callao no tiene vitrinas, pero tiene señales. El flâneur que sabe mirar 
 
 ---
 
-[^1]: El concepto de *flâneur* se toma de la siguiente referencia:
+[^1]: El concepto de *flâneur* se toma de la siguiente referencia
 
 Coverley, M. (2006). Paris and the rise of the flâneur. En Psychogeography (pp. 57-79). Pocket Essentials.
 
