@@ -24,7 +24,7 @@ La frase "nuestros abuelos bajaron del barco" cumple esa función: reescribe la 
 
 ### *Balibar y la “etnicidad ficticia” de la nación*
 
-Étienne Balibar acuñó el concepto de *“etnicidad ficticia”* para describir cómo las naciones modernas, aunque fundadas jurídicamente en la ciudadanía, inventan una narrativa de origen común, como si fuesen una gran familia o una etnia preexistente. En Uruguay, esta ficción se manifiesta en la separación constitucional entre “ciudadanos naturales” (por sangre o suelo) y “ciudadanos legales” (por mérito y arraigo).
+Étienne Balibar[^1] acuñó el concepto de *“etnicidad ficticia”* para describir cómo las naciones modernas, aunque fundadas jurídicamente en la ciudadanía, inventan una narrativa de origen común, como si fuesen una gran familia o una etnia preexistente. En Uruguay, esta ficción se manifiesta en la separación constitucional entre “ciudadanos naturales” (por sangre o suelo) y “ciudadanos legales” (por mérito y arraigo).
 
 Al modificar el pasaporte sin cambiar esta estructura, el Estado **intentó universalizar una ficción sin desmontar el mito que la sostiene**. Por eso, la medida resultó inaceptable para otros Estados soberanos: Alemania y Francia no aceptan documentos que omiten el lugar de nacimiento, pues éste aún es considerado un marcador de nacionalidad objetiva, más allá de las buenas intenciones.
 
@@ -41,3 +41,7 @@ El conflicto con Alemania y Francia no es solo técnico; es una oportunidad mas 
 Como dijo Balibar, “toda comunidad política democrática es, necesariamente, una comunidad en devenir”. Para Uruguay, ese devenir pasaría hoy por reconocer que el país no pertenece solo a los descendientes de quienes llegaron en los barcos.
 
 Este episodio puede parecer vergonzoso a nivel diplomático. Pero al abordarlo como una oportunidad, Uruguay puede abandonar finalmente su dualismo constitucional, dejar atrás los mitos de pureza nacional, y construir una ciudadanía realmente inclusiva, donde el país pertenezca a todos los que lo eligen, lo habitan y lo sostienen.
+
+#### Referencia
+
+[^1]: Gaignard, O.  (2018). Étienne Balibar et la question du racisme dans Race, nation, classe. Savoirs et clinique, 24(1), 131-140. <https://doi.org/10.3917/sc.024.0131>
