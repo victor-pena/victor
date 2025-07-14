@@ -39,3 +39,9 @@ En las mañanas, el flâneur carga su alma con un caldo de cabeza en “Los Siet
 Hay también chifas improvisados como “Fong Chin”, donde el aeropuerto llega en cinco minutos, y pollerías como “Doña Gladys”, donde la leña habla antes que el mesero chamo. Todo es rápido, fuerte, sin ornamento. Comer es flâner con la boca.
 
 Canta Callao no tiene vitrinas, pero tiene señales. El flâneur que sabe mirar encontrará ahí no solo comida, sino un retrato brutal y delicioso de Lima. Una ciudad sin descanso, sin orden, pero llena de rutas posibles. Y todas, si se tiene hambre y paciencia, terminan en un buen huarique.
+
+---
+Nota: el concepto de *flâneur* se toma de la siguiente referencia:
+Coverley, M. (2006). Paris and the rise of the flâneur. En Psychogeography (pp. 57-79). Pocket Essentials.
+
+---
