@@ -8,7 +8,7 @@ output:
 
 ### **1. El gesto tecnocrático**
 
-El paquete de 13 medidas anunciado por el Ministerio de Economía y Finanzas (MEF) del Uruguay, bajo la dirección de Gabriel Oddone, busca reducir costos y trámites en el comercio exterior. En términos técnicos, representan un avance hacia la simplificación administrativa, con impactos potenciales de ahorro estimados en US\$ 20 millones.
+El paquete de 13 medidas anunciado por el Ministerio de Economía y Finanzas (MEF) del Uruguay, bajo la dirección de Gabriel Oddone [^1], busca reducir costos y trámites en el comercio exterior. En términos técnicos, representan un avance hacia la simplificación administrativa, con impactos potenciales de ahorro estimados en US\$ 20 millones.
 
 Sin embargo, este tipo de medidas, aunque eficientes en lo micro y en el gesto político (ha sido llamado revolucionario), no abordan los problemas estructurales de la matriz productiva uruguaya, como la baja diversificación, la concentración en commodities, la dependencia de inversiones extranjeras, y la fragilidad fiscal. Oddone actúa, una vez más, como gerente del statu quo, apuntalando la “eficiencia” en un contexto donde el problema central no es la burocracia, sino la falta de un proyecto económico soberano.
 
