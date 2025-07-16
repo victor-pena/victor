@@ -8,7 +8,7 @@ output:
 
 El ferrocarril que conectará el puerto brasileño de Ilhéus, en el Atlántico, con el puerto peruano de Chancay, en el Pacífico, se presenta como una obra clave para integrar Sudamérica con Asia. No obstante, esta ambición enfrenta un obstáculo significativo: el **proteccionismo de Brasil**, que impone restricciones comerciales sobre productos peruanos.
 
-El estudio de João Augusto de Castro Neves[^1] para el *Inter‑American Dialogue* revela que Brasil aplica aranceles elevados (hasta 35 %) y barreras no arancelarias (licencias, exigencias sanitarias, participación local) en sectores donde Perú es competitivo, como textiles, agroindustria y maquinaria (Castro Neves, 2024). Esto limita el flujo recíproco de la infraestructura ferroviaria.
+El estudio de João Augusto de Castro Neves[^1] para el *Inter‑American Dialogue* revela que Brasil aplica aranceles elevados (hasta 35 %) y barreras no arancelarias (licencias, exigencias sanitarias, participación local) en sectores donde el Perú es competitivo, como textiles, agroindustria y maquinaria (Castro Neves, 2024). Esto limitará el flujo recíproco de la futura infraestructura ferroviaria.
 
 Desde una perspectiva *schmittiana*, esta asimetría reproduce un Großraum desigua, donde el Brasil impone las reglas del espacio económico, relegando al Perú a un rol de tránsito logístico. El tren podría funcionar como una vía de salida para exportaciones brasileñas a Asia, sin ofrecer canales adecuados para el comercio peruano, vulnerando así la soberanía económica del Perú.
 
