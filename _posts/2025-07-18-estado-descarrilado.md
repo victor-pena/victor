@@ -16,8 +16,8 @@ En el fondo, el alcalde de Lima y su tren representan un cuerpo extraño que ame
 
 #### Referencias
 
-[^1]: <https://elcomercio.pe/lima/rafael-lopez-aliaga-participa-en-ceremonia-tras-llegada-de-los-primeros-vagones-del-tren-lima-chosica-ultimas-noticia/>
+[^1]: El Comercio <https://elcomercio.pe/lima/rafael-lopez-aliaga-participa-en-ceremonia-tras-llegada-de-los-primeros-vagones-del-tren-lima-chosica-ultimas-noticia/>
 
-[^2]: <https://www.exitosanoticias.pe/actualidad/mtc-sobre-trenes-anunciados-municipalidad-lima-no-generar-expectativas-podran-cumplir-n154103>
+[^2]: Radio Exitosa <https://www.exitosanoticias.pe/actualidad/mtc-sobre-trenes-anunciados-municipalidad-lima-no-generar-expectativas-podran-cumplir-n154103>
 
-[^3]: <https://www.infobae.com/peru/2025/07/18/los-hallazgos-de-la-contraloria-en-la-primera-inspeccion-a-los-trenes-caltrain-de-rafael-lopez-aliaga/>
+[^3]: Infobae <https://www.infobae.com/peru/2025/07/18/los-hallazgos-de-la-contraloria-en-la-primera-inspeccion-a-los-trenes-caltrain-de-rafael-lopez-aliaga/>
