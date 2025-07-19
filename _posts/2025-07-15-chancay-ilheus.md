@@ -1,7 +1,7 @@
 ---
 title: "El ferrocarril Ilhéus–Chancay: integración o subordinación estratégica"
 author: "Victor Peña Guillen, PhD"
-date: "July 14, 2025"
+date: "July 15, 2025"
 output:
   html_document: default
 ---
