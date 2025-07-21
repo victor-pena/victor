@@ -50,7 +50,7 @@ El PN[^1] realiza un señalamiento jurídico válido sobre la reasignación irre
 
 El debate político, por tanto, se reduce a una disputa por la gestión y la administración de las concesiones, y no sobre la **democratización del acceso y el control del agua**, ni sobre alternativas de planificación pública sustentable.
 
-### 4. Conclusión
+### 4. Discusión
 
 La reasignación del contrato del Proyecto Neptuno al mismo consorcio adjudicatario, sin una nueva licitación, **carece de respaldo jurídico sólido** y abre la puerta a posibles recursos administrativos y judiciales.
 
@@ -61,6 +61,14 @@ El caso del proyecto Neptuno y su reconfiguración bajo el actual gobierno expon
 La posibilidad de rescindir un contrato de obra pública de envergadura y redirigirlo —sin competencia abierta— al mismo consorcio, bajo un proyecto rebautizado, evidencia que la **estabilidad institucional opera más como un escudo para las continuidades negociadas** que como una garantía del interés público.
 
 Una crítica de fondo puede además centrarse en la forma cómo el mito de las instituciones fuertes o el miedo a la imagen internacional, sirven para naturalizar la mercantilización de bienes esenciales como el agua, mientras la flexibilidad institucional se activa discretamente para preservar los acuerdos de poder bajo el disfraz del orden jurídico.
+
+### 5. Conclusión
+
+En definitiva, ni la estabilidad jurídica ni la fortaleza institucional existen realmente en Uruguay, al menos no como garantías efectivas de control sobre los actos públicos.
+
+El proyecto original presentado por Saceem se enmarcó en las reglas formales, aunque fue ampliamente cuestionado por haber sido firmado de forma sospechosa por el expresidente Lacalle Pou en los últimos días de su mandato. Sin embargo, bajo la actual administración de Orsi, las modificaciones al proyecto —incluyendo la reubicación y el rediseño de la obra— se están ejecutando al margen del contrato original y de su marco legal, amparándose en justificaciones como el descontento social, la calidad del agua o el ahorro presupuestal. Ninguno de estos argumentos ha sido sometido a las instituciones competentes ni al debido escrutinio, lo que evidencia una grave falta de procedimientos claros y de respeto por las formas administrativas.
+
+Esta situación revela que ni los funcionarios actuales ni la sociedad en general parecen conscientes del principio de rendición de cuentas sobre los actos públicos y el uso de recursos estatales. La narrativa de la estabilidad institucional funciona entonces como un discurso legitimador que encubre la manipulación política y la captura de decisiones estratégicas por parte de los mismos actores empresariales, reproduciendo un esquema de opacidad y acuerdos informales que contradice la idea misma de un Estado de derecho sólido.
 
 #### Referencia
 
