@@ -6,7 +6,7 @@ output:
   html_document: default
 ---
 
-Durante su última intervención anual ante el Congreso el 28 de julio del 2025, la presidenta Dina Boluarte calificó a Cuba, Venezuela y Bolivia como “estados fallidos”, una expresión inusitada en la diplomacia peruana. Esta fue fue una respuesta deliberada a los intentos de esos gobiernos por influir o deslegitimar la transición de poder ocurrida tras la caída de Pedro Castillo. Se estaria aplicando una lógica de represalia diplomática que ha buscado el momento indicado para descalificar a esos paises.
+Durante su última intervención anual ante el Congreso el 28 de julio del 2025, la presidenta Dina Boluarte calificó a Cuba, Venezuela y Bolivia como “estados fallidos”, una expresión inusitada en la diplomacia peruana. Esta fue una respuesta deliberada a los intentos de esos gobiernos por influir o deslegitimar la transición de poder ocurrida tras la caída de Pedro Castillo. Se estaria aplicando una lógica de represalia diplomática, que ha buscado el momento indicado para descalificar a esos paises.
 
 Asimismo, y mas importante el mensaje podría revelar un reposicionamiento estratégico del Perú en el escenario sudamericano, y particularmente una señal hacia Brasil, la potencia regional que busca reconstruir una arquitectura de integración bajo liderazgo progresista.
 
