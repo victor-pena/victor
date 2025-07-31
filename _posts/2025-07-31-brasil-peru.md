@@ -14,7 +14,7 @@ La jugada ha sido silenciosa pero puede leerse con claridad, el Perú permite qu
 
 El no-consultado tren bioceánico ha servido, paradójicamente, para observar momentaneamiente la discreta operación de la diplomacia peruana. Desde la Cancillería se ha observado el gesto como una oportunidad. La estrategia adoptada es no participar del diseño, pero controlar el destino final. Hoy Chancay es parte del plan de China, pero su conectividad política responde a otras lógicas de comercio y geopolítica donde EE.UU. tiene mayor influencia. Los aranceles a Brasil, lejos de afectar a Perú, lo fortalecen como alternativa logística, comercial y diplomática.
 
-En silencio, el Perú realiza una estrategia de consolidación de su posición en Sudamérica que no se basa en confrontaciones abiertas, sino en desplazar los centros de gravedad regionales hacia su propio territorio. En un continente fragmentado y funcional a la politica exterior americana, esa estrategia representa una forma de poder singular realizada no por volumen ni por ideología, sino por posición, prudencia y oportunidad.
+En silencio, el Perú realiza una estrategia de consolidación de su posición en Sudamérica que no se basa en confrontaciones histriónicas, sino en desplazar los centros de gravedad regionales hacia su propio territorio. En un continente fragmentado y funcional a la politica exterior americana, esa estrategia representa una forma de poder singular realizada no por volumen ni por ideología, sino por posición, prudencia y oportunidad.
 
 > El Perú no impone explicitamente sus intereses, pero se vuelve inevitable. Ese es su juego, y lo está ganando por el momento.
 
