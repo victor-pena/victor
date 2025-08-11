@@ -8,7 +8,7 @@ output:
 
 El **Terminal Portuario General San Martín** (TPGSM)[^1], en la bahía de Paracas, Ica, se ha convertido en un nodo clave para el comercio exterior peruano. Operado por Terminal Portuario Paracas S.A., cuenta con un muelle de 700 metros y una profundidad de 14 metros, apto para buques Super Panamax. Su capacidad multipropósito abarca graneles, carga general, minerales y contenedores refrigerados, esenciales para la agroindustria.
 
-Desde 2014, la terminal de Pisco exporta uvas, espárragos, cítricos, granadas, cebollas y paltas en contenedores refrigerados (reefers), gracias a almacenes de frío y conexiones eléctricas. Esto ha permitido ahorros logísticos comparados al Callao (donde operan DP World y APM Terminals), con salidas semanales hacia Sudamerica, Norteamérica, Europa y Asia.
+Desde 2014, la terminal de Pisco exporta uvas, espárragos, cítricos, granadas, cebollas y paltas en contenedores refrigerados (reefers), gracias a almacenes de frío y conexiones eléctricas. Esto ha permitido ahorros logísticos comparados al Callao (donde operan dos terminales: DP World y APM), con salidas semanales hacia Sudamerica, Norteamérica, Europa y Asia.
 
 El terminal está llamado a integrarse al **Corredor Bioceánico de Capricornio**[^2], que enlaza Mato Grosso do Sul (Brasil) y Paraguay con los puertos del norte chileno como Iquique y Antofagasta. Desde allí, la carga brasileña, paraguaya y argentina pueden redistribuirse hacia Pisco por cabotaje o transporte terrestre, aprovechando su cercanía a los polos agroindustriales y mineros del sur peruano.
 
