@@ -16,7 +16,7 @@ En este esquema, cobra relevancia el **Chancay Express**[^3], un servicio marít
 
 Pisco, ubicado estratégicamente entre Matarani[^4] -donde ya opera una ruta de de cabotaje de Hapag-Lloyd hacia Iquique, Antofagasta y Mejillones- y el nodo Callao-Chancay, puede actuar como puerto bisagra. Desde allí, los productos agrícolas del sur y minerales de Apurímac y Cusco pueden acceder directamente a las rutas transpacíficas. Con la actual operación del Chancay Express y el servicio WS4 de Hapag-Lloyd con la proyección del Corredor Capricornio, el sur peruano se integra de manera más estrecha con el interior sudamericano, creando un corredor logístico eficiente, multimodal y orientado a los mercados de China, Japón y el Sudeste Asiático.
 
-El desafío ahora es coordinar la infraestructura física y la “blanda” —regulación, aduanas, servicios logísticos— entre los paises involucrados, para que esta red cumpla su potencial y convierta a Pisco en un componente complementario en el rosario de puertos del Pacífico Sudamericano.
+Los desafíos son, consolidar el papel del nodo Callao-Chancay como centro de redistribución en el Pacífico Sur[^5], y al mismo tiempo coordinar la infraestructura física y la “blanda” —regulación, aduanas, servicios logísticos— entre los paises involucrados, para que esta red cumpla su potencial y convierta a Pisco en un componente complementario en el rosario de puertos del Pacífico Sudamericano.
 
 #### Referencias
 
@@ -24,3 +24,4 @@ El desafío ahora es coordinar la infraestructura física y la “blanda” —r
 [^2]: [Revisado 10AGO2025] <https://mundomaritimo.cl/noticias/puerto-de-itajai-en-brasil-se-incorporaria-a-la-ruta-bioceanica-capricornio>
 [^3]: [Revisado 10AGO2025] <https://mundomaritimo.cl/noticias/seaboard-dispone-espacios-en-el-servicio-peru-chile-de-x-press-feeders-y-cosco-shipping>
 [^4]: [Revisado 10AGO2025] <https://mundomaritimo.cl/noticias/hapag-lloyd-anade-recalada-en-el-puerto-de-matarani-en-servicio-que-conecta-peru-con-chile>
+[^5]: [Revisado 10AGO2025] <https://mundomaritimo.cl/noticias/informe-revela-el-proceso-de-reconfiguracion-portuaria-en-la-costa-oeste-de-sudamerica-en-el-periodo-2019-2025>
