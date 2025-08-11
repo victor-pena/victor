@@ -18,6 +18,11 @@ Pisco, ubicado estratégicamente entre Matarani[^4] -donde ya opera una ruta de 
 
 Los desafíos son, consolidar el papel del nodo Callao-Chancay como centro de redistribución en el Pacífico Sur[^5], y al mismo tiempo coordinar la infraestructura física y la “blanda” —regulación, aduanas, servicios logísticos— entre los paises involucrados, para que esta red cumpla su potencial y convierta a Pisco en un componente complementario en el rosario de puertos del Pacífico Sudamericano.
 
+---
+Nota: "MSC lanzará en septiembre de 2025 un nuevo servicio marítimo denominado 'Alpaca', con el objetivo de ofrecer tiempos de tránsito más ágiles entre el Lejano Oriente y la costa oeste de Sudamérica. La nueva ruta incluye conexiones directas entre Ningbo (China), Busan (Corea del Sur) y Callao (Perú), posicionándose como una de las opciones más rápidas del mercado en esta ruta  marítima. El servicio operará con frecuencia semanal con recaladas directas en puertos chilenos. Además, busca fortalecer la conectividad de Bolivia a través de los terminales de Arica e Iquique" (Mundo Maritimo, 31JUL2025)[^6].
+
+---
+
 #### Referencias
 
 [^1]: [Revisado 10AGO2025] <https://mundomaritimo.cl/noticias/msc-anuncia-recalada-de-servicio-en-pisco-puerto-clave-para-los-exportadores-de-uvas-del-peru>
@@ -25,3 +30,4 @@ Los desafíos son, consolidar el papel del nodo Callao-Chancay como centro de re
 [^3]: [Revisado 10AGO2025] <https://mundomaritimo.cl/noticias/seaboard-dispone-espacios-en-el-servicio-peru-chile-de-x-press-feeders-y-cosco-shipping>
 [^4]: [Revisado 10AGO2025] <https://mundomaritimo.cl/noticias/hapag-lloyd-anade-recalada-en-el-puerto-de-matarani-en-servicio-que-conecta-peru-con-chile>
 [^5]: [Revisado 10AGO2025] <https://mundomaritimo.cl/noticias/informe-revela-el-proceso-de-reconfiguracion-portuaria-en-la-costa-oeste-de-sudamerica-en-el-periodo-2019-2025>
+[^6]: [Revisado 10AGO2025] <https://mundomaritimo.cl/noticias/msc-anuncia-nuevo-servicio-entre-asia-y-la-costa-oeste-de-sudamerica-con-menor-tiempo-de-transito>
