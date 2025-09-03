@@ -10,7 +10,7 @@ output:
 
 ---
 
-### ** Criterios Técnicos Aplicados**
+### Criterios Técnicos Aplicados
 
 | Capa                                   | Criterio aplicado                               | Función                                                        |
 | -------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------- |
