@@ -6,7 +6,7 @@ output:
   html_document: default
 ---
 
-**Objetivo:** Identificar las zonas óptimas para establecer un nodo logístico multimodal en una zona costera, integrando criterios de accesibilidad, valor del suelo, riesgo e interferencia urbana.
+**Objetivo:** Identificar las zonas óptimas para establecer un nodo logístico multimodal en una zona costera, integrando criterios de accesibilidad vial, valor del suelo, peligros naturales e interferencia urbana.
 
 ---
 
@@ -26,7 +26,7 @@ output:
 
 ---
 
-## 🧩 1. Datos requeridos (en formato shapefile)
+### 🧩 1. Datos requeridos (en formato shapefile)
 
 | Capa                   | Tipo     | Descripción                             |
 | ---------------------- | -------- | --------------------------------------- |
@@ -37,7 +37,7 @@ output:
 
 ---
 
-## 🔧 2. Pre-procesamiento de capas
+### 🔧 2. Pre-procesamiento de capas
 
 ### A. Revisar proyecciones
 
@@ -53,7 +53,7 @@ output:
 
 ---
 
-## 🛣️ 3. Crear unidad económica: buffer de accesibilidad vial
+### 🛣️ 3. Crear unidad económica: buffer de accesibilidad vial
 
 1. Ir a: `Vector` → `Herramientas de geoprocesamiento` → `Buffer`
 2. Seleccionar `carreteras.shp`
@@ -62,7 +62,7 @@ output:
 
 ---
 
-## 🌍 4. Crear unidad ecológico-económica (intersección)
+### 🌍 4. Crear unidad ecológico-económica (intersección)
 
 1. Ir a: `Vector` → `Geoprocesamiento` → `Intersección`
 2. **Capa A**: `buffer_acceso.shp`
@@ -71,7 +71,7 @@ output:
 
 ---
 
-## 🏘️ 5. Excluir zonas urbanas
+### 🏘️ 5. Excluir zonas urbanas
 
 1. Ir a: `Vector` → `Geoprocesamiento` → `Diferencia`
 2. **Capa de entrada**: `unidad_eco_econ.shp`
@@ -80,7 +80,7 @@ output:
 
 ---
 
-## 🌊 6. Excluir zonas de inundación
+### 🌊 6. Excluir zonas de inundación
 
 1. Repetir el paso de diferencia:
 
@@ -90,7 +90,7 @@ output:
 
 ---
 
-## 📐 7. Verificar y calcular atributos espaciales
+### 📐 7. Verificar y calcular atributos espaciales
 
 * Abre la tabla de atributos de `area_sugerida_nodo.shp`
 * Abre el **Calculador de campos**:
@@ -105,7 +105,7 @@ output:
 
 ---
 
-## 📤 8. Exportar resultados y elaborar mapa final
+### 📤 8. Exportar resultados y elaborar mapa final
 
 * Exporta la capa final como shapefile o geopackage.
 * Usa el **Diseñador de impresión** (`Proyecto` → `Nuevo diseño de impresión`) para generar tu mapa final:
@@ -115,7 +115,7 @@ output:
 
 ---
 
-## 📌 Sugerencias adicionales
+### 📌 Sugerencias adicionales
 
 * Verifica que las áreas candidatas cumplan con un **mínimo de superficie** (e.g., >5 ha).
 * Si hay múltiples polígonos: usa `Multipart to Singleparts` para separarlos.
@@ -140,6 +140,6 @@ Una capa de polígonos que representa zonas:
   * Agregar análisis de **riesgo por inundación** como capa de exclusión adicional.
   * Calcular **área mínima funcional** para el nodo (por ejemplo, >5 ha).
   * Evaluar **distancia a puertos o zonas industriales existentes**.
-  * Agregar un **análisis de pendientes** si el terreno tiene topografía variable.
+  * Explorar el trazo de nuevas obras de **infraestructura** (ferrocarriles).
 
 ---
