@@ -64,5 +64,5 @@ output:
 
 ### ✅ **Total máximo por sitio: 100 puntos**
 
-> Se pueden utilizar estos puntajes en una hoja de cálculo o matriz GIS para ponderar y comparar sitios candidatos.
+> Se pueden utilizar estos puntajes en una hoja de cálculo o matriz GIS para ponderar y comparar sitios alternativos.
 
