@@ -14,9 +14,9 @@ output:
 
 | Criterio                        | Descripción                                                                                     | Puntaje |
 | ------------------------------- | ----------------------------------------------------------------------------------------------- | ------- |
-| Cercanía al ferrocarril         | ≤ 1 km: 5 pts / 1–3 km: 3 pts / >3 km: 1 pt                                                     | ⬜       |
-| Cercanía al puerto de Paracas   | ≤ 10 km: 5 pts / 10–20 km: 3 pts / >20 km: 1 pt                                                 | ⬜       |
-| Cercanía al aeropuerto de Pisco | ≤ 10 km: 5 pts / 10–20 km: 3 pts / >20 km: 1 pt                                                 | ⬜       |
+| Cercanía al ferrocarril         | ≤ 0.5 km: 5 pts / 0.5–2 km: 3 pts / >2 km: 1 pt                                                     | ⬜       |
+| Cercanía al puerto de Paracas   | ≤ 2 km: 5 pts / 2–10 km: 3 pts / >10 km: 1 pt                                                 | ⬜       |
+| Cercanía al aeropuerto de Pisco | ≤ 0.5 km: 5 pts / 0.5–2 km: 3 pts / >2 km: 1 pt                                                 | ⬜       |
 | Conectividad vial directa       | Acceso directo a vía arterial: 5 pts / acceso con mejoras requeridas: 3 pts / sin acceso: 0 pts | ⬜       |
 
 ---
