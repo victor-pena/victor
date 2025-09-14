@@ -25,7 +25,7 @@ Con base a las normas, incluyendo el Reglamento Nacional de Acondicionamiento Te
 ---
 
 ![valencia]({{ "/assets/valencia1.jpeg" | relative_url }})
-*Puerto de Valencia (Fuente: [Gestion](https://www.novologistica.com), 23ABRIL2019)*
+*Puerto de Valencia (Fuente: [novologistica.com](https://www.novologistica.com), 23ABRIL2019)*
 
 ### ✅ Recomendaciones de aplicación
 
