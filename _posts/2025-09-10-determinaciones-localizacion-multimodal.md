@@ -25,7 +25,7 @@ Con base a las normas, incluyendo el Reglamento Nacional de Acondicionamiento Te
 ---
 
 ![valencia]({{ "/assets/valencia1.jpeg" | relative_url }})
-*Puerto de Valencia (Fuente: [novologistica.com](https://www.novologistica.com), 23ABRIL2019)*
+*Puerto de Valencia (Fuente: [novologistica.com](https://www.novologistica.com/zonas-logisticas/el-puerto-de-valencia-adif-la-generalitat-y-fomento-aportan-67-millones-de-euros-para-el-lanzamiento-del-proyecto-intermodal-de-la-font-de-sant-lluis/), 23ABRIL2019)*
 
 ### ✅ Recomendaciones de aplicación
 
