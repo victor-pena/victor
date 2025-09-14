@@ -24,6 +24,9 @@ Con base a las normas, incluyendo el Reglamento Nacional de Acondicionamiento Te
 
 ---
 
+![valencia]({{ "/assets/valencia1.jpeg" | relative_url }})
+*Puerto de Valencia (Fuente: [Gestion](https://www.novologistica.com), 23ABRIL2019)*
+
 ### ✅ Recomendaciones de aplicación
 
 * Asegurar que el área propuesta esté **clasificada y zonificada adecuadamente** en el plan de acondicionamiento territorial o plan urbano.
