@@ -8,6 +8,10 @@ output:
 
 **Objetivo**: Identificar y evaluar sitios óptimos para instalar una plataforma logística intermodal que articule el ferrocarril Lima–Ica, el puerto de Paracas, el aeropuerto de Pisco y la Vía Libertadores hacia los Andes. Se incluyen rangos de puntaje para la toma de decisiones y el análisis multicriterio.
 
+
+![valencia]({{ "/assets/valencia2.jpeg" | relative_url }})
+*Nodo Logistico del Puerto de Valencia (Fuente: [valenciaport](https://valenciazal.com/desarrollos_log%C3%ADsticos/nodo-logistico-valencia-fsl/), 23ABRIL2019)*
+
 ---
 
 ### 🧭 1. Ubicación y Accesibilidad Espacial
