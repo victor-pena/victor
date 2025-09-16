@@ -47,4 +47,4 @@ The PNOT 2050 is not only a planning instrument but also a political reordering 
 In this context, planning must be seen as **conflict navigation, not design delivery**. The institutional jealousies now emerging are evidence that territory is political matter, and that the future of the State will depend on how productively it can manage these contestations.
 
 ![priale]({{ "/assets/priale-huachipa.jpeg" | relative_url }})
-*Centro Poblado Huachipa, Lima (Fuente: Google Earth, 16SETIEMBRE2025)*
+*Huachipa, Lima (Source: Google Earth, 16SET2025)*
