@@ -45,3 +45,6 @@ What emerges is a **recomposition of power inside the State**. The PCM/VGT has e
 The PNOT 2050 is not only a planning instrument but also a political reordering of the Peruvian State. By placing PCM/VGT at the center, it opens space for stronger coordination but also exposes latent conflicts. Ministries like MVCS may resist, defending their mandates. Regional and local governments will push for autonomy. And civil society, communities, and private investors will continue to shape territory from below.
 
 In this context, planning must be seen as **conflict navigation, not design delivery**. The institutional jealousies now emerging are evidence that territory is political matter, and that the future of the State will depend on how productively it can manage these contestations.
+
+![priale]({{ "/assets/priale-huachipa.jpg" | relative_url }})
+*Huachipa, Lima (Source: Google Earth, 16SET2025)*
