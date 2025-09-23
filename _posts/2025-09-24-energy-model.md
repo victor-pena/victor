@@ -32,7 +32,7 @@ Real energy sovereignty will only come when contracts stop privileging capital s
 
 ---
 
-## References
+### References
 
 Earth.org. (2023, April 13). *The Uruguay way: Achieving energy sovereignty in the developing world*. Earth.Org. [https://earth.org/the-uruguay-way-achieving-energy-sovereignty-in-the-developing-world/](https://earth.org/the-uruguay-way-achieving-energy-sovereignty-in-the-developing-world/)
 
