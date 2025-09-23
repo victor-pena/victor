@@ -1,7 +1,7 @@
 ---
 title: "Uruguay’s energy model: guaranteed profits for investors"
 author: "Victor Peña Guillen, PhD"
-date: "September 24, 2025"
+date: "September 23, 2025"
 output:
   html_document: default
 ---
