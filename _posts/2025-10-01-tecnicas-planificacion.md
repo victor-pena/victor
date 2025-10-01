@@ -22,8 +22,6 @@ La vida popular —recurseo, ocupación informal, rutas motorizadas no oficiales
 
 Pero este conatus no cabe fácilmente en las hojas de calculo. Lo que las técnicas no pueden nombrar, lo convierten en “informalidad”, “problema”, “déficit”. Así, las técnicas despolitizan lo que en realidad es **poder constituyente territorial**.
 
----
-
 ## ⚙️ El deseo no se mide, se organiza
 
 Detrás de todo proyecto técnico hay una economía politica enfocada en integrar, ordenar, conectar, atraer inversión. La logística ademas de estar compuesta por la infraestructura, es una ficción deseada de fluidez que permite la ocurrencia del intercambio de bienes.
