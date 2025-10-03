@@ -12,10 +12,12 @@ Hoy, Javier Milei repite ese patrón de embaucador político. Durante la campañ
 
 El truco sigue funcionando ahora como presidente de Argentina, y funciona porque Milei captura afectos, provocando rabia contra la inflación, desprecio por la “casta”, frustración con promesas incumplidas. Sus discursos no son programas, son catarsis. Y en un país con instituciones debilitadas, eso vale más que la consistencia.
 
-Lo curioso es que el engaño ya traspasa fronteras. Donald Trump lo respalda como un “guerrero contra el socialismo global”. Y en EE.UU., figuras como John Bessent al parecer confían en la dupla Milei–Caputo, imaginando un giro neoliberal impecable o al menos avasallamiento político (muy devaluado). Pero esa confianza externa recuerda a los gobernadores y jesuitas del siglo XVII, porque también ellos quisieron creer en Bohórquez hasta que fue demasiado tarde.
+Lo curioso es que el engaño ya traspasa fronteras. Donald Trump lo respalda como un “guerrero contra el socialismo global”. Y en EE.UU., figuras como John Bessent al parecer confían en la dupla Milei–Caputo[^2], imaginando un giro neoliberal impecable o al menos avasallamiento político (muy devaluado). Pero esa confianza externa recuerda a los gobernadores y jesuitas del siglo XVII, porque también ellos quisieron creer en Bohórquez hasta que fue demasiado tarde.
 
 El poder del tramposo es frágil pero se repite. Brilla mientras dure la crisis, y se sostiene sobre la necesidad de engaño. Bohórquez terminó en cadenas. Milei arriesga un destino semejante, en todo caso la historia se repite.
 
 ---
 
 [^1]: Piossek Prebisch, T. (1983). Pedro Bohórquez, el Inca del Tucumán, 1656-1659. Buenos Aires: Gente de Letras.
+
+[^2]: <https://x.com/SecScottBessent/status/1973705458947903914>
