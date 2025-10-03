@@ -1,5 +1,5 @@
 ---
-title: "Del engaño colonial al lobby financiero argentino”"
+title: "Del engaño colonial al lobby financiero argentino"
 author: "Victor Peña Guillen, PhD"
 date: "October 2, 2025"
 output:
