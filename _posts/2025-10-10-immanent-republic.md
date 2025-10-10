@@ -1,5 +1,5 @@
 ---
-title: "The Immanent Republic"
+title: "The immanent Republic"
 author: "Victor Peña Guillen, PhD"
 date: "October 10, 2025"
 output:
