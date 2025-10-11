@@ -8,7 +8,7 @@ output:
 
 *“Los Estados Unidos se comprometen a trabajar productivamente con el presidente José Enrique Jerí… Reafirmamos nuestra asociación de casi 200 años y mantenemos nuestro compromiso de apoyar la estabilidad, la seguridad y a las instituciones democráticas del Perú.”*
 
-> — Embajada de los EE. UU. en Perú, 10OCT2025
+> — Embajada de los EE.UU. en el Perú, 10OCT2025
 
 ---
 
