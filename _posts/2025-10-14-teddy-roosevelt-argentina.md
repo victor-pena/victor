@@ -1,5 +1,5 @@
 ---
-title: "Roosevelt y la Argentina de 2025"
+title: "Roosevelt y Argentina del 2025"
 author: "Victor Peña Guillen, PhD"
 date: "October 14, 2025"
 output:
