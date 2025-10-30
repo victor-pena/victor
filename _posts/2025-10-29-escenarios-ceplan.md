@@ -6,7 +6,7 @@ output:
   html_document: default
 ---
 
-*Adaptado de la Guía CEPLAN 2024 – Enfoque territorial para el nodo logístico de Pisco* [^1]
+*Adaptado de la Guía CEPLAN 2024 para la elaboración de PDC [^1] – aplicado al enfoque territorial para el nodo logístico multimodal de Pisco*
 
 ---
 
