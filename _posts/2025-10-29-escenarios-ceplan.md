@@ -1,5 +1,5 @@
 ---
-title: "Formulación de Escenarios Prospectivos"
+title: "Formulación de escenarios prospectivos"
 author: "Victor Peña Guillen, PhD"
 date: "October 29, 2025"
 output:
@@ -16,19 +16,19 @@ Un escenario es una representación plausible y estructurada de cómo podría ev
 
 ## Tipos de escenarios
 
-### 1. Escenario Tendencial
+### 1. Escenario tendencial
 
 - Proyecta la continuidad de las condiciones actuales.
 - Se basa en las tendencias observadas en el diagnóstico.
 - Muestra qué ocurriría si no se implementan cambios importantes.
 
-### 2. Escenario Deseado
+### 2. Escenario deseado
 
 - Refleja el futuro que se quiere construir a partir de los objetivos estratégicos.
 - Implica decisiones de política pública, inversiones y articulación institucional.
 - Es el punto de llegada ideal del proceso de planificación.
 
-### 3. Escenario Disruptivo o de Transformación
+### 3. Escenario disruptivo o de transformación
 
 - Considera cambios estructurales no lineales, no necesariamente negativos.
 - Estimula una visión creativa, resiliente e innovadora del territorio.
@@ -36,10 +36,13 @@ Un escenario es una representación plausible y estructurada de cómo podría ev
 **Ejemplos para el nodo logístico de Pisco:**
 
 - Ingreso de nuevas rutas marítimas de navieras globales (MSC, COSCO, Maersk) al puerto de Pisco.
-- Consolidación del Corredor Capricornio y su articulación logística con Brasil.
-- Masificación del uso de energías renovables (parques eólicos y solares).
-- Aceleración del agroexport boom en Ica y Pisco.
-- Transformación digital de procesos logísticos (puerto, aduanas, trazabilidad).
+- Consolidación del Corredor Capricornio y su articulación logística con Brasil, Paraguay, Argentina y Chile.
+- Masificación del uso de energías renovables en la región Ica (parques eólicos y solares).
+- Aceleración de la agroexportación en Ica y Ayacucho.
+- Transformación digital de procesos logísticos (puerto, aduanas, trazabilidad).[^2]
+- Instalación de data centers (expansión desde Lurín).
+- Construcción del ferrocarril Lima-Ica.
+- Desarrollo del tramo 4 de la longitudinal de la sierra.
   
 Estos eventos pueden acelerar o alterar profundamente la forma en que se organiza el nodo logístico y su entorno territorial.
 
@@ -67,3 +70,5 @@ Estos eventos pueden acelerar o alterar profundamente la forma en que se organiz
 ### Referencia
 
 [^1]: <https://www.gob.pe/institucion/ceplan/informes-publicaciones/5972882-guia-para-el-plan-de-desarrollo-local-concertado-para-la-mejora-de-planes-estrategicos-con-enfoque-territorial-actualizada-2024>
+
+[^2]: <https://www.desdeadentro.pe/2025/10/proinversion-impulsa-la-integracion-fisico-digital-de-corredores-logisticos-a-traves-del-modelo-digital-de-app/>
