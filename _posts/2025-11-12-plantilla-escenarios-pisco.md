@@ -74,5 +74,3 @@ Adjunte o describa croquis, esquemas, flujos o mapas que expresen visualmente ca
 🎯 **¿Qué decisiones deben tomarse hoy para acercarnos al escenario deseado?**
 
 ---
-
-¿Quieres que prepare una versión descargable cuando el sistema se estabilice?
