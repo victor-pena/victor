@@ -10,9 +10,11 @@ The election of José Antonio Kast may mark a generational and ideological turn 
 
 From a Spinozist perspective, elected president Kast’s discourse of hope would be read as a political management of affects as citizens are invited to hope in order, discipline, and exemplary behavior. This hope reduces immediate fear and anger. But it does not increase people’s potentia agendi (capacity to act collectively). For Spinoza, this is decisive.
 
+For Negri, the 2019 uprising was an eruption of constituent power — the living, productive force of society exceeding its institutional forms. The failure of constitutional reform and the return of elite governance represent not the exhaustion of that power, but its capture and deferral. Kast’s presidency, in Negri’s eyes, would be a classic case of constituent power neutralized by command
+
 A state is stable not when it commands obedience, but when it increases the collective power of the multitude. Moral exhortation does the opposite: it individualizes responsibility and converts structural contradictions into ethical shortcomings.
 
-If we read the Chile–Peru contrast through **Derrida’s *différance***, the diagnosis becomes even sharper, and it actually *deepens* what Spinoza and Negri were circling from another angle.
+If we read the Chile–Peru contrast through **Derrida’s *différance***[^1], the diagnosis becomes even sharper, and it actually *deepens* what Spinoza and Negri were circling from another angle.
 
 ### *Différance* at work: Chile and Peru revisited
 
@@ -35,7 +37,6 @@ Chile’s first uprising (2019) was precisely the return of what had been deferr
 
 Thus the risk of a second uprising persists.
 
-
 ### Peru: living *with* Différance
 
 Peru, by contrast, never fully closed différance.
@@ -52,8 +53,6 @@ Crisis does not erupt as rupture because it is never fully deferred. It is const
 
 Peru lives in permanent postponement — not resolution — and that postponement prevents explosion.
 
----
-
 ### Why copper and hope matter
 
 High copper prices in Chile function as a **material deferral**: they postpone confrontation without resolving it. Kast’s discourse of hope is a symbolic deferral: it asks society to wait, to behave, to trust.
@@ -61,8 +60,6 @@ High copper prices in Chile function as a **material deferral**: they postpone c
 But deferral without transformation accumulates traces. When the buffer fades, what returns is not reformist hope but disenchantment.
 
 Peru’s absence of grand hope is precisely why disappointment does not concentrate.
-
----
 
 ### Re-reading Spinoza and Negri through *Différance*
 
@@ -74,8 +71,6 @@ Now the convergence is clearer:
 
 Chile tries to stabilize presence.
 Peru accepts deferral as condition.
-
----
 
 ### Synthesis
 
@@ -91,3 +86,9 @@ In Derridean terms:
 
 > What is denied as différance returns as crisis.
 > What is acknowledged as différance becomes practice.
+
+---
+
+#### Note
+
+[^1]: Différance is the process by which meaning and order are constituted through difference and deferral, such that presence, identity, and authority are never complete but always postponed and unstable.
