@@ -1,7 +1,7 @@
 ---
 title: "Two divergent paths"
 author: "Victor Peña Guillen, PhD"
-date: "December 1, 2025"
+date: "December 15, 2025"
 output:
   html_document: default
 ---
