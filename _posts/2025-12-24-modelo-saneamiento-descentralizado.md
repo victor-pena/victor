@@ -265,7 +265,7 @@ Decentralized approaches to wastewater treatment and management: Applicability i
 Gikas, P., & Tchobanoglous, G. (2009).
 The role of satellite and decentralized strategies in water resources management.
 *Journal of Environmental Management, 90*(1), 144–152.
-[https://doi.org/10.1016/j.jenvman.2007.08.01](https://doi.org/10.1016/j.jenvman.2007.08.01)
+[https://doi.org/10.1016/j.jenvman.2007.08.016](https://doi.org/10.1016/j.jenvman.2007.08.016)
 
 > Apoya el uso de modelos orientados a decisión y planificación, más que a simulación detallada.
 
