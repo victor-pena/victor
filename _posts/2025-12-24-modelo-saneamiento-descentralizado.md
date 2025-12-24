@@ -52,7 +52,7 @@ Este enfoque es consistente con las recomendaciones de la Organización Mundial 
 
 Para cada unidad de tratamiento *i* y cada contaminante *p*, se aplica el siguiente balance:
 
-\[ C_{p,i}^{\text{salida}} = C_{p,i}^{\text{entrada}} \cdot (1 - \eta_{p,i}) \]
+$ C_{p,i}^{\text{salida}} = C_{p,i}^{\text{entrada}} \cdot (1 - \eta_{p,i}) $
 
 donde:
 
@@ -263,7 +263,7 @@ Decentralized approaches to wastewater treatment and management: Applicability i
 Gikas, P., & Tchobanoglous, G. (2009).
 The role of satellite and decentralized strategies in water resources management.
 *Journal of Environmental Management, 90*(1), 144–152.
-[https://doi.org/10.1016/j.jenvman.2008.08.016](https://doi.org/10.1016/j.jenvman.2008.08.016)
+[https://doi.org/10.1016/j.jenvman.2007.08.01](https://doi.org/10.1016/j.jenvman.2007.08.01)
 
 > Apoya el uso de modelos orientados a decisión y planificación, más que a simulación detallada.
 
