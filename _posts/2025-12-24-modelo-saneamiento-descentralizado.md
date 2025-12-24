@@ -52,7 +52,9 @@ Este enfoque es consistente con las recomendaciones de la Organización Mundial 
 
 Para cada unidad de tratamiento *i* y cada contaminante *p*, se aplica el siguiente balance:
 
-$ C_{p,i}^{\text{salida}} = C_{p,i}^{\text{entrada}} \cdot (1 - \eta_{p,i}) $
+$$
+C_{p,i}^{\text{salida}} = C_{p,i}^{\text{entrada}} \cdot (1 - \eta_{p,i})
+$$
 
 donde:
 
