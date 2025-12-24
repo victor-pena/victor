@@ -223,8 +223,8 @@ Metcalf & Eddy, Inc., Tchobanoglous, G., Stensel, H. D., Tsuchihashi, R., & Burt
 
 ### Saneamiento, salud pública y enfoque de riesgos
 
-World Health Organization. (2018).
-*Guidelines on sanitation and health*. World Health Organization.
+World Health Organization. (2019).
+*WHO water, sanitation and hygiene strategy 2018-2025*. World Health Organization.
 [https://www.who.int/publications/i/item/WHO-CED-PHE-WSH-18.03](https://www.who.int/publications/i/item/WHO-CED-PHE-WSH-18.03)
 
 > Documento normativo clave que respalda el enfoque por clases de riesgo, el tratamiento categórico de patógenos y la planificación de saneamiento en contextos complejos.
