@@ -282,7 +282,7 @@ Constructed wetlands for wastewater treatment: Five decades of experience.
 
 ---
 
-## Nota metodológica clave (puedes incluirla)
+## Nota metodológica clave
 
 > El enfoque adoptado es coherente con la literatura clásica de ingeniería sanitaria y con las guías internacionales de la OMS, que recomiendan modelos transparentes, basados en balances de masa y evaluación de riesgos, para la planificación y el diseño de sistemas de saneamiento descentralizado.
 
