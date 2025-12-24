@@ -52,15 +52,13 @@ Este enfoque es consistente con las recomendaciones de la Organización Mundial 
 
 Para cada unidad de tratamiento *i* y cada contaminante *p*, se aplica el siguiente balance:
 
-[
-C_{p,i}^{salida} = C_{p,i}^{entrada} \cdot (1 - \eta_{p,i})
-]
+\( C_{p,i}^{\text{salida}} = C_{p,i}^{\text{entrada}} \cdot (1 - \eta_{p,i}) \)
 
 donde:
 
-* ( C_{p,i}^{entrada} ) es la concentración de entrada del contaminante *p*,
-* ( C_{p,i}^{salida} ) es la concentración de salida,
-* ( \eta_{p,i} ) es la eficiencia de remoción adimensional (0–1).
+* ( \( C_{p,i}^{\text{entrada}} \) ) es la concentración de entrada del contaminante *p*,
+* ( \( C_{p,i}^{\text{salida}} \) ) es la concentración de salida,
+* ( \( \eta_{p,i} \) ) es la eficiencia de remoción adimensional (0–1).
 
 Esta ecuación constituye el **núcleo del modelo**, y se fundamenta en principios clásicos de ingeniería sanitaria (Wastewater Engineering: Treatment and Resource Recovery).
 
@@ -70,9 +68,7 @@ Esta ecuación constituye el **núcleo del modelo**, y se fundamenta en principi
 
 En primera aproximación, se asume:
 
-[
-Q^{salida} = Q^{entrada}
-]
+\( Q^{\text{salida}} = Q^{\text{entrada}} \)
 
 salvo que se introduzcan explícitamente pérdidas por evaporación, infiltración o almacenamiento. Para la mayoría de sistemas descentralizados a escala de barrio o parque, esta hipótesis es válida en fase de planificación.
 
@@ -82,9 +78,7 @@ salvo que se introduzcan explícitamente pérdidas por evaporación, infiltraci�
 
 Para un tren de tratamiento compuesto por *n* unidades:
 
-[
-C_p^{final} = C_p^{influyente} \cdot \prod_{i=1}^{n} (1 - \eta_{p,i})
-]
+\( C_p^{\text{final}} = C_p^{\text{influyente}} \cdot \prod_{i=1}^{n} (1 - \eta_{p,i}) \)
 
 Esta formulación:
 
@@ -98,9 +92,7 @@ Esta formulación:
 
 Cada unidad está sujeta a una restricción de diseño:
 
-[
-Q^{entrada} \leq Q_{max,i}
-]
+\( Q^{\text{entrada}} \leq Q_{\text{max},i} \)
 
 El incumplimiento de esta condición indica:
 
@@ -124,14 +116,14 @@ Este enfoque evita una falsa precisión y es coherente con los lineamientos de s
 
 El consumo energético se estima en orden de magnitud:
 
-[
-E = Q \cdot e_u
-]
+\( E = Q \cdot e_u \)
 
 donde:
 
-* ( Q ) es el caudal tratado,
-* ( e_u ) es un factor energético característico de la unidad (kWh/m³).
+* ( \( Q \)
+Q ) es el caudal tratado,
+* ( \( e_u \)
+ ) es un factor energético característico de la unidad (kWh/m³).
 
 Estos valores se emplean exclusivamente para **comparaciones relativas entre alternativas**, no para optimización detallada.
 
@@ -161,9 +153,7 @@ El Laboratorio de Saneamiento aporta:
 
 Estos datos se incorporan como:
 
-[
-\eta_{p,i} \in [\eta_{min}, \eta_{max}]
-]
+\( \eta_{p,i} \in [\eta_{\text{min}}, \eta_{\text{max}}] \)
 
 permitiendo análisis de escenarios (mejor caso, caso típico, peor caso).
 
