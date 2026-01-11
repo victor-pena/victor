@@ -42,7 +42,7 @@ Lo mencionado lineas arriba pone en cuestión cómo y quién establece las norma
 
 [^1]: Reuters. (2019, octubre 2). Consorcio de empresas chinas gana contrato para construir metro en capital colombiana. Reuters. Recuperado el 12 de enero de 2026, de <https://www.reuters.com/article/world/americas/consorcio-de-empresas-chinas-gana-contrato-para-construir-metro-en-capital-colom-idUSKBN1WW2KY>
 
-[^2]: CGTN America. (2026, Enero 10). Bogotá’s long-awaited Metro: How China became a key partner in Colombia’s biggest transit projecthttps, de <//www.youtube.com/watch?v=5gttqJ5HEtE>
+[^2]: CGTN America. (2026, Enero 10). Bogotá’s long-awaited Metro: How China became a key partner in Colombia’s biggest transit project, de <https://www.youtube.com/watch?v=5gttqJ5HEtE>
 
 [^3]: World Bank, Lima Metro Line 2 Project (P145610). Implementation Completion Report (ICR) Review <https://documents1.worldbank.org/curated/en/493971624280043388/pdf/Peru-PE-Lima-Metro-Line-2-Project.pdf>
 
