@@ -1,5 +1,5 @@
 ---
-title: "Why Chaos Is Not Weakness"
+title: "Peruvian chaos is vital"
 author: "Victor Peña Guillen, PhD"
 date: "January 21, 2026"
 output:
@@ -92,7 +92,7 @@ Peru has been training under these conditions for decades.
 
 ## Synthesis
 
-> In Spinozian terms, Peru is a living body that increases its power to act through conflict and recomposition, while more stable polities preserve themselves by narrowing action — and in a volatile world, life beats order.
+> In Spinozian terms, Peru is a living body that increases its power to act through conflict and recomposition, while more stable polities preserve themselves by narrowing action and, in a volatile world, life beats order.
 
 Peru is not elegant.  
 It is not peaceful.  
