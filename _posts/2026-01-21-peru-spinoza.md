@@ -6,12 +6,12 @@ output:
   html_document: default
 ---
 
-# In Spinozian Terms, Peru Is Doing Well
+# In Spinozian terms, Peru is doing well
 
-By liberal–institutional standards, Peru looks chaotic: unstable governments, permanent conflict, informality everywhere, rules that never fully settle.  
+By liberal–institutional standards, Peru looks chaotic, because of ita unstable governments, permanent conflict, informality everywhere, rules that never fully settle.  
 But in Spinozian terms, this diagnosis is upside down.
 
-For Spinoza, a political body is not evaluated by order, elegance, or moral appearance. It is evaluated by **potentia**: its capacity to *persist, adapt, recombine, and increase its power to act* under changing conditions.
+For Spinoza, a political body is not evaluated by order, elegance, or moral appearance. It is evaluated by **potentia** that is its capacity to *persist, adapt, recombine, and increase its power to act* under changing conditions.
 
 Measured this way, Peru is not failing, instead it is functioning.
 
@@ -25,10 +25,10 @@ A strong political body, for Spinoza, is not one that suppresses conflict, but o
 - learns through encounters,
 - recomposes itself when forms collapse.
 
-Peru does exactly this. Governments fall, institutions fracture, narratives dissolve — yet the collective body persists. That persistence is not inertia; it is **active recomposition**.
+Peru does exactly this. Governments fall, institutions fracture, narratives dissolve, yet the collective body persists. That persistence is not only inertia; it is **active recomposition**.
 
 Chaos here is not a sign of weakness.  
-It is the visible trace of high adaptive capacity.
+It is the visible trace of high adaptive capacity of a society and polity that chose that way.
 
 ---
 
@@ -40,7 +40,7 @@ What is usually called *informality* in Peru is, in Spinozian terms, a **multipl
 - vernacular problem-solving,
 - redundancy instead of single points of failure.
 
-Rather than one unified command, Peru operates through overlapping practices of persistence. This makes the system messy — but resilient.
+Rather than one unified command, Peru operates through overlapping practices of persistence. This makes the system messy but resilient.
 
 A body with many conatus is harder to paralyze than a perfectly ordered one.
 
@@ -61,7 +61,7 @@ But it is also **vital**.
 
 For Spinoza, joy is an increase in the power to act; sadness is its decrease.
 
-Peru is full of suffering — but it also produces moments of collective joy: creation, improvisation, recomposition, initiative. Action remains possible.
+Peru is full of suffering, but it also produces frequent moments of collective joy via creation, improvisation, recomposition, initiative. Action remains possible.
 
 By contrast, systems optimized for calm and predictability often generate a diffuse sadness: resignation, self-censorship, stagnation, grey normality. Order is preserved by shrinking the field of action.
 
