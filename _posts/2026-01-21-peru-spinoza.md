@@ -17,7 +17,7 @@ Measured this way, Peru is not failing, instead it is functioning.
 
 ---
 
-## Potentia, not order
+# Potentia, not order
 
 A strong political body, for Spinoza, is not one that suppresses conflict, but one that:
 - endures shocks without disintegration,
@@ -32,7 +32,7 @@ It is the visible trace of high adaptive capacity of a society and polity that c
 
 ---
 
-## Informality as distributed conatus
+# Informality as distributed conatus
 
 What is usually called *informality* in Peru is, in Spinozian terms, a **multiplicity of conatus**:
 - parallel strategies of survival,
@@ -46,7 +46,7 @@ A body with many conatus is harder to paralyze than a perfectly ordered one.
 
 ---
 
-## Constituent power remains alive
+# Constituent power remains alive
 
 Peru never fully freezes political life into sacred, untouchable institutions. Power is constantly contested, reinterpreted, displaced, and reclaimed.
 
@@ -57,7 +57,7 @@ But it is also **vital**.
 
 ---
 
-## Joy, sadness, and political affect
+# Joy, sadness, and political affect
 
 For Spinoza, joy is an increase in the power to act; sadness is its decrease.
 
@@ -70,7 +70,7 @@ He would choose **joyful turbulence** over **sad stability**.
 
 ---
 
-## A volatile world rewards Spinozian fitness
+# A volatile world rewards Spinozian fitness
 
 In a world of:
 - geopolitical fragmentation,
@@ -90,7 +90,7 @@ Peru has been training under these conditions for decades.
 
 ---
 
-## Synthesis
+# Synthesis
 
 > In Spinozian terms, Peru is a living body that increases its power to act through conflict and recomposition, while more stable polities preserve themselves by narrowing action and, in a volatile world, life beats order.
 
