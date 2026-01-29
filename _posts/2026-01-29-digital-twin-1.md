@@ -6,17 +6,17 @@ output:
   html_document: default
 ---
 
-## Cómo el Asset Register y el IFC activan el gemelo digital
+### Cómo el Asset Register y el IFC activan el gemelo digital
 
-En proyectos como **RESOLVER**, la pregunta *“¿este humedal está sobredimensionado?”* no es una opinión de diseño ni una intuición estética.  
-Esta es una **pregunta operativa**, que solo puede responderse cuando el **BIM se convierte en infraestructura de datos** y entra en funcionamiento el **gemelo digital**.
+En proyectos para la gestión de las aguas residuales y los lodos en pequeñas comunidades periurbanas, mediante el uso de soluciones basadas en la naturaleza (SbN), la pregunta *“¿este humedal está sobredimensionado?”* no es simplemente una opinión de diseño.  
+Esta es una **pregunta operativa**, que puede responderse empleando tecnologia BIM dentro de un sistema digital twin. En este caso se busca que el BIM se convierta en infraestructura de datos para que entre en funcionamiento el **gemelo digital**.
 En este tipo de pregunta concreta el gemelo digital demuestra su valor, no como una tecnología sofisticada, sino como una **infraestructura de aprendizaje y planificación**.
 
 ---
 
-## 1. El corazón del pipeline: Asset Register + estandar IFC
+### 1. El corazón del pipeline: Asset Register + estandar IFC
 
-El **Asset Register (en formato CSV)** es el punto de partida:
+El Asset Register (en formato CSV) es el punto de partida:
 
 - Cada **fila** representa un **objeto BIM real**
 - Cada **columna** representa un **atributo que el gemelo digital necesita**
@@ -33,30 +33,30 @@ Aquí el BIM deja de ser “dibujo” y pasa a ser **base objetiva del sistema**
 
 ---
 
-## 2. ¿Qué significa “sobredimensionado” en términos operativos?
+### 2. ¿Qué significa “sobredimensionado” en términos operativos?
 
 En un gemelo digital de **planificación y validación**, “sobredimensionado” no es un juicio negativo, sino un **diagnóstico técnico** bajo criterios explícitos.
 
 Al menos tres lecturas son posibles:
 
-### a) Sobredimensionamiento hidráulico
+#### a) Sobredimensionamiento hidráulico
 El área del humedal es mayor de lo necesario para el caudal real que recibe.
 
-### b) Sobredimensionamiento por desempeño
+#### b) Sobredimensionamiento por desempeño
 El sistema cumple los objetivos de calidad con amplia holgura, incluso en escenarios exigentes.
 
-### c) Sobredimensionamiento territorial o económico
+#### c) Sobredimensionamiento territorial o económico
 La mejora marginal por unidad de área ya no justifica ocupar más suelo (especialmente en parques públicos).
 
-El gemelo digital permite **distinguir entre estas situaciones**, en lugar de tratarlas como una sola.
+El gemelo digital permite **distinguir entre estas tres situaciones**, en lugar de tratarlas como una sola.
 
 ---
 
-## 3. El test mínimo que puede hacer el gemelo digital
+### 3. El test mínimo que puede hacer el gemelo digital
 
 Sin recurrir a modelos cinéticos complejos, el gemelo puede ejecutar verificaciones simples y robustas.
 
-### 3.1 Carga hidráulica superficial (HLR)
+#### 3.1 Carga hidráulica superficial (HLR)
 
 Una relación básica:
 
@@ -78,7 +78,7 @@ No se busca un valor “universal”, sino:
 
 ---
 
-### 3.2 Análisis por escenarios (la lógica RESOLVER)
+#### 3.2 Análisis por escenarios (la lógica RESOLVER)
 
 El gemelo digital corre escenarios simples:
 
@@ -94,7 +94,7 @@ entonces existe **evidencia técnica de sobredimensionamiento** (o de margen de 
 
 ---
 
-## 4. El cierre del ciclo: datos reales
+### 4. El cierre del ciclo: datos reales
 
 El diagnóstico se consolida cuando entran datos de la realidad:
 
@@ -106,7 +106,7 @@ Cuando el desempeño real es muy holgado y el uso hidráulico es bajo, el gemelo
 
 ---
 
-## 5. Qué decisiones habilita el gemelo digital
+### 5. Qué decisiones habilita el gemelo digital
 
 Detectar sobredimensionamiento no significa “error de diseño”.  
 Significa **opciones abiertas**:
@@ -123,9 +123,9 @@ Aquí el gemelo digital conecta **ingeniería, territorio y política pública**
 
 ---
 
-## 6. Idea clave para cerrar
+### 6. Idea clave para cerrar
 
-> El BIM define los activos, el Asset Register los vuelve operables, el IFC los estabiliza como infraestructura de datos y el gemelo digital les da comportamiento.  
+> El BIM define los activos, el Asset Register los vuelve operables, el IFC los estabiliza como infraestructura de datos y el gemelo digital les da el comportamiento.  
 > Solo entonces preguntas como “¿este humedal está sobredimensionado?” dejan de ser intuitivas y se vuelven decisiones informadas.
 
 ---
