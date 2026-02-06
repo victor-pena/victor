@@ -6,9 +6,7 @@ output:
   html_document: default
 ---
 
-### Herramientas para ativar el gemelo digital: el Asset Register y el IFC
-
-En proyectos para la gestión de las aguas residuales y los lodos en pequeñas comunidades periurbanas, mediante el uso de soluciones basadas en la naturaleza (SbN), el dimensionamiento de humedales es una consideración para optimizar el diseño de este tipo de SbN.  
+En proyectos para la gestión de las aguas residuales y los lodos en pequeñas comunidades periurbanas, mediante el uso de soluciones basadas en la naturaleza (SbN), el dimensionamiento de humedales es una consideración para optimizar el diseño de este tipo de esquemas complementarios.  
 El empleo de tecnología BIM dentro de un sistema de tratamiento y reuso, busca que este se represente a través de una infraestructura de datos para que funcione el **gemelo digital**.
 El gemelo digital demuestra su valor, no como una tecnología sofisticada, sino como una **infraestructura de aprendizaje y planificación**.
 
