@@ -8,7 +8,7 @@ output:
 
 El **Puente Santa Rosa** ha sido presentada como una obra largamente retrasada, un acceso pendiente al nuevo Aeropuerto Internacional Jorge Chávez que finalmente empieza a resolverse. La última semana se han presentado nuevas noticias al respecto que proveen oportunidades para abordar la complejidad de la infraestructura gestionada por el Estado.
 
-Tras la ultima decision de Provias Nacional, resolviendo el contrato con la empresa constructora francesa Egis, las obras bajo la gestión de esta Project Management Office-PMO (entre ellas el puente Santa Rosa) van a requerir abordarse dentro de la flexibilidad que provee este esquema y su contrato.
+Tras la ultima decision de Provias Nacional[^1], resolviendo el contrato con la empresa constructora francesa Egis, las obras bajo la gestión de esta Project Management Office-PMO (entre ellas el puente Santa Rosa) van a requerir abordarse dentro de la flexibilidad que provee este esquema y su contrato.
 
 De esta manera, el puente Santa Rosa no es solo una infraestructura física; los problemas que en los últimos han afectado su construcción lo ha convertido en un **elemento de credibilidad** de la función pública. Lo que pone en prueba no es únicamente la capacidad de cruzar el río a través de un tramo vial, sino la capacidad del Estado peruano de **gobernar un proyecto crítico**, en un nivel superior de complejidad, para tomar decisiones bajo presión y sostenerlas institucionalmente después de años de fallas acumuladas.
 
@@ -98,8 +98,9 @@ Por eso Santa Rosa no es solo un acceso al aeropuerto, se ha convertido en un **
 
 ## Conclusión
 
-> **El Puente Santa Rosa conecta el espacio urbano, mientras que el PMO debe conectar promesas con resultados.**  
-> Si falla uno, falla el otro.
+> La obra de Santa Rosa depende del funcionamiento técnico y también institucional, ambos se tienen que abordar en conjunto para que el costo social y político no sea mayor que cualquier sobrecosto de construcción.  
+> Si logra ambas cosas, la infraestructura se convertirá en algo poco frecuente: **reconstrucción de la confianza política**. La gestión del gobierno, dependiente del Ministerio de Transportes y de Provias Nacional, está abordando esta dimensión donde convergen la técnica y la política.
 
-Si Santa Rosa funciona técnicamente pero fracasa institucionalmente, el costo será mayor que cualquier sobrecosto de obra.  
-Si logra ambas cosas, se convertirá en algo poco frecuente: una infraestructura que **reconstruye confianza política**, solo mediante una gestion efectiva del gobierno, del Ministario de Transportes y de Provias Nacional, una dimensión donde convergen la técnica y la política.
+### Referencia
+
+[^1]: Diario Correo. Ministerio de Transportes y Comunicaciones excluye a PMO Vías de la Nueva Carretera Central (7FEB2026) <https://diariocorreo.pe/economia/ministerio-de-transportes-y-comunicaciones-excluye-a-pmo-vias-de-la-nueva-carretera-central-noticia/>
