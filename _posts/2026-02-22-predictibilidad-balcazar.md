@@ -1,5 +1,5 @@
-A---
-title: "Soberanía contingente en la presidencia de José María Balcázar"
+---
+title: "Predictibilidad en la presidencia de José María Balcázar"
 author: "Victor Peña Guillen, PhD"
 date: "February 19, 2026"
 output:
