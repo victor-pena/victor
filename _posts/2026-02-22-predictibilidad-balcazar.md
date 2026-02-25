@@ -1,7 +1,7 @@
 ---
 title: "Predictibilidad en la presidencia de José María Balcázar"
 author: "Victor Peña Guillen, PhD"
-date: "February 19, 2026"
+date: "February 21, 2026"
 output:
   html_document: default
 ---
