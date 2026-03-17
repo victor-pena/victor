@@ -6,15 +6,15 @@ output:
   html_document: default
 ---
 
-# 🔌⚓ Taller
+## 🔌⚓ Taller
 
-## 🧭 Objetivo
+### 🧭 Objetivo
 
 Analizar cómo el sistema eléctrico de transmisión (SEIN) y la infraestructura logística configuran a Pisco como un nodo territorial estratégico, y formular propuestas de ordenamiento territorial.
 
 ---
 
-## 🧠 Marco conceptual
+### 🧠 Marco conceptual
 
 - La electricidad no es solo energía: es **infraestructura territorial**.
 - Las redes eléctricas configuran **corredores energéticos**.
@@ -26,7 +26,7 @@ Analizar cómo el sistema eléctrico de transmisión (SEIN) y la infraestructura
 
 ---
 
-## 🧩 Estructura del taller
+### 🧩 Estructura del taller
 
 | Fase | Tiempo | Enfoque |
 |------|-------|--------|
@@ -39,13 +39,13 @@ Analizar cómo el sistema eléctrico de transmisión (SEIN) y la infraestructura
 
 ---
 
-# 🔹 Fase 1 – Introducción (20 min)
+## 🔹 Fase 1 – Introducción (20 min)
 
-## Pregunta detonante
+### Pregunta inicial
 
 > ¿Puede existir desarrollo logístico sin soporte energético adecuado?
 
-## Conceptos clave
+### Conceptos clave
 
 - Nodo
 - Red
@@ -55,33 +55,33 @@ Analizar cómo el sistema eléctrico de transmisión (SEIN) y la infraestructura
 
 ---
 
-# 🌍 Fase 2 – Lectura territorial (40 min)
+## 🌍 Fase 2 – Lectura territorial (40 min)
 
-## Objetivo
+### Objetivo
 
 Identificar cómo el territorio de Pisco está estructurado por infraestructuras y flujos.
 
-## Preguntas guía
+### Preguntas guía
 
-### 2.1 Identificación del nodo
+#### 2.1 Identificación del nodo
 
 - ¿Qué tipo de nodo es Pisco?
 
 ---
 
-### 2.2 Infraestructura estructurante
+#### 2.2 Infraestructura estructurante
 
 - ¿Qué infraestructuras organizan el territorio?
 
 ---
 
-### 2.3 Flujos territoriales
+#### 2.3 Flujos territoriales
 
 - ¿Qué flujos atraviesan Pisco?
 
 ---
 
-### 2.4 Relación multiescalar
+#### 2.4 Relación multiescalar
 
 - ¿Cómo se conecta Pisco con:
   - Lima?
@@ -90,39 +90,39 @@ Identificar cómo el territorio de Pisco está estructurado por infraestructuras
 
 ---
 
-## Entregable
+### Entregable
 
 - Esquema o mapa conceptual
 
 ---
 
-# ⚡ Fase 3 – Energía y economía (40 min)
+## ⚡ Fase 3 – Energía y economía (40 min)
 
-## Objetivo
+### Objetivo
 
 Comprender cómo la energía condiciona la economía regional.
 
-## Preguntas guía
+### Preguntas guía
 
-### 3.1 Dependencia energética
+#### 3.1 Dependencia energética
 
 - ¿Qué actividades económicas dependen de la energía en Pisco?
 
 ---
 
-### 3.2 Ventajas territoriales
+#### 3.2 Ventajas territoriales
 
 - ¿Qué ventajas ofrece la conexión al SEIN?
 
 ---
 
-### 3.3 Especialización territorial
+#### 3.3 Especialización territorial
 
 - ¿Qué tipo de territorio produce Pisco?
 
 ---
 
-### 3.4 Escenario crítico
+#### 3.4 Escenario crítico
 
 - ¿Qué ocurriría si:
   - aumenta el costo eléctrico?
@@ -130,27 +130,27 @@ Comprender cómo la energía condiciona la economía regional.
 
 ---
 
-## Pregunta crítica
+### Pregunta crítica
 
 > ¿La energía sigue a la economía o la economía sigue a la energía?
 
 ---
 
-# 💰 Fase 4 – Tarifas y decisiones territoriales (40 min)
+## 💰 Fase 4 – Tarifas y decisiones territoriales (40 min)
 
-## Objetivo
+### Objetivo
 
 Analizar cómo las tarifas eléctricas influyen en el territorio.
 
-## Preguntas guía
+### Preguntas guía
 
-### 4.1 Tarifas reguladas
+#### 4.1 Tarifas reguladas
 
 - ¿Por qué la transmisión eléctrica tiene tarifas reguladas?
 
 ---
 
-### 4.2 Impacto territorial
+#### 4.2 Impacto territorial
 
 - ¿Cómo influyen las tarifas en:
   - localización industrial?
@@ -158,14 +158,14 @@ Analizar cómo las tarifas eléctricas influyen en el territorio.
 
 ---
 
-### 4.3 Costos marginales
+#### 4.3 Costos marginales
 
 - ¿Pisco presenta costos energéticos altos o bajos?
 - ¿Por qué?
 
 ---
 
-### 4.4 Congestión
+#### 4.4 Congestión
 
 - ¿Dónde podrían existir cuellos de botella?
   - eléctricos
@@ -173,33 +173,33 @@ Analizar cómo las tarifas eléctricas influyen en el territorio.
 
 ---
 
-## Pregunta crítica
+### Pregunta crítica
 
 > ¿El sistema eléctrico corrige desigualdades territoriales o las reproduce?
 
 ---
 
-# 🚧 Fase 5 – Propuesta estratégica (30 min)
+## 🚧 Fase 5 – Propuesta estratégica (30 min)
 
-## Objetivo
+### Objetivo
 
 Formular propuestas de ordenamiento territorial.
 
 ## Preguntas guía
 
-### 5.1 Problemas territoriales
+#### 5.1 Problemas territoriales
 
 - Identificar 3 problemas clave
 
 ---
 
-### 5.2 Oportunidades
+#### 5.2 Oportunidades
 
 - Identificar 3 oportunidades estratégicas
 
 ---
 
-### 5.3 Propuesta de intervención
+#### 5.3 Propuesta de intervención
 
 - Diseñar una propuesta que integre:
   - energía
@@ -208,19 +208,19 @@ Formular propuestas de ordenamiento territorial.
 
 ---
 
-### 5.4 Escenario futuro
+#### 5.4 Escenario futuro
 
 - ¿Qué tipo de nodo debería ser Pisco en 10 años?
 
 ---
 
-## Entregable
+### Entregable
 
 - Propuesta breve (máx. 1 página)
 
 ---
 
-# 🧠 Fase 6 – Cierre (10 min)
+## 🧠 Fase 6 – Cierre (10 min)
 
 ## Pregunta de síntesis
 
@@ -228,8 +228,7 @@ Formular propuestas de ordenamiento territorial.
 
 ---
 
-
-# 📊 Criterios de evaluación
+### 📊 Criterios de evaluación
 
 | Criterio | Nivel esperado |
 |---------|--------------|
@@ -241,12 +240,12 @@ Formular propuestas de ordenamiento territorial.
 
 ---
 
-# 🧩 Clave conceptual del taller
+### 🧩 Clave conceptual del taller
 
 > El sistema eléctrico no solo conecta territorios: los **clasifica, jerarquiza y habilita económicamente**.
 
 ---
 
-# ✍️ Nota final
+### ✍️ Nota final
 
 Este ejercicio busca desplazar la mirada desde la infraestructura como soporte técnico hacia su comprensión como **estructura activa de organización territorial**, donde la energía, la economía y la política se entrelazan.
