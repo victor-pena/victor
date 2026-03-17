@@ -67,19 +67,13 @@ Identificar cómo el territorio de Pisco está estructurado por infraestructuras
 
 - ¿Qué tipo de nodo es Pisco?
 
----
-
 #### 2.2 Infraestructura estructurante
 
 - ¿Qué infraestructuras organizan el territorio?
 
----
-
 #### 2.3 Flujos territoriales
 
 - ¿Qué flujos atraviesan Pisco?
-
----
 
 #### 2.4 Relación multiescalar
 
@@ -87,8 +81,6 @@ Identificar cómo el territorio de Pisco está estructurado por infraestructuras
   - Lima?
   - el sur minero?
   - el mercado internacional?
-
----
 
 ### Entregable
 
@@ -108,27 +100,19 @@ Comprender cómo la energía condiciona la economía regional.
 
 - ¿Qué actividades económicas dependen de la energía en Pisco?
 
----
-
 #### 3.2 Ventajas territoriales
 
 - ¿Qué ventajas ofrece la conexión al SEIN?
 
----
-
 #### 3.3 Especialización territorial
 
 - ¿Qué tipo de territorio produce Pisco?
-
----
 
 #### 3.4 Escenario crítico
 
 - ¿Qué ocurriría si:
   - aumenta el costo eléctrico?
   - falla la red?
-
----
 
 ### Pregunta crítica
 
@@ -148,30 +132,22 @@ Analizar cómo las tarifas eléctricas influyen en el territorio.
 
 - ¿Por qué la transmisión eléctrica tiene tarifas reguladas?
 
----
-
 #### 4.2 Impacto territorial
 
 - ¿Cómo influyen las tarifas en:
   - localización industrial?
   - competitividad regional?
 
----
-
 #### 4.3 Costos marginales
 
 - ¿Pisco presenta costos energéticos altos o bajos?
 - ¿Por qué?
-
----
 
 #### 4.4 Congestión
 
 - ¿Dónde podrían existir cuellos de botella?
   - eléctricos
   - logísticos
-
----
 
 ### Pregunta crítica
 
@@ -191,13 +167,9 @@ Formular propuestas de ordenamiento territorial.
 
 - Identificar 3 problemas clave
 
----
-
 #### 5.2 Oportunidades
 
 - Identificar 3 oportunidades estratégicas
-
----
 
 #### 5.3 Propuesta de intervención
 
@@ -206,13 +178,9 @@ Formular propuestas de ordenamiento territorial.
   - infraestructura
   - territorio
 
----
-
 #### 5.4 Escenario futuro
 
 - ¿Qué tipo de nodo debería ser Pisco en 10 años?
-
----
 
 ### Entregable
 
