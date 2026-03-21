@@ -1,5 +1,5 @@
 ---
-title: "Perú como sistema complejo"
+title: "El Perú como un sistema complejo"
 author: "Victor Peña Guillen, PhD"
 date: "March 20, 2026"
 output:
