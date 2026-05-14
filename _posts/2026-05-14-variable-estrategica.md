@@ -1,7 +1,7 @@
 ---
 title: "Identificación de la Variable Estratégica"
 author: "Victor Peña Guillen, PhD"
-date: "14 de Mayo 2026"
+date: "May 14, 2026"
 output:
   html_document: default
 ---
