@@ -1,5 +1,5 @@
 ---
-title: "El Potencial Estratégico de los Data Centers en el Perú"
+title: "El potencial estratégico de los Data Centers en el Perú"
 author: "Victor Peña Guillen, PhD"
 date: "May 14, 2026"
 output:
