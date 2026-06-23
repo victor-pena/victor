@@ -43,9 +43,9 @@ Se recomienda incluir un mapa de ubicación.
 
 ---
 
-# 3. Fase I. Análisis de la Situación Actual
+## 3. Fase I. Análisis de la Situación Actual
 
-## 3.1 Problema público
+# 3.1 Problema público
 
 Presentar:
 
@@ -61,7 +61,7 @@ Incluir la matriz trabajada durante el taller.
 
 ---
 
-## 3.2 Potencialidades
+# 3.2 Potencialidades
 
 Presentar la matriz de potencialidades.
 
@@ -69,7 +69,7 @@ Explicar por qué dichas capacidades representan oportunidades para el desarroll
 
 ---
 
-## 3.3 Variables estratégicas
+# 3.3 Variables estratégicas
 
 Identificar y justificar las variables seleccionadas.
 
@@ -81,9 +81,9 @@ Para cada variable explicar:
 
 ---
 
-# 4. Fase II. Análisis Prospectivo
+## 4. Fase II. Análisis Prospectivo
 
-## 4.1 Tendencias
+# 4.1 Tendencias
 
 Seleccionar las tendencias más relevantes.
 
@@ -95,7 +95,7 @@ Para cada una indicar:
 
 ---
 
-## 4.2 Riesgos y oportunidades
+# 4.2 Riesgos y oportunidades
 
 Presentar:
 
@@ -107,23 +107,17 @@ Explicar cuáles representan los principales desafíos para Pisco.
 
 ---
 
-## 4.3 Construcción de escenarios
+# 4.3 Construcción de escenarios
 
 Desarrollar el procedimiento seguido:
 
-### Paso 1
+- Paso 1: Agrupación temática.
 
-Agrupación temática.
+- Paso 2: Análisis de impacto sobre las variables estratégicas.
 
-### Paso 2
+- Paso 3: Narrativa del escenario.
 
-Análisis de impacto sobre las variables estratégicas.
-
-### Paso 3
-
-Narrativa del escenario.
-
-Presentar al menos tres escenarios:
+Presentar los tres escenarios:
 
 * escenario tendencial;
 * escenario crítico;
@@ -157,29 +151,12 @@ Las conclusiones deben centrarse en:
 
 # Referencias
 
-Utilizar formato APA.
-
-Incluir documentos de:
-
 * CEPLAN;
 * MTC;
 * MINEM;
 * INEI;
 * Gobierno Regional de Ica;
 * literatura científica utilizada.
-
----
-
-# Anexos
-
-Incluir:
-
-* mapas;
-* matrices;
-* tablas;
-* fotografías;
-* gráficos;
-* cualquier información complementaria.
 
 ---
 
