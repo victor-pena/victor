@@ -1,5 +1,5 @@
 ---
-title: "Guía para el Informe Final del Taller"
+title: "Guía para el informe final del Taller"
 author: "Victor Peña Guillen, PhD"
 date: "June 22, 2026"
 output:
@@ -14,18 +14,7 @@ El informe tiene como finalidad integrar los resultados obtenidos durante el tal
 
 El informe deberá demostrar la capacidad del grupo para interpretar el territorio como un sistema complejo y proponer una lectura estratégica del caso de estudio.
 
----
-
 # Estructura del Informe
-
-## Carátula
-
-* Universidad Nacional Agraria La Molina
-* Curso: Ordenamiento Territorial
-* Título del informe
-* Integrantes
-* Docente
-* Fecha
 
 ---
 
@@ -187,7 +176,6 @@ Incluir:
 
 * mapas;
 * matrices;
-* redes elaboradas en Gephi;
 * tablas;
 * fotografías;
 * gráficos;
@@ -197,12 +185,7 @@ Incluir:
 
 # Formato
 
-* Extensión: 15–20 páginas (sin anexos).
-* Letra: Calibri o Arial 11.
-* Interlineado: 1.5.
-* Márgenes: 2.5 cm.
-* Figuras y tablas numeradas.
-* Todas las fuentes correctamente citadas.
+* Presentacion (extensión: 15–20 laminas).
 
 ---
 
@@ -220,6 +203,6 @@ Incluir:
 
 # Producto esperado
 
-Más que un informe académico, el producto final debe asemejarse a un **informe técnico de diagnóstico y prospectiva territorial**, capaz de sustentar decisiones de planificación, inversión y gestión pública.
+Más que un informe académico, el producto final debe asemejarse a la presentacion de un **informe técnico de diagnóstico y prospectiva territorial**, capaz de sustentar decisiones de planificación, inversión y gestión pública.
 
 El objetivo no es únicamente describir el territorio, sino demostrar cómo el análisis de problemas públicos, potencialidades, variables estratégicas y escenarios permite orientar intervenciones para el desarrollo territorial sostenible.
