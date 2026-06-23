@@ -10,17 +10,11 @@ output:
 
 ### Objetivo
 
-El informe tiene como finalidad integrar los resultados obtenidos durante el taller, aplicando la metodología de la **Guía CEPLAN para el Plan de Desarrollo Local Concertado (PDLC) 2024**, desde el análisis de la situación actual hasta la formulación de escenarios prospectivos.
+La presentacion tiene como finalidad integrar los resultados obtenidos durante el taller, aplicando la metodología de la **Guía CEPLAN para el Plan de Desarrollo Local Concertado (PDLC) 2024**, desde el análisis de la situación actual hasta la formulación de escenarios prospectivos.
 
-El informe deberá demostrar la capacidad del grupo para interpretar el territorio como un sistema complejo y proponer una lectura estratégica del caso de estudio.
+El trabajo deberá demostrar la capacidad del grupo para interpretar el territorio como un sistema complejo y proponer una lectura estratégica del caso de estudio.
 
 # Estructura del Informe
-
----
-
-# Índice
-
----
 
 # 1. Introducción
 
