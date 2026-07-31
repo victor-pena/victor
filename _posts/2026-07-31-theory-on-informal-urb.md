@@ -14,4 +14,8 @@ Moreover these neighborhood organizations, transport unions, informal markets an
 
 Informality is not merely illegal housing at the city margins.
 It is the emergence of a new multitude; it is agents collectively producing neighborhoods, economies, infrastructure, social organization.
-During this iterative game, the still working State eventually recognizes what already exists; thus, government is no longer the sole actor.
+During this iterative game, the still working State eventually recognizes what already exists; thus, government is no longer the sole player.
+
+Building further into the conceptual and ontological elaboration of this phenomena, the (player) multitude is not a social class, it is a mode of social existence. This is surprisingly similar to assemblage theory, where assemblages are not objects, they are configurations of relations.
+In the intersection with intellect and politics, labor (production of spave) now includes communication, affects, language, cooperation and culture.
+In this 'operaio' inspired elaboration, the production process is reversed. Society experiments first, Capital later appropriates labor. In the political practice, constituent power never disappears, it continuously produces new institutions.
