@@ -38,7 +38,7 @@ Yet every political virtue contains the possibility of becoming its own limitati
 
 When institutional reproduction becomes more important than institutional adaptation, societies begin selecting leaders primarily for their compatibility with the existing order rather than for their capacity to transform it. Stability slowly evolves into path dependence.
 
-Pierre Bourdieu described this process as the **reproduction of the field**. Political, bureaucratic, academic and media elites reproduce the symbolic capital that legitimizes their own position. Innovation increasingly comes from within the accepted boundaries of the field. Criticism remains permissible provided it does not fundamentally challenge the underlying rules.
+Pierre Bourdieu described this process as the **reproduction of the field**[^1]. Political, bureaucratic, academic and media elites reproduce the symbolic capital that legitimizes their own position. Innovation increasingly comes from within the accepted boundaries of the field. Criticism remains permissible provided it does not fundamentally challenge the underlying rules.
 
 The result is a polity optimized for continuity.
 
@@ -67,3 +67,7 @@ Institutional societies without adaptation become rigid.
 The challenge of the twenty-first century is to build republics capable of combining the openness of Athens with the institutional discipline of Sparta.
 
 That balance, rather than the victory of one model over the other, may determine which societies become the principal organizers of South America's future.
+
+---
+[^1] Note
+A field is not simply an institution. It is a structured social space—politics, academia, journalism, bureaucracy, business—in which actors compete for authority according to rules that are largely accepted by everyone participating. Each field defines what counts as competence, legitimacy, prestige and success.
