@@ -1,5 +1,5 @@
 ---
-title: "Athens and the Many Spartas of South America"
+title: "Athens and the many Spartas of South America"
 author: "Victor Peña Guillen, PhD"
 date: "August 6, 2026"
 output:
