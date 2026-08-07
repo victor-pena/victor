@@ -10,7 +10,7 @@ South America is usually interpreted through ideologies: left versus right, popu
 
 **How does a society organize power?**
 
-Classical Greece offers two ideal types that remain surprisingly useful.
+Classical Greece statehood offers two ideal types that remain surprisingly useful.
 
 Athens organized power through commerce, navigation, openness, public debate, and continuous interaction with the outside world. Wealth emerged from exchange. Political life was noisy, unstable and often contradictory, but remarkably creative. Athens constantly absorbed foreigners, merchants, artisans and new ideas. Its strength was movement.
 
