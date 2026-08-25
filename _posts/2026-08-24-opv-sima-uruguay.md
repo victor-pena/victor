@@ -123,10 +123,6 @@ Por ello, la oportunidad uruguaya merece ser considerada no solamente como una p
 
 ### Referencias
 
-Sure. For a policy brief or academic document, I would format the references in **APA 7th edition** like this. Where the institutional page does not clearly identify an individual author, the institution is treated as the corporate author.
-
-### References
-
 [^1]: Presidencia de la República Oriental del Uruguay. (2026, February 13). *Resolución S/N/026: Se rescinde contrato construcción venta buques OPV*. Gobierno de Uruguay. [Presidencia de Uruguay](https://www.gub.uy/presidencia/institucional/normativa/resolucion-sn026-se-rescinde-contrato-construccion-venta-buques-opv?utm_source=chatgpt.com)
 
 [^2]: Marina de Guerra del Perú. (2024). *SIMA Perú y Hyundai inician trabajos para la elaboración de expedientes técnicos de proyectos de construcción naval*. Gobierno del Perú. [Marina de Guerra del Perú](https://www.gob.pe/institucion/marina/noticias/970506-sima-peru-y-hyundai-inician-trabajos-para-la-elaboracion-de-expedientes-tecnicos-de-proyectos-de-construccion-naval?utm_source=chatgpt.com)
