@@ -1,5 +1,5 @@
 ---
-title: "Oportunidad estratégica para la exportación de una OPV de SIMA Perú a Uruguay"
+title: "La exportación de una OPV de SIMA Perú a Uruguay"
 author: "Victor Peña Guillen, PhD"
 date: "August 24, 2026"
 output:
