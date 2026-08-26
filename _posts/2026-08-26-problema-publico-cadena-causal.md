@@ -8,7 +8,7 @@ output:
 
 ## Del problema observado a la cadena causal
 
-En el diagnóstico territorial no basta con elaborar una lista de dificultades. El propósito de este paso es transformar las situaciones observadas en **problemas públicos claramente formulados y explicados**, de manera que, posteriormente, estos problemas bien definidos puedan orientar las decisiones de planificación territorial.
+En el diagnóstico territorial no basta con elaborar una lista de dificultades comunes a la poblacion. El propósito de este paso es transformar las situaciones observadas en **problemas públicos claramente formulados y explicados**, de manera que, posteriormente, estos problemas bien definidos puedan orientar las decisiones de planificación territorial.
 
 De acuerdo con CEPLAN, un problema público es una situación que afecta a las personas o a su entorno y que representa una necesidad colectiva, carencia, insatisfacción o un riesgo que se desea evitar o mitigar. Su formulación debe ser breve, clara y precisa, y no debe confundirse con la ausencia de una solución.
 
