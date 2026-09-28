@@ -36,6 +36,8 @@ Y empieza a parecerse al bálsamo de Fierabrás[^3]:
 
 **quizá no cure el mal, pero permite levantarse convencido de que la aventura no ha salido tan mal.**
 
+Desde Bourdieu, este mecanismo puede leerse como algo más que una simple comparación. Las representaciones históricamente legitimadas de una sociedad pueden acumular capital simbólico hasta contribuir a definir las categorías mediante las cuales esa misma sociedad interpreta la evidencia que la contradice (Bourdieu, 1998).
+
 ---
 Nota: La expresión “el bálsamo quijotesco de compararse con otros” es una elaboración propia inspirada en el bálsamo de Fierabrás de Don Quijote. Se utiliza como metáfora del mecanismo mediante el cual una comparación favorable puede relativizar evidencia incómoda sin resolver el problema que la originó.
 
