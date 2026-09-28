@@ -1,7 +1,7 @@
 ---
 title: "El bálsamo quijotesco de compararse con otros"
 author: "Victor Peña Guillen, PhD"
-date: "September 25, 2026"
+date: "September 28, 2026"
 output:
   html_document: default
 ---
