@@ -1,12 +1,10 @@
 ---
-title: "El Estado sin margen de maniobra en el Puerto de Montevideo"
+title: "El bálsamo quijotesco de compararse con otros"
 author: "Victor Peña Guillen, PhD"
 date: "September 25, 2026"
 output:
   html_document: default
 ---
-
-# El bálsamo quijotesco de compararse con otros
 
 “Esta sociedad hace maravillas, reconozcámoslo”, afirma Luis Bértola al hablar, entre otras cosas, del Fondo Nacional de Recursos[^1]. Y no lo dice quien desconozca los males del reino: en la misma conversación reconoce ineficiencias, fragmentaciones y dificultades productivas.
 
