@@ -6,7 +6,7 @@ output:
   html_document: default
 ---
 
-“Esta sociedad hace maravillas, reconozcámoslo”, afirma Luis Bértola al hablar, entre otras cosas, del Fondo Nacional de Recursos[^1]. Y no lo dice quien desconozca los males del reino: en la misma conversación reconoce ineficiencias, fragmentaciones y dificultades productivas.
+“Esta sociedad hace maravillas, reconozcámoslo”, afirma Luis Bértola al hablar, entre otras cosas, del Fondo Nacional de Recursos[^1]. Y no lo dice quien desconozca los males de Uruguay, pues en la misma conversación reconoce ineficiencias, fragmentaciones y dificultades productivas del pais.
 
 Pero acontece aquí cosa digna de atención.
 
@@ -14,17 +14,17 @@ Cada vez que asoma un entuerto —la educación que no alcanza, la consulta méd
 
 **“Sí, pero comparado con América Latina…”**
 
-Y con tan breve fórmula el problema no desaparece, pero muda de condición. Lo grave se vuelve relativo; lo estructural, circunstancial; y aquello que acaso obligaba a revisar el camino termina sirviendo para confirmar que no se andaba tan mal[^2].
+Y con tan breve fórmula el problema no desaparece, pero muda de condición. Lo grave se vuelve relativo; lo estructural, circunstancial; y aquello que acaso obligaba a revisar el camino termina sirviendo para confirmar que no se andaba tan mal.
 
 Es el **bálsamo quijotesco de compararse con otros**.
 
 No importa aquí decidir si los gigantes son gigantes o molinos. Importa preguntarse quién estableció la manera correcta de mirarlos.
 
-Durante generaciones, determinadas representaciones sobre el Estado social, la democracia, la educación pública y la estabilidad fueron incorporándose al relato que Uruguay hizo de sí mismo. Repetidas dentro y fuera del país, adquirieron autoridad y terminaron convirtiéndose también en medida de la realidad.
+Durante generaciones, determinadas representaciones sobre el Estado social, la democracia, la educación pública y la estabilidad fueron incorporándose al relato que notorios poersonajes de Uruguay hicieron de su pais. Repetidas dentro y fuera del de las fronteras, adquirieron autoridad y terminaron convirtiéndose también en medida de la realidad[^2].
 
 Por eso, cuando la realidad contradice al relato, no siempre cambia el relato.
 
-A veces cambia la interpretación de la realidad:
+Sucede a veces que cambia la interpretación de la realidad:
 
 **problema → comparación → relativización → tranquilidad.**
 
