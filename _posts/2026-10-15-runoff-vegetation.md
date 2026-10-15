@@ -18,7 +18,7 @@ An important challenge concerns the interpretation of model results. For example
 
 Several hydrological studies illustrate this complexity.
 
-![runoff]({{ "/assets/ffpri_fig1.jpeg" | relative_url }})
+![runoff]({{ "/assets/ffpri_fig1.png" | relative_url }})
 *Vegetation, soil properties and topography influence evapotranspiration, infiltration and runoff*
 
 Research on vegetation greening highlights the relationship between vegetation development and transpiration, suggesting that changes in vegetation cover can alter terrestrial water balances. Studies of agricultural hillslopes demonstrate that runoff generation depends not only on surface vegetation but also on subsurface soil properties, saturation conditions, and topographic position. Other investigations reveal how uncertainties in precipitation, soil parameters, and hydrological processes can affect model performance, sometimes producing compensating errors.
