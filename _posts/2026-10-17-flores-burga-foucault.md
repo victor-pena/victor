@@ -8,7 +8,7 @@ output:
 
 **Cuando la crítica del poder se convierte en ejercicio de poder**
 
-A proposito de una entrevista de Javier Torres a Manuel Burga [^1], esta nos muestra que hay una paradoja entre ciertos intelectuales que reivindican a Foucault. Estos denuncian los mecanismos de dominación, cuestionan la autoridad y defienden el pluralismo, pero no siempre someten sus propias prácticas discursivas al mismo examen crítico. Frente a posiciones discrepantes, su argumento puede ser sustituido por la descalificación moral.
+A proposito de una entrevista de Javier Torres a Manuel Burga[^1], esta nos muestra que hay una paradoja entre ciertos intelectuales que reivindican a Foucault. Estos denuncian los mecanismos de dominación, cuestionan la autoridad y defienden el pluralismo, pero no siempre someten sus propias prácticas discursivas al mismo examen crítico. Frente a posiciones discrepantes, su argumento puede ser sustituido por la descalificación moral.
 
 Deleuze y Guattari ofrecen una explicación más interesante que la simple hipocresía, para ambos el deseo también inviste las jerarquías, las instituciones y las relaciones de autoridad, incluso dentro de movimientos que se proclaman emancipadores.
 
@@ -20,4 +20,4 @@ Quizá la prueba más exigente del pensamiento crítico sea aplicarlo a las prop
 
 ### Referencia
 
-[^1]: Al Filo. (2026, 16 de octubre). La disputa por la historia del Perú y el legado de Michel Foucault | Manuel Burga en Al Filo [Video]. YouTube. https://www.youtube.com/watch?v=id4W6Ry-NbY
+[^1]: Al Filo. (2026, 16 de octubre). La disputa por la historia del Perú y el legado de Michel Foucault, Manuel Burga en Al Filo [Video]. YouTube. https://www.youtube.com/watch?v=id4W6Ry-NbY
