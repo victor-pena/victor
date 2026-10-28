@@ -228,7 +228,7 @@ Procedimiento:
 
 ---
 
-# 7. Paso 8: Construcción y análisis de escenarios
+## 7. Paso 8: Construcción y análisis de escenarios
 
 Este es el momento central del taller.
 
@@ -238,7 +238,7 @@ No basta con reunir estos elementos en una lista.
 
 **Es necesario explicar cómo se relacionan y qué transformaciones territoriales podrían producir.**
 
-## 7.1. Primera actividad: agrupación temática
+### 7.1. Primera actividad: agrupación temática
 
 Agrupar las tendencias, riesgos y oportunidades seleccionados en conjuntos relacionados.
 
@@ -253,7 +253,7 @@ Para el corredor de Chancay podrían utilizarse cuatro grupos:
 
 Los grupos son categorías de análisis, no escenarios.
 
-## 7.2. Segunda actividad: análisis de impactos
+### 7.2. Segunda actividad: análisis de impactos
 
 Analizar cómo los factores de cada grupo podrían modificar las variables estratégicas.
 
@@ -291,7 +291,7 @@ El modelo permite formular hipótesis sobre la emergencia de patrones territoria
 | Congestión | Accesibilidad | Aumento de costos de transporte | Búsqueda de ubicaciones alternativas |
 | Coordinación institucional | Gobernanza territorial | Acuerdos y aplicación de reglas | Mayor capacidad de orientar inversiones |
 
-## 7.3. Tercera actividad: construcción de escenarios
+### 7.3. Tercera actividad: construcción de escenarios
 
 Cada grupo construirá dos o tres escenarios alternativos.
 
@@ -331,7 +331,7 @@ Estos escenarios son ejemplos hipotéticos. Los grupos deberán construir los su
 
 ---
 
-# 8. ¿Cómo redactar una narrativa territorial?
+## 8. ¿Cómo redactar una narrativa territorial?
 
 Cada narrativa deberá responder:
 
@@ -370,7 +370,7 @@ Los grupos deberán justificar cada impacto y señalar los aspectos de mayor inc
 
 ---
 
-# 9. Representación espacial de los escenarios
+## 9. Representación espacial de los escenarios
 
 **Un escenario territorial debe poder representarse espacialmente.**
 
@@ -393,7 +393,7 @@ Se busca representar una configuración territorial coherente con la narrativa.
 
 ---
 
-# 10. La dimensión política de los escenarios
+## 10. La dimensión política de los escenarios
 
 Los escenarios no describen únicamente cambios físicos, económicos o ambientales.
 
@@ -426,7 +426,7 @@ La autoridad formal no siempre coincide con la capacidad efectiva de transformar
 
 ---
 
-# 11. Paso 9: Construcción del escenario óptimo
+## 11. Paso 9: Construcción del escenario óptimo
 
 Una vez explorados los escenarios posibles, corresponde formular el escenario óptimo.
 
@@ -445,7 +445,7 @@ Debe relacionarse con:
 - Las capacidades institucionales.
 - Las condiciones de viabilidad.
 
-## 11.1. Preguntas para construir el escenario óptimo
+### 11.1. Preguntas para construir el escenario óptimo
 
 - ¿Qué tipo de territorio se desea construir?
 - ¿Qué condiciones deberían mejorar?
@@ -454,7 +454,7 @@ Debe relacionarse con:
 - ¿Qué conflictos deberían reducirse?
 - ¿Qué capacidades de gobernanza serían necesarias?
 
-## 11.2. Actividad del taller
+### 11.2. Actividad del taller
 
 **Producto: narrativa del escenario óptimo.**
 
@@ -479,7 +479,7 @@ Las condiciones deseadas deberán ser sustentadas y posteriormente traducidas en
 
 ---
 
-# 12. Organización del taller
+## 12. Organización del taller
 
 | Tiempo | Actividad | Producto |
 |---|---|---|
@@ -495,7 +495,7 @@ Los grupos completan las narrativas y representaciones espaciales como parte de 
 
 ---
 
-# 13. Productos que debe presentar cada grupo
+## 13. Productos que debe presentar cada grupo
 
 Al finalizar el taller, cada grupo deberá contar con:
 
@@ -510,7 +510,7 @@ Los productos deberán conservar continuidad con el diagnóstico elaborado en la
 
 ---
 
-# 14. Criterios para revisar los resultados
+## 14. Criterios para revisar los resultados
 
 Antes de entregar, cada grupo deberá verificar:
 
@@ -526,7 +526,7 @@ Un escenario no será mejor por ser más optimista o más complejo, sino por su 
 
 ---
 
-# 15. Reflexión final
+## 15. Reflexión final
 
 El análisis prospectivo permite pasar de la comprensión de las condiciones actuales a la exploración de futuros posibles.
 
@@ -546,7 +546,7 @@ La prospectiva territorial incorpora, además, incertidumbres, relaciones instit
 
 ---
 
-## Pregunta de cierre del taller
+### Pregunta de cierre del taller
 
 **Si el desarrollo del Puerto de Chancay abre diferentes trayectorias de transformación territorial, ¿qué capacidades públicas y colectivas serían necesarias para orientar esas trayectorias hacia un futuro deseable?**
 
