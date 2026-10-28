@@ -1,5 +1,5 @@
 ---
-title: "Fase 2: Análisis Prospectivo (chancay)'"
+title: "Fase 2: Análisis Prospectivo (chancay)"
 author: "Victor Peña Guillen, PhD"
 date: "October 27, 2026"
 output:
