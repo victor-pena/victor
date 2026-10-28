@@ -171,7 +171,7 @@ Las valoraciones del ejemplo son ilustrativas y deberán justificarse.
 
 ## 6. Paso 7: Identificación y selección de riesgos y oportunidades
 
-# 6.1. Riesgos
+## 6.1. Riesgos
 
 Son acontecimientos o condiciones inciertas que podrían generar consecuencias negativas sobre el desarrollo territorial.
 
@@ -183,7 +183,7 @@ Ejemplos para analizar:
 - Fragmentación de la expansión urbana.
 - Insuficiente coordinación institucional.
 
-# 6.2. Oportunidades
+## 6.2. Oportunidades
 
 Son circunstancias o posibilidades que podrían favorecer el aprovechamiento de capacidades territoriales y mejorar las condiciones de desarrollo.
 
@@ -199,7 +199,7 @@ Ejemplos:
 
 Por ejemplo, la valorización del suelo puede beneficiar a algunos propietarios, pero incrementar los costos de acceso para agricultores, residentes y nuevas empresas.
 
-# 6.3. Actividad del taller
+## 6.3. Actividad del taller
 
 **Producto: matriz de riesgos y oportunidades priorizados.**
 
