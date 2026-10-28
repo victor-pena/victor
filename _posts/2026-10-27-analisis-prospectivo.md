@@ -112,9 +112,9 @@ Los pasos 6 y 7 identifican los factores de cambio. El paso 8 explora sus consec
 
 ---
 
-# 5. Paso 6: Identificación y selección de tendencias
+## 5. Paso 6: Identificación y selección de tendencias
 
-## 5.1. ¿Qué es una tendencia?
+# 5.1. ¿Qué es una tendencia?
 
 Una tendencia es una dinámica de cambio observable que presenta cierta continuidad temporal y que puede influir en el comportamiento futuro de las variables estratégicas.
 
@@ -128,7 +128,7 @@ Las tendencias:
 
 Una tendencia no debe confundirse con un acontecimiento aislado ni con una intervención propuesta.
 
-## 5.2. Ejemplos de tendencias relacionadas con Chancay
+# 5.2. Ejemplos de tendencias relacionadas con Chancay
 
 | Dimensión | Tendencia que podría examinarse |
 |---|---|
@@ -141,7 +141,7 @@ Una tendencia no debe confundirse con un acontecimiento aislado ni con una inter
 
 Estos ejemplos son hipótesis de análisis. Cada grupo deberá comprobar su pertinencia con evidencia y fuentes.
 
-## 5.3. Actividad del taller
+# 5.3. Actividad del taller
 
 **Producto: lista priorizada de tendencias.**
 
@@ -169,9 +169,9 @@ Las valoraciones del ejemplo son ilustrativas y deberán justificarse.
 
 ---
 
-# 6. Paso 7: Identificación y selección de riesgos y oportunidades
+## 6. Paso 7: Identificación y selección de riesgos y oportunidades
 
-## 6.1. Riesgos
+# 6.1. Riesgos
 
 Son acontecimientos o condiciones inciertas que podrían generar consecuencias negativas sobre el desarrollo territorial.
 
@@ -183,7 +183,7 @@ Ejemplos para analizar:
 - Fragmentación de la expansión urbana.
 - Insuficiente coordinación institucional.
 
-## 6.2. Oportunidades
+# 6.2. Oportunidades
 
 Son circunstancias o posibilidades que podrían favorecer el aprovechamiento de capacidades territoriales y mejorar las condiciones de desarrollo.
 
@@ -199,7 +199,7 @@ Ejemplos:
 
 Por ejemplo, la valorización del suelo puede beneficiar a algunos propietarios, pero incrementar los costos de acceso para agricultores, residentes y nuevas empresas.
 
-## 6.3. Actividad del taller
+# 6.3. Actividad del taller
 
 **Producto: matriz de riesgos y oportunidades priorizados.**
 
@@ -481,19 +481,17 @@ Las condiciones deseadas deberán ser sustentadas y posteriormente traducidas en
 
 # 12. Organización del taller
 
-**Duración sugerida: 120 minutos**
-
 | Tiempo | Actividad | Producto |
 |---|---|---|
-| 15 min | Recuperación de variables estratégicas de Fase 1 | Variables seleccionadas |
-| 20 min | Paso 6: tendencias | Matriz 1 |
-| 20 min | Paso 7: riesgos y oportunidades | Matriz 2 |
-| 15 min | Agrupación temática y análisis de impactos | Matriz 3 |
-| 25 min | Construcción de escenarios y narrativas | Matriz 4 y croquis |
-| 15 min | Paso 9: escenario óptimo | Matriz 5 |
-| 10 min | Presentación y discusión | Resultados consolidados |
+| 1 | Recuperación de variables estratégicas de Fase 1 | Variables seleccionadas |
+| 2 | Paso 6: tendencias | Matriz 1 |
+| 3 | Paso 7: riesgos y oportunidades | Matriz 2 |
+| 4 | Agrupación temática y análisis de impactos | Matriz 3 |
+| 5 | Construcción de escenarios y narrativas | Matriz 4 y croquis |
+| 6 | Paso 9: escenario óptimo | Matriz 5 |
+| 7 | Presentación y discusión | Resultados consolidados |
 
-Si el tiempo resulta insuficiente, los grupos podrán completar las narrativas y representaciones espaciales como parte de su informe.
+Los grupos completan las narrativas y representaciones espaciales como parte de su informe.
 
 ---
 
