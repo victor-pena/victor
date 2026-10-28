@@ -1,5 +1,5 @@
 ---
-title: "The Recomposition of South American Space"
+title: "The recomposition of South American space"
 author: "Victor Peña Guillen, PhD"
 date: "October 27, 2026"
 output:
@@ -7,6 +7,8 @@ output:
 ---
 
 Chile imagines Antarctica as the ultimate fulfillment of its longitudinal geography. Argentina projects its sovereignty from the South Atlantic toward the Antarctic Peninsula. Peru possesses a different historical geography, it is that of a center capable of organizing relations across South America.
+
+There is a certain historical irony in watching the relatively young republics of Chile and Argentina project their territorial destinies toward Antarctica. Long before either appeared on the political map as an independent state, Lima was already administering much of the South American space from which they would eventually emerge. The newcomers dream of extending the map; the old viceregal center might rediscover the power of organizing what lies between its borders.
 
 The Viceroyalty of Peru once encompassed territories corresponding to present-day Chile, Argentina, Bolivia, Paraguay and Uruguay. **Lima** articulated an extensive system of mining centers, agricultural territories, administrative cities and maritime routes. Its power did not derive from uniform territorial occupation, but from organizing heterogeneous spaces through political and commercial networks.
 
