@@ -25,6 +25,7 @@ En este marco, el mencionado y requerido modelo hidrológico permitiría explora
 Esta perspectiva reconoce que la integración científica y tecnológica alcanzada por el proyecto CEFORAA[^1] constituye una etapa inicial de un programa de investigación interdisciplinaria cuya consolidación requerirá varios años de observación, modelamiento, experimentación y colaboración entre investigadores, instituciones públicas y actores territoriales.
 
 ---
+
 [^1]: Nota. CEFORAA es un proyecto de cooperación científica entre Perú y Japón, en el marco de SATREPS, orientado a la conservación y gestión sostenible de los ecosistemas forestales de montaña andino-amazónicos.
 
 Integra investigaciones sobre dinámica forestal, recursos hídricos, incendios y condiciones socioeconómicas mediante herramientas de modelamiento y simulación de escenarios territoriales.
