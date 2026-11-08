@@ -26,10 +26,6 @@ Esta perspectiva reconoce que la integración científica y tecnológica alcanza
 
 ---
 
-[^1]: Nota. CEFORAA es un proyecto de cooperación científica entre Perú y Japón, en el marco de SATREPS, orientado a la conservación y gestión sostenible de los ecosistemas forestales de montaña andino-amazónicos.
-
-Integra investigaciones sobre dinámica forestal, recursos hídricos, incendios y condiciones socioeconómicas mediante herramientas de modelamiento y simulación de escenarios territoriales.
-
-Busca fortalecer las capacidades científicas e institucionales para apoyar decisiones informadas sobre el uso del suelo y el manejo sostenible del paisaje.
+[^1]: Nota. CEFORAA es un proyecto de cooperación científica entre Perú y Japón, en el marco de SATREPS, orientado a la conservación y gestión sostenible de los ecosistemas forestales de montaña andino-amazónicos. Integra investigaciones sobre dinámica forestal, recursos hídricos, incendios y condiciones socioeconómicas mediante herramientas de modelamiento y simulación de escenarios territoriales. Busca fortalecer las capacidades científicas e institucionales para apoyar decisiones informadas sobre el uso del suelo y el manejo sostenible del paisaje.
 
 ---
