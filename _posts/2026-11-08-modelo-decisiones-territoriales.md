@@ -1,5 +1,5 @@
 ---
-title: "Un modelo de decisiones territoriales en las microcuencas"
+title: "Un modelo para las decisiones territoriales en las microcuencas"
 author: "Victor Peña Guillen, PhD"
 date: "November 3, 2026"
 output:
