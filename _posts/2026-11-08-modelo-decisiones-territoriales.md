@@ -30,3 +30,5 @@ Esta perspectiva reconoce que la integración científica y tecnológica alcanza
 Integra investigaciones sobre dinámica forestal, recursos hídricos, incendios y condiciones socioeconómicas mediante herramientas de modelamiento y simulación de escenarios territoriales.
 
 Busca fortalecer las capacidades científicas e institucionales para apoyar decisiones informadas sobre el uso del suelo y el manejo sostenible del paisaje.
+
+---
