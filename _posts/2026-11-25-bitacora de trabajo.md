@@ -1,5 +1,5 @@
 ---
-title: "análisis prospectivo y construcción del futuro deseado"
+title: "análisis prospectivo y construcción del futuro deseado 2"
 author: "Victor Peña Guillen, PhD"
 date: "November 25, 2026"
 output:
