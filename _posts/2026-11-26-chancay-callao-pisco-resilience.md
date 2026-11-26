@@ -1,5 +1,5 @@
 ---
-title: "The Chancay–Callao–Pisco system as a infrastructure of macroeconomic resilience"
+title: "The Chancay–Callao–Pisco infrastructure of macroeconomic resilience"
 author: "Victor Peña Guillen, PhD"
 date: "November 26, 2026"
 output:
