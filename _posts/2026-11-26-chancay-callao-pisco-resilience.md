@@ -16,6 +16,10 @@ In this context, the emergence of Chancay, Callao and Pisco as differentiated lo
 
 Chancay provides direct connectivity with Asian markets and opportunities for integrating Peru into transpacific supply chains. Callao concentrates established commercial, industrial and metropolitan logistics functions. Pisco combines port infrastructure, energy facilities, agro-industrial production and potential connectivity with southern mining territories.
 
+The ports of Chancay, Callao and Pisco are distributed along approximately 300 km of Peru’s central coastal corridor. Chancay lies about 80 km north of Callao, while Pisco’s General San Martín terminal is approximately 260 km south by road.
+
+This relative proximity creates opportunities for functional complementarity, cargo redistribution and coordinated logistics operations, while providing a degree of geographical redundancy against localized disruption.
+
 Their strategic value lies not exclusively in their individual competitiveness but in their potential functional complementarity.
 
 Traditional logistics planning prioritizes efficiency, specialization and cost reduction. However, an increasingly uncertain international environment demands additional criteria: geographical diversification, redundancy, adaptability and continuity of economic flows. Infrastructure capacity that appears redundant under normal conditions may become indispensable during periods of disruption.
