@@ -14,7 +14,7 @@ Monetary policy can moderate domestic demand and contain inflationary expectatio
 
 In this context, the emergence of Chancay, Callao and Pisco as differentiated logistics nodes offers an opportunity to rethink the spatial organization of Peru’s economy.
 
-Chancay provides direct connectivity with Asian markets and opportunities for integrating Peru into transpacific supply chains. Callao concentrates established commercial, industrial and metropolitan logistics functions. Pisco combines port infrastructure, energy facilities, agro-industrial production and potential connectivity with southern mining territories.
+Chancay (COSCO) provides direct connectivity with Asian markets and opportunities for integrating Peru into transpacific supply chains. Callao (DP World and APM Terminals) concentrates established commercial, industrial and metropolitan logistics functions. Pisco (MSC) combines port infrastructure, energy facilities, agro-industrial production and potential connectivity with southern mining territories.
 
 The ports of Chancay, Callao and Pisco are distributed along approximately 300 km of Peru’s central coastal corridor. Chancay lies about 80 km north of Callao, while Pisco’s General San Martín terminal is approximately 260 km south by road.
 
